@@ -4,21 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c4295f7f065172c2",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "dc5c7c7e86489984",
+        "id": "39d9ede760c268ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "2022年计划.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a6e0bf563f29e961",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -120,17 +124,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dc5c7c7e86489984",
+  "active": "39d9ede760c268ac",
   "lastOpenFiles": [
     "2022年计划.md",
     "Home.md",
+    "Recording 20220626122934.webm",
     "_Index_of_TFrose.md",
     "Excalidraw/Drawing 2022-06-26 12.09.48.excalidraw.md",
     "其他文档/github配置加速.md",
