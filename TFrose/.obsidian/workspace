@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "42812702851bd628",
+        "id": "eab4384afa1c95e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -58,6 +58,42 @@
             }
           }
         ]
+      },
+      {
+        "id": "57b5d081c8bd28b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017263581a03393a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a24fd757df071a15",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "28830387a89f657c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022年下半年计划.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,27 +147,18 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "28830387a89f657c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2022年下半年计划.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "42812702851bd628",
+  "active": "eab4384afa1c95e7",
   "lastOpenFiles": [
     "2022年下半年计划.md",
+    "Drawing 2022-06-26 16.35.44.excalidraw.md",
     "_Index_of_TFrose.md",
     "模板库/_Index_of_模板库.md",
     "模板库/模版1.md",
@@ -139,7 +166,6 @@
     "Day Planners/_Index_of_Day Planners.md",
     "Home.md",
     "2022年计划.md",
-    "Recording 20220626122934.webm",
-    "Excalidraw/Drawing 2022-06-26 12.09.48.excalidraw.md"
+    "Recording 20220626122934.webm"
   ]
 }
