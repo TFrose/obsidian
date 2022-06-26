@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "其他文档/github配置加速.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -104,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
