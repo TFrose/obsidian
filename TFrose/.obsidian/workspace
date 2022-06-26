@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "eab4384afa1c95e7",
+        "id": "b09eb1426b259055",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -155,9 +155,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eab4384afa1c95e7",
+  "active": "b09eb1426b259055",
   "lastOpenFiles": [
     "2022年下半年规划.md",
+    "assets/img/shiprock.jpg.md",
     "Drawing 2022-06-26 16.35.44.excalidraw.md",
     "_Index_of_TFrose.md",
     "模板库/_Index_of_模板库.md",
@@ -165,7 +166,6 @@
     "未命名.md",
     "Day Planners/_Index_of_Day Planners.md",
     "Home.md",
-    "2022年计划.md",
-    "Recording 20220626122934.webm"
+    "2022年计划.md"
   ]
 }
