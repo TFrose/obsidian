@@ -25,12 +25,11 @@
   "convert-url-to-iframe",
   "customizable-menu",
   "customizable-page-header-buttons",
-  "dataview",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "homepage",
   "obsidian-image-toolkit",
   "privacy-glasses",
   "recent-files-obsidian",
-  "zoottelkeeper-obsidian-plugin"
+  "zoottelkeeper-obsidian-plugin",
+  "obsidian-bartender"
 ]
