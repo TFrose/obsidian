@@ -3,5 +3,6 @@
   "legacyEditor": false,
   "fileSortOrder": "custom",
   "vimMode": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true
 }
