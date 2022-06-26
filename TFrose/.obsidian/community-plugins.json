@@ -17,5 +17,8 @@
   "discordian-plugin",
   "obsidian-collapse-all-plugin",
   "obsidian-vault-statistics-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "recent-files-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "convert-url-to-iframe"
 ]
