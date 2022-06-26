@@ -7,8 +7,12 @@
         "id": "42812702851bd628",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "模板库/模版1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "模板库/模版1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "模板库/模版1.md"
+              }
             }
           }
         ],
@@ -124,15 +131,15 @@
   },
   "active": "42812702851bd628",
   "lastOpenFiles": [
+    "模板库/模版1.md",
     "_Index_of_TFrose.md",
+    "未命名.md",
     "2022年下半年计划.md",
     "Day Planners/_Index_of_Day Planners.md",
     "Home.md",
     "2022年计划.md",
     "Recording 20220626122934.webm",
     "Excalidraw/Drawing 2022-06-26 12.09.48.excalidraw.md",
-    "其他文档/github配置加速.md",
-    "Python/自动化运维/未命名思维导图.md",
-    "Day Planners/Day Planner-20220623.md"
+    "其他文档/github配置加速.md"
   ]
 }
