@@ -18,7 +18,6 @@
   "obsidian-collapse-all-plugin",
   "obsidian-vault-statistics-plugin",
   "obsidian-git",
-  "number-headings-obsidian",
   "nldates-obsidian",
   "obsidian-advanced-uri",
   "buttons",
@@ -30,7 +29,7 @@
   "obsidian-image-toolkit",
   "privacy-glasses",
   "recent-files-obsidian",
-  "zoottelkeeper-obsidian-plugin",
   "obsidian-bartender",
-  "templater-obsidian"
+  "templater-obsidian",
+  "markdown-prettifier"
 ]
