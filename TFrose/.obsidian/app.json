@@ -1,5 +1,7 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "legacyEditor": false,
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
