@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他文档/github配置加速.md",
+            "file": "Mysql/Mysql安装.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他文档/github配置加速.md",
+                "file": "Mysql/Mysql安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +112,11 @@
   },
   "active": "a53b2ddcbfab94ee",
   "lastOpenFiles": [
+    "Mysql/Mysql安装.md",
+    "Mysql/Mysql数据库命令.md",
     "其他文档/github配置加速.md",
     "Python/自动化运维/未命名思维导图.md",
     "Day Planners/Day Planner-20220623.md",
-    "Mysql/Mysql数据库命令.md",
     "Day Planners/Day Planner-20220622.md"
   ]
 }
