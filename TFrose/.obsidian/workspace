@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mysql/Mysql安装.md",
+            "file": "Shell脚本/Shell脚本定义.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysql/Mysql安装.md"
+                "file": "Shell脚本/Shell脚本定义.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysql/Mysql安装.md",
+                "file": "Shell脚本/Shell脚本定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,14 +149,16 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321
   },
   "active": "b09eb1426b259055",
   "lastOpenFiles": [
+    "Shell脚本/Shell脚本定义.md",
+    "未命名.md",
     "Mysql/Mysql安装.md",
     "其他文档/github配置加速.md",
     "conflict-files-obsidian-git.md",
@@ -164,8 +166,6 @@
     "assets/img/shiprock.jpg.md",
     "Drawing 2022-06-26 16.35.44.excalidraw.md",
     "_Index_of_TFrose.md",
-    "模板库/_Index_of_模板库.md",
-    "模板库/模版1.md",
-    "未命名.md"
+    "模板库/_Index_of_模板库.md"
   ]
 }
