@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他文档/github配置加速.md",
+            "file": "Mysql/Mysql安装.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他文档/github配置加速.md"
+                "file": "Mysql/Mysql安装.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他文档/github配置加速.md",
+                "file": "Mysql/Mysql安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +157,7 @@
   },
   "active": "b09eb1426b259055",
   "lastOpenFiles": [
+    "Mysql/Mysql安装.md",
     "其他文档/github配置加速.md",
     "conflict-files-obsidian-git.md",
     "2022年下半年规划.md",
@@ -165,7 +166,6 @@
     "_Index_of_TFrose.md",
     "模板库/_Index_of_模板库.md",
     "模板库/模版1.md",
-    "未命名.md",
-    "Day Planners/_Index_of_Day Planners.md"
+    "未命名.md"
   ]
 }
