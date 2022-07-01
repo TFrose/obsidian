@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shell脚本/Shell脚本定义.md",
+            "file": "Shell脚本/Shell脚本运算符.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell脚本/Shell脚本定义.md"
+                "file": "Shell脚本/Shell脚本运算符.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell脚本/Shell脚本定义.md",
+                "file": "Shell脚本/Shell脚本运算符.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,8 @@
   },
   "active": "b09eb1426b259055",
   "lastOpenFiles": [
-    "Shell脚本/Shell脚本定义.md",
+    "Shell脚本/Shell脚本运算符.md",
+    "Shell脚本/Shell脚本变量.md",
     "未命名.md",
     "Mysql/Mysql安装.md",
     "其他文档/github配置加速.md",
@@ -165,7 +166,6 @@
     "2022年下半年规划.md",
     "assets/img/shiprock.jpg.md",
     "Drawing 2022-06-26 16.35.44.excalidraw.md",
-    "_Index_of_TFrose.md",
-    "模板库/_Index_of_模板库.md"
+    "_Index_of_TFrose.md"
   ]
 }
