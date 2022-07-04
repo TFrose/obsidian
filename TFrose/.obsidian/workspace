@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mysql/MySQL常用系统表.md",
+            "file": "Shell脚本/Mysql命令.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysql/MySQL常用系统表.md"
+                "file": "Shell脚本/Mysql命令.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysql/MySQL常用系统表.md",
+                "file": "Shell脚本/Mysql命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +157,15 @@
   },
   "active": "8f9671706e9e840c",
   "lastOpenFiles": [
+    "Shell脚本/Mysql命令.md",
+    "Pasted image 20220704110838.png",
+    "Pasted image 20220704111554.png",
+    "Mysql/未命名.md",
     "Mysql/MySQL常用系统表.md",
     "Excalidraw/Drawing 2022-07-04 11.15.46.excalidraw.md",
     "Mysql/Mysql安装--Linux.md",
     "Mysql/Mysql安装--Windows.md",
     "Day Planners/Day Planner-20220704.md",
-    "Day Planners/Day Planner-20220624.md",
-    "Day Planners/Day Planner-20220623.md",
-    "Day Planners/Day Planner-20220622.md",
-    "2022年下半年规划.md",
-    "Shell脚本/Shell脚本运算符.md"
+    "Day Planners/Day Planner-20220624.md"
   ]
 }
