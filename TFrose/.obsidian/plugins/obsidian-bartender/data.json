@@ -25,10 +25,10 @@
       "模板库"
     ],
     "Mysql": [
-      "Mysql/未命名.md",
       "Mysql/Mysql安装--Windows.md",
+      "Mysql/Mysql安装--Linux.md",
       "Mysql/MySQL常用系统表.md",
-      "Mysql/Mysql安装--Linux.md"
+      "Mysql/未命名.md"
     ]
   },
   "actionBarOrder": {},
