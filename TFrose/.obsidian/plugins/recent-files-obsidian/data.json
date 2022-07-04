@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mysql安装",
+      "path": "Mysql/Mysql安装.md"
+    },
+    {
       "basename": "Day Planner-20220704",
       "path": "Day Planners/Day Planner-20220704.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Shell脚本变量",
       "path": "Shell脚本/Shell脚本变量.md"
-    },
-    {
-      "basename": "Mysql安装",
-      "path": "Mysql/Mysql安装.md"
     },
     {
       "basename": "github配置加速",
