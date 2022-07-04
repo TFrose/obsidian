@@ -59,3 +59,94 @@ PERFORMANCE_SCHEMA这个功能默认是关闭的。需要设置参数： perform
 | columns_priv |                                    |
 | proc_priv  |                                    |
 
+## sys
+sys_config ： 这是在这个系统库上存在的唯一一个表
+
+**sys数据库表说明**
+```javascript
+CREATE TABLE `sys_config` (
+  `variable` varchar(128) NOT NULL,
+  `value` varchar(128) DEFAULT NULL,
+  `set_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `set_by` varchar(128) DEFAULT NULL,
+  PRIMARY KEY (`variable`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8
+```
+
+复制
+-   variable ： 配置选项名称
+-   value ： 配置选项值
+-   set_time ： 该行配置修改的时间
+-   set_by ： 该行配置信息修改者，如果从被安装没有修改过，那么这个数据应该为NULL
+
+![](https://ask.qcloudimg.com/http-save/yehe-1326774/zz93nwmx7e.png?imageView2/2/w/1620)
+
+以上值的会话变量为`@sys.`+表中variable字段,如：
+```javascript
+@sys.statement_truncate_len 
+```
+
+可以
+```javascript
+set @sys.statement_truncate_len = 32 
+```
+
+临时改变值，在会话中会一直使用这个值，如果想要恢复使用表的默认值，只需要将这个会话值设置为null
+```javascript
+set @sys.statement_truncate_len = null; 
+```
+
+- diagnostics.allow_i_s_tables
+默认为OFF ，如果开启表示允许diagnostics() 存储过程执行扫描information_schema.tables 表，如果表很多，那么可能会很耗性能
+
+- diagnostics.include_raw
+默认为OFF,开启将会从metrics 视图输出未加工处理的数据
+
+- statement_performance_analyzer.limit
+视图在没有加limit限制时，返回的最大行数
+
+- statement_truncate_len
+通过format_statement()函数返回值的最大长度
+
+- debug
+这个表非默认选项还有一个@sys.debug参数,可以手动加入
+```javascript
+INSERT INTO sys_config (variable, value) VALUES('debug', 'ON');
+UPDATE sys_config SET value = 'OFF' WHERE variable = 'debug';
+SET @sys.debug = NULL;
+```
+
+**关于此表有两个触发器**
+- sys_config_insert_set_user触发器
+如果加入新行通过insert语句，那么这个触发器会把set_by列设置为当前操作者
+
+- sys_config_update_set_user触发器
+如果加入新行通过update语句，那么这个触发器会把set_by列设置为当前操作者
+
+# MYSQL SHOW 命令
+| 命令+B25B13A3:B23                                     | 注释                                           |
+|-----------------------------------------------------|----------------------------------------------|
+| desc [table_name]                                   | 表信息                                          |
+| show columns from [table_name]                      | 表字段                                          |
+| describe [table_name]                               | 表信息                                          |
+| show create table [table_name]                      | 表创建语句                                        |
+| show create database [database_name]                | 显示数据库信息                                      |
+| show table status from [database_name]              | 数据库状态                                        |
+| show tables                                         | 显示当前数据库中所有表的名称                               |
+| show tables from [database_name]                    | 显示当前数据库中所有表的名称(同上)                           |
+| show databases                                      | 显示mysql中所有数据库的名称                             |
+| show processlist                                    | 显示系统中正在运行的所有进程，也就是当前正在执行的查询。                 |
+| show table status                                   | 显示当前使用或者指定的database中的每个表的信息。信息包括表类型和表的最新更新时间 |
+| show columns from [table_name] from [database_name] | 显示表中列名称                                      |
+| show grants for user_name@localhost                 | 显示一个用户的权限，显示结果类似于grant 命令                    |
+| show index from [table_name]                        | 显示表的索引                                       |
+| show status                                         | 显示一些系统特定资源的信息，例如，正在运行的线程数量                   |
+| show variables                                      | 显示系统变量的名称和值                                  |
+| show privileges                                     | 显示服务器所支持的不同权限                                |
+| show create database [database_name]                | 显示create database 语句是否能够创建指定的数据库             |
+| show create table [table_name]                      | 显示create database 语句是否能够创建指定的数据库             |
+| show engies                                         | 显示安装以后可用的存储引擎和默认引擎                           |
+| show innodb status                                  | 显示innoDB存储引擎的状态                              |
+| show logs                                           | 显示BDB存储引擎的日志                                 |
+| show warnings                                       | 显示最后一个执行的语句所产生的错误、警告和通知                      |
+| show errors                                         | 只显示最后一个执行语句所产生的错误                            |
