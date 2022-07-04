@@ -1,5 +1,10 @@
 ## MySQL5.7 默认模式
-
+| 库名                 | 表数量 | 视图数量 |
+|--------------------|-----|------|
+| information_schema | 61  | 0    |
+| mysql              | 32  | 0    |
+| performance_schema | 87  | 0    |
+| sys                | 1   | 100  |
 
 ## Information_schema
 Information_schema数据库是MySQL自带的，它提供了访问数据库元数据的方式。
@@ -11,7 +16,7 @@ Information_schema数据库是MySQL自带的，它提供了访问数据库元数
 **information_schema 数据库部分表说明**
 | 表名                                    | 注释                                                                                                                    |
 |---------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| SCHEMATA                              | 提供了当前mysql实例中所有数据库的信息。是show databases的结果取之此表                                                                          |
+| SCHEMATA                              | 提供了当前mysql实例中所有数据库的信息。show databases的结果取之此表                                                                          |
 | TABLES                                | 提供了关于数据库中的表的信息（包括视图）。详细表述了某个表属于哪个schema、表类型、表引擎、创建时间等信息。是show tables from schemaname的结果取之此表                           |
 | COLUMNS                               | 提供了表中的列信息。详细表述了某张表的所有列以及每个列的信息。是show columns from schemaname.tablename的结果取之此表                                         |
 | STATISTICS                            | 提供了关于表索引的信息。是show index from schemaname.tablename的结果取之此表                                                              |
@@ -27,3 +32,30 @@ Information_schema数据库是MySQL自带的，它提供了访问数据库元数
 | ROUTINES                              | 提供了关于存储子程序（存储程序和函数）的信息。此时，ROUTINES表不包含自定义函数（UDF）。名为“mysql.proc name”的列指明了对应于INFORMATION_SCHEMA.ROUTINES表的mysql.proc表列 |
 | VIEWS                                 | 给出了关于数据库中的视图的信息。需要有show views权限，否则无法查看视图信息                                                                            |
 | TRIGGERS                              | 提供了关于触发程序的信息。必须有super权限才能查看该表                                                                                         |
+
+## performance_schema
+PERFORMANCE_SCHEMA这个功能默认是关闭的。需要设置参数： performance_schema 才可以启动该功能，这个参数是静态参数，只能写在my.cnf 中 不能动态修改。
+| 表名                                | 注释                                                                                                             |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------|
+| setup_table                       | 设置表，配置监控选项                                                                                                     |
+| current_events_table              | 记录当前那些thread 正在发生什么事情                                                                                          |
+| history_table                     | 发生的各种事件的历史记录表                                                                                                  |
+| summary_table                     | 对各种事件的统计表                                                                                                      |
+| setup_consumers\setup_instruments | 描述各种事件, 设置哪些事件能够被收集                                                                                            |
+| setup_instruments                 | 描述这个数据库下的表名以及是否开启监控                                                                                            |
+| setup_timers                      | 描述监控选项已经采样频率的时间间隔                                                                                              |
+| threads                           | 监控服务器所有连接                                                                                                      |
+| performance_timers                | 设置一些监控信息, 指定mysql服务可用的监控周期，CYCLE表示按每秒检测2603393034次, 目前 performance-schema 只支持’wait’时间的监控，代码树上 wait/ 下的函数都可以监控到 |
+
+## mysql
+在mysql数据库中，有mysql_install_db脚本初始化权限表，存储权限的表
+**mysql数据库部分表说明**
+| 表名         | 注释                               |
+| ------------ | ---------------------------------- |
+| user         | 用户列、权限列、安全列、资源控制列 |
+| db           | 用户列、权限列                     |
+| host         |                                    |
+| table_priv   |                                    |
+| columns_priv |                                    |
+| proc_priv  |                                    |
+
