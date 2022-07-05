@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022年下半年规划.md",
+            "file": "Day Planners/Day Planner-20220705.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年下半年规划.md"
+                "file": "Day Planners/Day Planner-20220705.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "Day Planners/Day Planner-20220705.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +156,7 @@
   },
   "active": "8fb1bf2e6a5e055e",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220705.md",
     "2022年下半年规划.md",
     "Mysql/未命名.md",
     "Mysql/MySQL常用系统表.md",
@@ -164,7 +165,6 @@
     "Excalidraw/Drawing 2022-07-04 11.15.46.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Shell脚本/Shell脚本运算符.md",
-    "Shell脚本/Shell脚本变量.md",
-    "未命名.md"
+    "Shell脚本/Shell脚本变量.md"
   ]
 }
