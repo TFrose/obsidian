@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软考设计师/考试大纲.md",
+            "file": "Shell脚本/Shell脚本变量.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#：参数个数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "57b5d081c8bd28b6",
@@ -88,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考设计师/考试大纲.md"
+                "file": "Shell脚本/Shell脚本变量.md"
               }
             }
           }
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考设计师/考试大纲.md",
+                "file": "Shell脚本/Shell脚本变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +157,8 @@
   },
   "active": "8fb1bf2e6a5e055e",
   "lastOpenFiles": [
+    "Shell脚本/Shell脚本变量.md",
+    "Day Planners/Day Planner-20220707.md",
     "软考设计师/考试大纲.md",
     "Pasted image 20220705141153.png",
     "Pasted image 20220705141204.png",
@@ -163,8 +166,6 @@
     "2022年下半年规划.md",
     "Mysql/未命名.md",
     "Mysql/MySQL常用系统表.md",
-    "Mysql/Mysql安装--Linux.md",
-    "Day Planners/Day Planner-20220704.md",
-    "Excalidraw/Drawing 2022-07-04 11.15.46.excalidraw.md"
+    "Mysql/Mysql安装--Linux.md"
   ]
 }
