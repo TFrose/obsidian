@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shell脚本/Shell脚本变量.md",
+            "file": "软考设计师/考试大纲.md",
             "mode": "source",
             "source": false
           }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell脚本/Shell脚本变量.md"
+                "file": "软考设计师/考试大纲.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell脚本/Shell脚本变量.md",
+                "file": "软考设计师/考试大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +156,9 @@
   },
   "active": "8fb1bf2e6a5e055e",
   "lastOpenFiles": [
+    "软考设计师/考试大纲.md",
     "Shell脚本/Shell脚本变量.md",
     "Day Planners/Day Planner-20220707.md",
-    "软考设计师/考试大纲.md",
     "Pasted image 20220705141153.png",
     "Pasted image 20220705141204.png",
     "conflict-files-obsidian-git.md",
