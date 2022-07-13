@@ -5,6 +5,14 @@
       "path": "Day Planners/Day Planner-20220713.md"
     },
     {
+      "basename": "Mysql语句",
+      "path": "Mysql/Mysql语句.md"
+    },
+    {
+      "basename": "Mysql常用系统表",
+      "path": "Mysql/Mysql常用系统表.md"
+    },
+    {
       "basename": "Day Planner-20220712",
       "path": "Day Planners/Day Planner-20220712.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "2022年下半年规划",
       "path": "2022年下半年规划.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Mysql/未命名.md"
-    },
-    {
-      "basename": "MySQL常用系统表",
-      "path": "Mysql/MySQL常用系统表.md"
     },
     {
       "basename": "Mysql安装--Linux",
