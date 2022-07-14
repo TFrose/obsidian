@@ -7,9 +7,11 @@
         "id": "8fb1bf2e6a5e055e",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md"
+            "file": "软考设计师/考试大纲.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -88,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md"
+                "file": "软考设计师/考试大纲.md"
               }
             }
           }
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md",
+                "file": "软考设计师/考试大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +158,7 @@
   },
   "active": "8fb1bf2e6a5e055e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md",
     "模板库/模版1.md",
     "软考设计师/考试大纲.md",
     "Day Planners/Day Planner-20220713.md",
@@ -164,7 +167,6 @@
     "Mysql/Mysql常用系统表.md",
     "Day Planners/Day Planner-20220712.md",
     "Shell脚本/Shell脚本变量.md",
-    "Day Planners/Day Planner-20220707.md",
-    "Pasted image 20220705141153.png"
+    "Day Planners/Day Planner-20220707.md"
   ]
 }
