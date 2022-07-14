@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2022-07-14 17.01.44.excalidraw",
+      "path": "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md"
+    },
+    {
+      "basename": "模版1",
+      "path": "模板库/模版1.md"
+    },
+    {
+      "basename": "考试大纲",
+      "path": "软考设计师/考试大纲.md"
+    },
+    {
+      "basename": "Day Planner-20220713",
+      "path": "Day Planners/Day Planner-20220713.md"
+    },
+    {
+      "basename": "2022年下半年规划",
+      "path": "2022年下半年规划.md"
+    },
+    {
+      "basename": "Mysql语句",
+      "path": "Mysql/Mysql语句.md"
+    },
+    {
+      "basename": "Mysql常用系统表",
+      "path": "Mysql/Mysql常用系统表.md"
+    },
+    {
+      "basename": "Day Planner-20220712",
+      "path": "Day Planners/Day Planner-20220712.md"
+    },
+    {
       "basename": "Shell脚本变量",
       "path": "Shell脚本/Shell脚本变量.md"
     },
@@ -9,28 +41,12 @@
       "path": "Day Planners/Day Planner-20220707.md"
     },
     {
-      "basename": "考试大纲",
-      "path": "软考设计师/考试大纲.md"
-    },
-    {
       "basename": "Pasted image 20220705141153",
       "path": "Pasted image 20220705141153.png"
     },
     {
       "basename": "Pasted image 20220705141204",
       "path": "Pasted image 20220705141204.png"
-    },
-    {
-      "basename": "2022年下半年规划",
-      "path": "2022年下半年规划.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Mysql/未命名.md"
-    },
-    {
-      "basename": "MySQL常用系统表",
-      "path": "Mysql/MySQL常用系统表.md"
     },
     {
       "basename": "Mysql安装--Linux",
@@ -47,10 +63,6 @@
     {
       "basename": "github配置加速",
       "path": "其他文档/github配置加速.md"
-    },
-    {
-      "basename": "模版1",
-      "path": "模板库/模版1.md"
     }
   ],
   "omittedPaths": [],

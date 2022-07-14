@@ -7,11 +7,9 @@
         "id": "8fb1bf2e6a5e055e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Shell脚本/Shell脚本变量.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md"
           }
         }
       }
@@ -25,6 +23,7 @@
       {
         "id": "085d5fd4927b797d",
         "type": "tabs",
+        "dimension": 49.743589743589745,
         "children": [
           {
             "id": "9db199afadf39471",
@@ -62,6 +61,7 @@
       {
         "id": "57b5d081c8bd28b6",
         "type": "tabs",
+        "dimension": 50.256410256410255,
         "children": [
           {
             "id": "017263581a03393a",
@@ -88,11 +88,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell脚本/Shell脚本变量.md"
+                "file": "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell脚本/Shell脚本变量.md",
+                "file": "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,15 +156,15 @@
   },
   "active": "8fb1bf2e6a5e055e",
   "lastOpenFiles": [
+    "模板库/模版1.md",
+    "软考设计师/考试大纲.md",
+    "Day Planners/Day Planner-20220713.md",
+    "2022年下半年规划.md",
+    "Mysql/Mysql语句.md",
+    "Mysql/Mysql常用系统表.md",
+    "Day Planners/Day Planner-20220712.md",
     "Shell脚本/Shell脚本变量.md",
     "Day Planners/Day Planner-20220707.md",
-    "软考设计师/考试大纲.md",
-    "Pasted image 20220705141153.png",
-    "Pasted image 20220705141204.png",
-    "conflict-files-obsidian-git.md",
-    "2022年下半年规划.md",
-    "Mysql/未命名.md",
-    "Mysql/MySQL常用系统表.md",
-    "Mysql/Mysql安装--Linux.md"
+    "Pasted image 20220705141153.png"
   ]
 }
