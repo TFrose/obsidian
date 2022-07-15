@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Mysql安装--Linux",
+      "path": "Mysql/Mysql安装--Linux.md"
+    },
+    {
       "basename": "考试大纲",
       "path": "软考设计师/考试大纲.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "MySQL常用系统表",
       "path": "Mysql/MySQL常用系统表.md"
-    },
-    {
-      "basename": "Mysql安装--Linux",
-      "path": "Mysql/Mysql安装--Linux.md"
     },
     {
       "basename": "Day Planner-20220704",
