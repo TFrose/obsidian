@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/Python基础/python环境安装.md",
+            "file": "Python/Python基础/configure的使用.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python基础/python环境安装.md"
+                "file": "Python/Python基础/configure的使用.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python基础/python环境安装.md",
+                "file": "Python/Python基础/configure的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 137
   },
   "active": "8fb1bf2e6a5e055e",
   "lastOpenFiles": [
