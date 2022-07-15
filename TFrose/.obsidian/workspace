@@ -7,8 +7,12 @@
         "id": "8fb1bf2e6a5e055e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Python/Python基础/未命名.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -85,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Python/Python基础/未命名.md"
+              }
             }
           }
         ],
@@ -109,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Python/Python基础/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +127,15 @@
             }
           },
           {
-            "id": "d4643d3749455a00",
+            "id": "b1f13da6f1fc5463",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c0348e14f45c166",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -128,18 +143,10 @@
             }
           },
           {
-            "id": "0d7238d6488915e5",
+            "id": "a684cc9210245e39",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "b1f13da6f1fc5463",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
