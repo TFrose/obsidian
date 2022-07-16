@@ -7,12 +7,8 @@
         "id": "8fb1bf2e6a5e055e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Python/Python基础/configure的使用.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -44,7 +40,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -89,9 +85,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Python/Python基础/configure的使用.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -115,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python基础/configure的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +120,7 @@
             }
           },
           {
-            "id": "b1f13da6f1fc5463",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1c0348e14f45c166",
+            "id": "d4643d3749455a00",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -143,10 +128,18 @@
             }
           },
           {
-            "id": "a684cc9210245e39",
+            "id": "0d7238d6488915e5",
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1f13da6f1fc5463",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -154,11 +147,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 137
+    "width": 321
   },
-  "active": "8fb1bf2e6a5e055e",
+  "active": "ce6538fb0ef9464d",
   "lastOpenFiles": [
-    "Mysql/Mysql安装--Linux.md",
     "软考设计师/考试大纲.md",
     "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md",
     "模板库/模版1.md",
@@ -167,6 +159,7 @@
     "Mysql/Mysql语句.md",
     "Mysql/Mysql常用系统表.md",
     "Day Planners/Day Planner-20220712.md",
-    "Shell脚本/Shell脚本变量.md"
+    "Shell脚本/Shell脚本变量.md",
+    "Day Planners/Day Planner-20220707.md"
   ]
 }
