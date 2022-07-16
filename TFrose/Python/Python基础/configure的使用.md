@@ -1,3 +1,5 @@
+```
+```
 ## 安装
 源码的安装一般由3个步骤组成：配置(configure)、编译(make)、安装(make install)。
 - configure文件是一个可执行的脚本文件，它有很多选项，在待安装的源码目录下使用命令./configure –help可以输出详细的选项列表。
