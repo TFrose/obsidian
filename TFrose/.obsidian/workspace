@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb1bf2e6a5e055e",
+        "id": "c6eb90d4d2fbecbb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "软考设计师/考试大纲.md",
+            "file": "日记记录/2022-07-17.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考设计师/考试大纲.md"
+                "file": "日记记录/2022-07-17.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考设计师/考试大纲.md",
+                "file": "日记记录/2022-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +150,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 466.5
   },
-  "active": "ce6538fb0ef9464d",
+  "active": "a1f33156a6192451",
   "lastOpenFiles": [
+    "Day Planners/2022-07-17.md",
     "软考设计师/考试大纲.md",
     "Pasted image 20220705141153.png",
     "软考设计师/未命名.md",
@@ -166,7 +168,6 @@
     "2022年下半年规划.md",
     "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md",
     "模板库/模版1.md",
-    "Day Planners/Day Planner-20220713.md",
-    "Mysql/Mysql语句.md"
+    "Day Planners/Day Planner-20220713.md"
   ]
 }
