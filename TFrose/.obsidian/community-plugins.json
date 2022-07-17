@@ -32,5 +32,7 @@
   "templater-obsidian",
   "recent-files-obsidian",
   "obsidian-reading-time",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "ProxyGithub",
+  "dataview"
 ]
