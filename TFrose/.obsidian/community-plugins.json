@@ -33,6 +33,11 @@
   "recent-files-obsidian",
   "obsidian-reading-time",
   "obsidian-tasks-plugin",
-  "ProxyGithub",
-  "dataview"
+  "dataview",
+  "obsidian-auto-pair-chinese-symbol",
+  "obsidian-codemirror-options",
+  "obsidian-dictionary-plugin",
+  "obsidian-timelines",
+  "obsidian-annotator",
+  "remember-cursor-position"
 ]
