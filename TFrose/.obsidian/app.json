@@ -1,7 +1,7 @@
 {
   "promptDelete": true,
   "legacyEditor": false,
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "custom",
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": true
