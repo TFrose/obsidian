@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记记录/2022-07-18.md",
+            "file": "模板库/日记模版.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2022-07-18.md"
+                "file": "模板库/日记模版.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2022-07-18.md",
+                "file": "模板库/日记模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,9 +171,10 @@
     "direction": "horizontal",
     "width": 290
   },
-  "active": "3a9a57d37ade6c99",
+  "active": "108da4cbf6769089",
   "lastOpenFiles": [
     "日记记录/2022-07-18.md",
+    "日记记录/2022-07-17.md",
     "日记记录/2022-07-14.md",
     "模板库/日记模版.md",
     "模板库/模版1.md",
@@ -181,7 +182,6 @@
     "Pasted image 20220705141153.png",
     "Pasted image 20220705141204.png",
     "Day Planners/Day Planner-20220718.md",
-    "日记记录/2022-07-17.md",
     "Day Planners/2022-07-17.md"
   ]
 }
