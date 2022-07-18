@@ -17,12 +17,15 @@
   "fileExplorerOrder": {
     "/": [
       "2022年下半年规划.md",
+      "软考设计师",
+      "日记记录",
       "Day Planners",
+      "Python",
       "Shell脚本",
       "Mysql",
-      "Python",
-      "其他文档",
-      "模板库"
+      "模板库",
+      "Excalidraw",
+      "其他文档"
     ],
     "Mysql": [
       "Mysql/Mysql安装--Windows.md",
