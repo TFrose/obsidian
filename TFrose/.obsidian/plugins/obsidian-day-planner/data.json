@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "软考设计师/未命名.md",
+      "date": "Mon Jul 18 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 4
+}
