@@ -4,5 +4,7 @@
   "fileSortOrder": "custom",
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true
 }
