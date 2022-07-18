@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3a9a57d37ade6c99",
+        "id": "853a3bd13ee3433a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -171,17 +171,17 @@
     "direction": "horizontal",
     "width": 290
   },
-  "active": "3a9a57d37ade6c99",
+  "active": "853a3bd13ee3433a",
   "lastOpenFiles": [
     "Untitled.md",
-    "软考设计师/未命名.md",
+    "未命名.md",
     "模板库/日常文档.md",
+    "软考设计师/未命名.md",
     "模板库/日记模版.md",
     "日记记录/2022-07-18.md",
     "日记记录/2022-07-17.md",
     "日记记录/2022-07-14.md",
     "Pasted image 20220705141153.png",
-    "Pasted image 20220705141204.png",
-    "Day Planners/Day Planner-20220718.md"
+    "Pasted image 20220705141204.png"
   ]
 }
