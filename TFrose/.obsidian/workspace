@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日记记录/2022-07-17.md",
+            "file": "软考设计师/未命名.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2022-07-17.md"
+                "file": "软考设计师/未命名.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2022-07-17.md",
+                "file": "软考设计师/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +157,10 @@
     "direction": "horizontal",
     "width": 466.5
   },
-  "active": "ce6538fb0ef9464d",
+  "active": "c6eb90d4d2fbecbb",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20220718.md",
+    "日记记录/2022-07-17.md",
     "Day Planners/2022-07-17.md",
     "软考设计师/考试大纲.md",
     "Pasted image 20220705141153.png",
@@ -166,8 +168,6 @@
     "未命名.md",
     "Python/Python基础/configure的使用.md",
     "2022年下半年规划.md",
-    "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md",
-    "模板库/模版1.md",
-    "Day Planners/Day Planner-20220713.md"
+    "Excalidraw/Drawing 2022-07-14 17.01.44.excalidraw.md"
   ]
 }
