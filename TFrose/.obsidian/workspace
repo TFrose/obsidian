@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "模板库/日记模版.md",
+            "file": "模板库/笔记模版.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板库/日记模版.md"
+                "file": "模板库/笔记模版.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板库/日记模版.md",
+                "file": "模板库/笔记模版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,17 +157,17 @@
     "direction": "horizontal",
     "width": 187.5
   },
-  "active": "9db199afadf39471",
+  "active": "4f5dd4b100872aa7",
   "lastOpenFiles": [
-    "模板库/日常文档.md",
+    "未命名.md",
     "模板库/日记模版.md",
+    "模板库/日常文档.md",
     "sdfeww.md",
     "sdfs.md",
     "会议记录/水电费.md",
     "te.md",
     "mosdf.md",
     "日记记录/2022-07-14.md",
-    "日记记录/未命名.md",
-    "mett.md"
+    "日记记录/未命名.md"
   ]
 }
