@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "模板库/模版1.md",
+            "file": "模板库/日常文档.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板库/模版1.md"
+                "file": "模板库/日常文档.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板库/模版1.md",
+                "file": "模板库/日常文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,15 +173,15 @@
   },
   "active": "3a9a57d37ade6c99",
   "lastOpenFiles": [
+    "Untitled.md",
+    "软考设计师/未命名.md",
+    "模板库/日常文档.md",
     "模板库/日记模版.md",
-    "模板库/模版1.md",
     "日记记录/2022-07-18.md",
     "日记记录/2022-07-17.md",
     "日记记录/2022-07-14.md",
-    "软考设计师/未命名.md",
     "Pasted image 20220705141153.png",
     "Pasted image 20220705141204.png",
-    "Day Planners/Day Planner-20220718.md",
-    "Day Planners/2022-07-17.md"
+    "Day Planners/Day Planner-20220718.md"
   ]
 }
