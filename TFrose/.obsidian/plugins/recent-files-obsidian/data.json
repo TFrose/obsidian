@@ -9,14 +9,6 @@
       "path": "软考设计师/考试大纲.md"
     },
     {
-      "basename": "Pasted image 20220705141153",
-      "path": "Pasted image 20220705141153.png"
-    },
-    {
-      "basename": "未命名",
-      "path": "软考设计师/未命名.md"
-    },
-    {
       "basename": "configure的使用",
       "path": "Python/Python基础/configure的使用.md"
     },
@@ -33,10 +25,6 @@
       "path": "Day Planners/Day Planner-20220707.md"
     },
     {
-      "basename": "Pasted image 20220705141204",
-      "path": "Pasted image 20220705141204.png"
-    },
-    {
       "basename": "Mysql安装--Linux",
       "path": "Mysql/Mysql安装--Linux.md"
     },
@@ -51,10 +39,6 @@
     {
       "basename": "github配置加速",
       "path": "其他文档/github配置加速.md"
-    },
-    {
-      "basename": "模版1",
-      "path": "模板库/模版1.md"
     }
   ],
   "omittedPaths": [],
