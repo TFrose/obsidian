@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "日记记录",
-      "template": "模板库/日记模版.md"
+      "folder": "Day Planners",
+      "template": "模板库/工作记录.md"
     },
     {
-      "folder": "会议记录",
-      "template": "模板库/日常文档.md"
+      "folder": "日记记录",
+      "template": "模板库/日记模版.md"
     }
   ],
   "syntax_highlighting": true,
