@@ -1,7 +1,7 @@
 ---
 author: TFrose
-createtime: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-aliases: <% tp.file.title %>
+createtime: 2022-07-18 22:37
+aliases: sdfeww
 description:
 tags: [daily]
 ---
