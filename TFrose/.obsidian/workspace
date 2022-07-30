@@ -7,12 +7,8 @@
         "id": "853a3bd13ee3433a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Day Planners/2022-07-19.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,9 +85,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Day Planners/2022-07-19.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -114,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2022-07-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,17 +163,17 @@
     "direction": "horizontal",
     "width": 290
   },
-  "active": "853a3bd13ee3433a",
+  "active": "9db199afadf39471",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20220622.md",
-    "Day Planners/2022-07-19.md",
-    "日记记录/2022-07-14.md",
-    "模板库/工作记录.md",
     "模板库/日记模版.md",
-    "模板库/笔记模版.md",
     "conflict-files-obsidian-git.md",
-    "软考设计师/Pasted image 20220705141153.png",
+    "模板库/工作记录.md",
+    "模板库/笔记模版.md",
+    "日记记录/2022-07-30_周六.md",
     "软考设计师/考试大纲.md",
-    "软考设计师/Pasted image 20220705141204.png"
+    "Day Planners/2022-07-19.md",
+    "Day Planners/Day Planner-20220622.md",
+    "日记记录/2022-07-14.md",
+    "软考设计师/Pasted image 20220705141153.png"
   ]
 }
