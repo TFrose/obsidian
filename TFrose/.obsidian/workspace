@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5dd4b100872aa7",
+        "id": "853a3bd13ee3433a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,11 +153,11 @@
         "currentTab": 1
       },
       {
-        "id": "c28b2acbcfbb57f8",
+        "id": "b3d3fa1fb72a2789",
         "type": "tabs",
         "children": [
           {
-            "id": "1e78debaaead32fa",
+            "id": "108da4cbf6769089",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -169,19 +168,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 290
   },
-  "active": "4f5dd4b100872aa7",
+  "active": "853a3bd13ee3433a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "软考设计师/考试大纲.md",
     "Day Planners/2022-07-19.md",
     "模板库/笔记模版.md",
+=======
+>>>>>>> origin/master
     "conflict-files-obsidian-git.md",
-    "未命名.md",
     "模板库/日记模版.md",
+<<<<<<< HEAD
     "模板库/日常文档.md",
     "sdfeww.md",
     "sdfs.md",
     "会议记录/水电费.md"
+=======
+    "模板库/工作记录.md",
+    "模板库/笔记模版.md",
+    "日记记录/2022-07-30_周六.md",
+    "软考设计师/考试大纲.md",
+    "Day Planners/2022-07-19.md",
+    "Day Planners/Day Planner-20220622.md",
+    "日记记录/2022-07-14.md",
+    "软考设计师/Pasted image 20220705141153.png"
+>>>>>>> origin/master
   ]
 }
