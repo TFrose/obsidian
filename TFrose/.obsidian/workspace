@@ -7,8 +7,12 @@
         "id": "853a3bd13ee3433a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022年下半年规划.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -85,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022年下半年规划.md"
+              }
             }
           }
         ]
@@ -108,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022年下半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +170,10 @@
     "direction": "horizontal",
     "width": 290
   },
-  "active": "9db199afadf39471",
+  "active": "853a3bd13ee3433a",
   "lastOpenFiles": [
-    "模板库/日记模版.md",
     "conflict-files-obsidian-git.md",
+    "模板库/日记模版.md",
     "模板库/工作记录.md",
     "模板库/笔记模版.md",
     "日记记录/2022-07-30_周六.md",
