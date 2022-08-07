@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022年下半年规划.md",
+            "file": "软考设计师/考试大纲.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "软考设计师/考试大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年下半年规划.md"
+                "file": "软考设计师/考试大纲.md"
               }
             }
           },
@@ -142,5 +142,7 @@
     "collapsed": true
   },
   "active": "4a5ffc41e3319351",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2022年下半年规划.md"
+  ]
 }
