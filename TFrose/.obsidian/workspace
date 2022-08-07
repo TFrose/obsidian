@@ -7,8 +7,12 @@
         "id": "4a5ffc41e3319351",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022年下半年规划.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022年下半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022年下半年规划.md"
+              }
             }
           },
           {
@@ -133,6 +141,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "640e6e0403a97b2b",
+  "active": "4a5ffc41e3319351",
   "lastOpenFiles": []
 }
