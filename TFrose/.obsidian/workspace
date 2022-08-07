@@ -1,34 +1,37 @@
 {
   "main": {
-    "id": "4a52b9646dacdab0",
+    "id": "4f48d574257473d6",
     "type": "split",
     "children": [
       {
-        "id": "853a3bd13ee3433a",
+        "id": "4a5ffc41e3319351",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022年下半年规划.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5d257381285d54b4",
+    "id": "20b3500cc219be57",
     "type": "split",
     "children": [
       {
-        "id": "085d5fd4927b797d",
+        "id": "33b59a9dbd3c3383",
         "type": "tabs",
-        "dimension": 53.06532663316583,
         "children": [
           {
-            "id": "9db199afadf39471",
+            "id": "fa8e25a3ff5b0cd6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbb7091c5974add",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,12 +39,12 @@
             }
           },
           {
-            "id": "4644292552da657e",
+            "id": "ae9ff347ef7bd118",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,82 +54,29 @@
             }
           },
           {
-            "id": "ce6538fb0ef9464d",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "57b5d081c8bd28b6",
-        "type": "tabs",
-        "dimension": 46.934673366834176,
-        "children": [
-          {
-            "id": "017263581a03393a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "a24fd757df071a15",
+            "id": "b644b9022d95006e",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
-            }
-          },
-          {
-            "id": "28830387a89f657c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2022年下半年规划.md"
-              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 300
   },
   "right": {
-    "id": "6af8dd36af25e210",
+    "id": "72d7cd9c0ddcff48",
     "type": "split",
     "children": [
       {
-        "id": "46904706dfffb48b",
+        "id": "f2d5408196d03ae4",
         "type": "tabs",
         "children": [
           {
-            "id": "05d6c39dbceb14b5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2022年下半年规划.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d4643d3749455a00",
+            "id": "9419f04e15a5a4cf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -134,33 +84,45 @@
             }
           },
           {
-            "id": "b1f13da6f1fc5463",
+            "id": "9dafad2df68a9719",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbf1d085e2bfc724",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c35527b83481898",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           },
           {
-            "id": "a1f33156a6192451",
+            "id": "640e6e0403a97b2b",
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b3d3fa1fb72a2789",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "108da4cbf6769089",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
@@ -168,32 +130,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 300,
+    "collapsed": true
   },
-  "active": "853a3bd13ee3433a",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "软考设计师/考试大纲.md",
-    "Day Planners/2022-07-19.md",
-    "模板库/笔记模版.md",
-=======
->>>>>>> origin/master
-    "conflict-files-obsidian-git.md",
-    "模板库/日记模版.md",
-<<<<<<< HEAD
-    "模板库/日常文档.md",
-    "sdfeww.md",
-    "sdfs.md",
-    "会议记录/水电费.md"
-=======
-    "模板库/工作记录.md",
-    "模板库/笔记模版.md",
-    "日记记录/2022-07-30_周六.md",
-    "软考设计师/考试大纲.md",
-    "Day Planners/2022-07-19.md",
-    "Day Planners/Day Planner-20220622.md",
-    "日记记录/2022-07-14.md",
-    "软考设计师/Pasted image 20220705141153.png"
->>>>>>> origin/master
-  ]
+  "active": "640e6e0403a97b2b",
+  "lastOpenFiles": []
 }
