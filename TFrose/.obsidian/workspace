@@ -7,11 +7,9 @@
         "id": "4a5ffc41e3319351",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "2022年下半年规划.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/5G消息流程.md"
           }
         }
       }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "Excalidraw/5G消息流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年下半年规划.md"
+                "file": "Excalidraw/5G消息流程.md"
               }
             }
           },
@@ -143,7 +141,7 @@
   },
   "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
-    "软考设计师/考试大纲.md",
-    "2022年下半年规划.md"
+    "2022年下半年规划.md",
+    "软考设计师/考试大纲.md"
   ]
 }
