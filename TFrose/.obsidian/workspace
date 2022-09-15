@@ -37,7 +37,7 @@
       {
         "id": "085d5fd4927b797d",
         "type": "tabs",
-        "dimension": 53.06532663316583,
+        "dimension": 74.35897435897436,
         "children": [
           {
             "id": "9db199afadf39471",
@@ -75,7 +75,7 @@
       {
         "id": "57b5d081c8bd28b6",
         "type": "tabs",
-        "dimension": 46.934673366834176,
+        "dimension": 25.64102564102564,
         "children": [
           {
             "id": "017263581a03393a",
@@ -182,7 +182,7 @@
     "direction": "horizontal",
     "width": 290
   },
-  "active": "77c16b1ae7c5a9d9",
+  "active": "9db199afadf39471",
   "lastOpenFiles": [
     "日记记录/2022-07-30_周六.md",
     "conflict-files-obsidian-git.md",
