@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "57b5d081c8bd28b6",
@@ -170,7 +171,7 @@
     "direction": "horizontal",
     "width": 290
   },
-  "active": "853a3bd13ee3433a",
+  "active": "4644292552da657e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "日记记录/2022-07-30_周六.md",
