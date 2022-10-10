@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "abc.md",
+            "file": "日记记录/2022-10-11_周二.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "abc.md",
+                "file": "日记记录/2022-10-11_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "abc.md"
+                "file": "日记记录/2022-10-11_周二.md"
               }
             }
           },
@@ -148,7 +148,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fa8e25a3ff5b0cd6",
+  "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
     "日记记录/2022-10-09_周日.md",
     "docker和k8s/未命名.md",
