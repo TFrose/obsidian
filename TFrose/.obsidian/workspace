@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022年下半年规划.md",
+            "file": "abc.md",
             "mode": "source",
             "source": false
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "abc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年下半年规划.md"
+                "file": "abc.md"
               }
             }
           },
@@ -133,19 +133,28 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "e9336c15d3339dbd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
+    "日记记录/2022-10-09_周日.md",
     "docker和k8s/未命名.md",
-    "Excalidraw/5G消息流程.md",
+    "abc.md",
     "2022年下半年规划.md",
+    "Excalidraw/5G消息流程.md",
     "软考设计师/考试大纲.md"
   ]
 }
