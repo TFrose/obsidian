@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "legacyEditor": false,
   "fileSortOrder": "custom",
   "vimMode": false,
@@ -7,5 +7,5 @@
   "showLineNumber": true,
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "垃圾袋"
 }
