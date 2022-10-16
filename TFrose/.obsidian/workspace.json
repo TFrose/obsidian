@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "35f42b1f65016bd6",
+        "id": "460632a246303c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5ffc41e3319351",
+            "id": "bc87252383c7ce91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Day Planners/Day Planner-20220718.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c44a31a11bd78740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20221016.md",
-                "mode": "source",
-                "source": false
+                "file": "读书笔记/修心三不：不生气不计较不抱怨+(去梯言).pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,16 +36,6 @@
             "state": {
               "type": "recent-files",
               "state": {}
-            }
-          },
-          {
-            "id": "afbb7091c5974add",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "custom"
-              }
             }
           },
           {
@@ -85,9 +60,19 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ac268f65fd44eaf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -115,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20221016.md",
+                "file": "读书笔记/修心三不：不生气不计较不抱怨+(去梯言).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20221016.md"
+                "file": "读书笔记/修心三不：不生气不计较不抱怨+(去梯言).pdf"
               }
             }
           },
@@ -163,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,17 +157,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c44a31a11bd78740",
+  "active": "bc87252383c7ce91",
   "lastOpenFiles": [
+    "读书笔记/未命名.md",
+    "读书笔记/修心三不：不生气不计较不抱怨+(去梯言).pdf",
+    "Day Planners/Day Planner-20221016.md",
+    "Day Planners/未命名看板.md",
     "日记记录/2022-10-16_周日.md",
+    "Day Planners/Untitled.md",
+    "Day Planners/未命名.md",
     "Day Planners/Day Planner-20220718.md",
     "2022年下半年规划.md",
-    "Day Planners/Day Planner-20220622.md",
-    "Day Planners/2022-07-19.md",
-    "日记记录/2022-10-11_周二.md",
-    "abc.md",
-    "模板库/笔记模版.md",
-    "模板库/工作记录.md",
-    "模板库/日记模版.md"
+    "Day Planners/Day Planner-20220622.md"
   ]
 }

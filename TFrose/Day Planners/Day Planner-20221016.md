@@ -3,12 +3,14 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:58:56
+    %% Current Time: 11:28:39
     section Tasks
-    起床洗漱     :07-30, 0mm
+    吃饭     :11-30, 60mm
+    出门     :12-30, 0mm
     section Breaks
 
 ```
 
-- [x] 07:30 起床洗漱
-- [ ] 11
+- [ ] 11:30 吃饭
+- [ ] 12:30 出门
+- [ ] 

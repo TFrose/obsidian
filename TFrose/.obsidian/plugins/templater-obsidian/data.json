@@ -21,6 +21,10 @@
     {
       "folder": "日记记录",
       "template": "模板库/日记模版.md"
+    },
+    {
+      "folder": "/",
+      "template": "模板库/笔记模版.md"
     }
   ],
   "syntax_highlighting": true,
