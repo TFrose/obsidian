@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板库/工作记录.md",
-                "mode": "source",
+                "file": "Day Planners/Day Planner-20221016.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板库/工作记录.md",
+                "file": "Day Planners/Day Planner-20221016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板库/工作记录.md"
+                "file": "Day Planners/Day Planner-20221016.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "068a9f6dff067c47",
@@ -169,22 +169,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 1346.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bc87252383c7ce91",
+  "active": "e9336c15d3339dbd",
   "lastOpenFiles": [
-    "模板库/会议模版.md",
+    "2022年下半年规划.md",
     "模板库/工作记录.md",
+    "模板库/会议模版.md",
     "模板库/日记模版.md",
     "证书笔记/软考设计师/考试大纲.md",
     "知识库/docker和k8s/未命名.md",
     "Day Planners/Day Planner-20221016.md",
     "未命名.md",
     "Untitled.md",
-    "日记记录/2022-10-16_周日.md",
-    "模板库/笔记模版.md"
+    "日记记录/2022-10-16_周日.md"
   ]
 }
