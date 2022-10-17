@@ -11,11 +11,28 @@
             "id": "dec1ccaa9c14a8bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20221016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68bfef83bd05cc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/未命名.md"
+              }
             }
           },
           {
@@ -161,16 +181,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b9a92a031e02545d",
+  "active": "68bfef83bd05cc35",
   "lastOpenFiles": [
-    "日记记录/2022-10-17_周一.md",
-    "Day Planners/未命名.md",
     "Day Planners/Day Planner-20221016.md",
+    "Day Planners/未命名.md",
+    "日记记录/2022-10-17_周一.md",
     "日记记录/2022-10-16_周日.md",
     "2022年下半年规划.md",
     "垃圾袋/Pasted image 20220705141204.png",

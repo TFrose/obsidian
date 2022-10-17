@@ -7,5 +7,6 @@
   "showLineNumber": true,
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "垃圾袋"
+  "attachmentFolderPath": "垃圾袋",
+  "defaultViewMode": "source"
 }
