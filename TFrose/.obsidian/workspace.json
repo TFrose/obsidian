@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7e332d5a8f65bbd2",
+        "id": "9351046fccc59477",
         "type": "tabs",
         "children": [
           {
-            "id": "8e38c67325a4ee94",
+            "id": "dec1ccaa9c14a8bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Python/数据分析/Pandas.md",
-                "mode": "preview",
+                "file": "Day Planners/Day Planner-20221016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68bfef83bd05cc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/未命名.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "ab102fde80e102a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1590f1ce2e731e65",
-            "type": "leaf",
-            "state": {
-              "type": "media-view",
-              "state": {
-                "info": {
-                  "host": 1,
-                  "id": "BV1Ni4y1t7tf/",
-                  "src": "https://www.bilibili.com/video/BV1Ni4y1t7tf/?spm_id_from=333.999.0.0&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26",
-                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1Ni4y1t7tf/&high_quality=1&danmaku=0",
-                  "hash": ""
-                },
-                "currentTime": 94.123935
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/Python/数据分析/Pandas.md",
+                "file": "Day Planners/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/Python/数据分析/Pandas.md"
+                "file": "Day Planners/未命名.md"
               }
             }
           },
@@ -173,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "068a9f6dff067c47",
@@ -192,22 +181,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 236.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8e38c67325a4ee94",
+  "active": "68bfef83bd05cc35",
   "lastOpenFiles": [
-    "知识库/Python/数据分析/Pandas.md",
+    "Day Planners/Day Planner-20221016.md",
+    "Day Planners/未命名.md",
+    "日记记录/2022-10-17_周一.md",
+    "日记记录/2022-10-16_周日.md",
+    "2022年下半年规划.md",
     "垃圾袋/Pasted image 20220705141204.png",
     "垃圾袋/Pasted image 20220705141153.png",
-    "2022年下半年规划.md",
     "知识库/hadoop生态/大数据.md",
     "知识库/hadoop生态/未命名看板.md",
-    "日记记录/2022-10-16_周日.md",
-    "Day Planners/Day Planner-20221016.md",
-    "模板库/工作记录.md",
-    "模板库/会议模版.md"
+    "模板库/工作记录.md"
   ]
 }
