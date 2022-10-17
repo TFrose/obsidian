@@ -9,11 +9,15 @@
     {
       "notePath": "Day Planners/2022-07-19.md",
       "date": "Tue Jul 19 2022"
+    },
+    {
+      "notePath": "Day Planners/Day Planner-20221016.md",
+      "date": "Sun Oct 16 2022"
     }
   ],
   "completePastItems": true,
   "circularProgress": true,
   "nowAndNextInStatusBar": true,
-  "showTaskNotification": true,
+  "showTaskNotification": false,
   "timelineZoomLevel": 4
 }

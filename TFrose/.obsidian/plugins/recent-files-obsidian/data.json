@@ -5,44 +5,88 @@
       "path": "日记记录/2022-07-30_周六.md"
     },
     {
+<<<<<<< HEAD
       "basename": "日记模版",
       "path": "模板库/日记模版.md"
+=======
+      "basename": "大数据",
+      "path": "知识库/hadoop生态/大数据.md"
+    },
+    {
+      "basename": "2022-10-16_周日",
+      "path": "日记记录/2022-10-16_周日.md"
+    },
+    {
+      "basename": "Day Planner-20221016",
+      "path": "Day Planners/Day Planner-20221016.md"
+>>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
     },
     {
       "basename": "工作记录",
       "path": "模板库/工作记录.md"
     },
     {
+<<<<<<< HEAD
       "basename": "2022年下半年规划",
       "path": "2022年下半年规划.md"
+=======
+      "basename": "会议模版",
+      "path": "模板库/会议模版.md"
+    },
+    {
+      "basename": "日记模版",
+      "path": "模板库/日记模版.md"
+    },
+    {
+      "basename": "考试大纲",
+      "path": "证书笔记/软考设计师/考试大纲.md"
+>>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
     },
     {
       "basename": "笔记模版",
       "path": "模板库/笔记模版.md"
     },
     {
+<<<<<<< HEAD
       "basename": "考试大纲",
       "path": "软考设计师/考试大纲.md"
+=======
+      "basename": "2022-10-11_周二",
+      "path": "日记记录/2022-10-11_周二.md"
     },
     {
-      "basename": "2022-07-19",
-      "path": "Day Planners/2022-07-19.md"
+      "basename": "2022-10-09_周日",
+      "path": "日记记录/2022-10-09_周日.md"
+    },
+    {
+      "basename": "2022-07-30_周六",
+      "path": "日记记录/2022-07-30_周六.md"
+    },
+    {
+      "basename": "修心三不：不生气不计较不抱怨+(去梯言)",
+      "path": "读书笔记/修心三不：不生气不计较不抱怨+(去梯言).pdf"
+>>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
+    },
+    {
+      "basename": "未命名看板",
+      "path": "Day Planners/未命名看板.md"
+    },
+    {
+      "basename": "Day Planner-20220718",
+      "path": "Day Planners/Day Planner-20220718.md"
     },
     {
       "basename": "Day Planner-20220622",
       "path": "Day Planners/Day Planner-20220622.md"
     },
     {
-      "basename": "Pasted image 20220705141153",
-      "path": "软考设计师/Pasted image 20220705141153.png"
-    },
-    {
-      "basename": "Pasted image 20220705141204",
-      "path": "软考设计师/Pasted image 20220705141204.png"
+      "basename": "2022-07-19",
+      "path": "Day Planners/2022-07-19.md"
     },
     {
       "basename": "5G消息流程",
       "path": "Excalidraw/5G消息流程.md"
+<<<<<<< HEAD
     },
     {
       "basename": "configure的使用",
@@ -75,6 +119,8 @@
     {
       "basename": "github配置加速",
       "path": "其他文档/github配置加速.md"
+=======
+>>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
     }
   ],
   "omittedPaths": [],

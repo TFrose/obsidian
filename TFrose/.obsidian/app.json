@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "newFileLocation": "root",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "垃圾袋"
 }
