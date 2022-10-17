@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0c86fc9109121afc",
+        "id": "9351046fccc59477",
         "type": "tabs",
         "children": [
           {
-            "id": "e22a27fc1f0d7a83",
+            "id": "dec1ccaa9c14a8bd",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "垃圾袋/Pasted image 20220705141204.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -100,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "垃圾袋/Pasted image 20220705141204.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "垃圾袋/Pasted image 20220705141204.png"
-              }
+              "state": {}
             }
           },
           {
@@ -148,8 +143,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "068a9f6dff067c47",
@@ -172,17 +166,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e22a27fc1f0d7a83",
+  "active": "b9a92a031e02545d",
   "lastOpenFiles": [
-    "垃圾袋/Pasted image 20220705141153.png",
+    "日记记录/2022-10-17_周一.md",
+    "Day Planners/未命名.md",
+    "Day Planners/Day Planner-20221016.md",
+    "日记记录/2022-10-16_周日.md",
     "2022年下半年规划.md",
+    "垃圾袋/Pasted image 20220705141204.png",
+    "垃圾袋/Pasted image 20220705141153.png",
     "知识库/hadoop生态/大数据.md",
     "知识库/hadoop生态/未命名看板.md",
-    "日记记录/2022-10-16_周日.md",
-    "Day Planners/Day Planner-20221016.md",
-    "模板库/工作记录.md",
-    "模板库/会议模版.md",
-    "模板库/日记模版.md",
-    "证书笔记/软考设计师/考试大纲.md"
+    "模板库/工作记录.md"
   ]
 }
