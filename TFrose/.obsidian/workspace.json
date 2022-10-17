@@ -11,28 +11,13 @@
             "id": "e22a27fc1f0d7a83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2022年下半年规划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2839df605c52a75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "垃圾袋/Pasted image 20220705141204.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "垃圾袋/Pasted image 20220705141204.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "垃圾袋/Pasted image 20220705141204.png"
               }
             }
           },
@@ -187,8 +172,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2839df605c52a75d",
+  "active": "e22a27fc1f0d7a83",
   "lastOpenFiles": [
+    "垃圾袋/Pasted image 20220705141153.png",
     "2022年下半年规划.md",
     "知识库/hadoop生态/大数据.md",
     "知识库/hadoop生态/未命名看板.md",
@@ -197,7 +183,6 @@
     "模板库/工作记录.md",
     "模板库/会议模版.md",
     "模板库/日记模版.md",
-    "证书笔记/软考设计师/考试大纲.md",
-    "知识库/docker和k8s/未命名.md"
+    "证书笔记/软考设计师/考试大纲.md"
   ]
 }
