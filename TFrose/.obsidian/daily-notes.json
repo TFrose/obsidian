@@ -1,0 +1,5 @@
+{
+  "template": "模板库/日记模版",
+  "folder": "日记记录",
+  "format": "YYYY-MM-DD_ddd"
+}

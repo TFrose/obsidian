@@ -9,11 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "日记记录/2022-07-30_周六.md",
-=======
             "file": "日记记录/2022-10-11_周二.md",
->>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
             "mode": "source",
             "source": false
           }
@@ -29,10 +25,6 @@
       {
         "id": "33b59a9dbd3c3383",
         "type": "tabs",
-<<<<<<< HEAD
-        "dimension": 74.35897435897436,
-=======
->>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
         "children": [
           {
             "id": "fa8e25a3ff5b0cd6",
@@ -66,55 +58,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "ce6538fb0ef9464d",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "57b5d081c8bd28b6",
-        "type": "tabs",
-        "dimension": 25.64102564102564,
-        "children": [
-          {
-            "id": "017263581a03393a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "a24fd757df071a15",
-=======
             "id": "b644b9022d95006e",
->>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-<<<<<<< HEAD
-          },
-          {
-            "id": "28830387a89f657c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "日记记录/2022-07-30_周六.md"
-              }
-            }
-=======
->>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
           }
         ],
         "currentTab": 1
@@ -132,28 +81,7 @@
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "05d6c39dbceb14b5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "日记记录/2022-07-30_周六.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d4643d3749455a00",
-=======
             "id": "9419f04e15a5a4cf",
->>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -220,20 +148,6 @@
     "direction": "horizontal",
     "width": 300
   },
-<<<<<<< HEAD
-  "active": "ce6538fb0ef9464d",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "日记记录/2022-07-30_周六.md",
-    "模板库/日记模版.md",
-    "模板库/工作记录.md",
-    "2022年下半年规划.md",
-    "模板库/笔记模版.md",
-    "软考设计师/考试大纲.md",
-    "Day Planners/2022-07-19.md",
-    "Day Planners/Day Planner-20220622.md",
-    "日记记录/2022-07-14.md"
-=======
   "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
     "日记记录/2022-10-09_周日.md",
@@ -242,6 +156,5 @@
     "2022年下半年规划.md",
     "Excalidraw/5G消息流程.md",
     "软考设计师/考试大纲.md"
->>>>>>> 28d8c42dbb609a1ea1cc53371dc352c30737ffba
   ]
 }
