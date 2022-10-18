@@ -2,6 +2,7 @@
   "obsidian-kanban",
   "obsidian-mind-map",
   "media-extended",
+  "mx-bili-plugin",
   "note-refactor-obsidian",
   "obsidian-day-planner",
   "obsidian-enhancing-mindmap",
@@ -36,7 +37,5 @@
   "obsidian-codemirror-options",
   "obsidian-dictionary-plugin",
   "obsidian-timelines",
-  "obsidian-annotator",
-  "remember-cursor-position",
-  "mx-bili-plugin"
+  "obsidian-annotator"
 ]
