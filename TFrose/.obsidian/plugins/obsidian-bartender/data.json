@@ -44,6 +44,10 @@
       "知识库/Mysql/MySQL常用系统表.md",
       "知识库/Mysql/Mysql安装--Linux.md",
       "知识库/Mysql/Mysql语句.md"
+    ],
+    "知识库/Python/Python基础": [
+      "知识库/Python/Python基础/configure的使用.md",
+      "知识库/Python/Python基础/未命名.md"
     ]
   },
   "actionBarOrder": {},
