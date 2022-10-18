@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9351046fccc59477",
+        "id": "1f5fe7286fe629df",
         "type": "tabs",
         "children": [
           {
-            "id": "dec1ccaa9c14a8bd",
+            "id": "845689100318c073",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20221016.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68bfef83bd05cc35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +169,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68bfef83bd05cc35",
+  "active": "b9a92a031e02545d",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20221016.md",
     "Day Planners/未命名.md",
