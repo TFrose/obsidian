@@ -16,3 +16,7 @@ tags: [python教程,学习方向]
 
 ## 3.python安装
 [3.Python开发环境的安装_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=4&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26)
+
+## 4.pycharm安装
+[4.集成开发环境Pycharm的安装及设置模板_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=5&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26)
+
