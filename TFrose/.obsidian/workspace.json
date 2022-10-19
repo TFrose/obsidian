@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb43a0302b0b289",
+        "id": "4880c3de6bfbb965",
         "type": "tabs",
         "children": [
           {
-            "id": "b8dd459402c673a9",
+            "id": "2a2dbad34626b4fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,6 +16,29 @@
                 "file": "知识库/Python/Python基础/Python教程.md",
                 "mode": "preview",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4b6f71c8637e7d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "812f2a7c1a1f1c60",
+            "type": "leaf",
+            "state": {
+              "type": "media-view",
+              "state": {
+                "info": {
+                  "host": 1,
+                  "id": "BV1wD4y1o7AS/",
+                  "src": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=4&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26",
+                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1wD4y1o7AS/&page=4&high_quality=1&danmaku=0",
+                  "hash": ""
+                },
+                "currentTime": 232.009461
               }
             }
           }
@@ -102,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/Python/Python基础/Python教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知识库/Python/Python基础/Python教程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,22 +189,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 200,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b8dd459402c673a9",
+  "active": "812f2a7c1a1f1c60",
   "lastOpenFiles": [
     "知识库/Python/Python基础/Python教程.md",
+    "Day Planners/未命名.md",
     "Day Planners/Day Planner-20221016.md",
+    "20201103.md",
     "知识库/Python/Python基础/configure的使用.md",
     "知识库/Python/数据分析/Pandas.md",
     "conflict-files-obsidian-git.md",
-    "Day Planners/未命名.md",
     "日记记录/2022-10-17_周一.md",
     "日记记录/2022-10-16_周日.md",
-    "2022年下半年规划.md",
-    "垃圾袋/Pasted image 20220705141204.png"
+    "2022年下半年规划.md"
   ]
 }
