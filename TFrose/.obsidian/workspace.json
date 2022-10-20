@@ -12,12 +12,8 @@
             "id": "9b4d0f3f6917c0b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/Python/Python基础/Python简介.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             },
             "group": "9306d58ad8e64a3b"
           }
@@ -45,8 +41,19 @@
               }
             },
             "group": "9306d58ad8e64a3b"
+          },
+          {
+            "id": "29cbec6e677b6926",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +205,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c53708876d1c97f3",
+  "active": "29cbec6e677b6926",
   "lastOpenFiles": [
     "知识库/Python/Python基础/Python简介.md",
     "Day Planners/未命名.md",
