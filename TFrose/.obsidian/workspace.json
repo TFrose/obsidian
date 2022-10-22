@@ -12,8 +12,12 @@
             "id": "9b4d0f3f6917c0b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知识库/Python/Python基础/Python简介.md",
+                "mode": "preview",
+                "source": false
+              }
             },
             "group": "9306d58ad8e64a3b"
           }
@@ -41,19 +45,8 @@
               }
             },
             "group": "9306d58ad8e64a3b"
-          },
-          {
-            "id": "29cbec6e677b6926",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识库/Python/Python基础/Python简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识库/Python/Python基础/Python简介.md"
+              }
             }
           },
           {
@@ -205,7 +201,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "29cbec6e677b6926",
+  "active": "9b4d0f3f6917c0b8",
   "lastOpenFiles": [
     "知识库/Python/Python基础/Python简介.md",
     "Day Planners/未命名.md",
