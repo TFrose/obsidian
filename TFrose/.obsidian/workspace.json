@@ -6,7 +6,6 @@
       {
         "id": "775a6d0831932354",
         "type": "tabs",
-        "dimension": 37.64705882352941,
         "children": [
           {
             "id": "9b4d0f3f6917c0b8",
@@ -18,33 +17,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "9306d58ad8e64a3b"
-          }
-        ]
-      },
-      {
-        "id": "8f75b40c6d961bdb",
-        "type": "tabs",
-        "dimension": 62.35294117647059,
-        "children": [
-          {
-            "id": "c53708876d1c97f3",
-            "type": "leaf",
-            "state": {
-              "type": "media-view",
-              "state": {
-                "info": {
-                  "host": 1,
-                  "id": "BV1wD4y1o7AS/",
-                  "src": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=6&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26",
-                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1wD4y1o7AS/&page=6&high_quality=1&danmaku=0",
-                  "hash": ""
-                },
-                "currentTime": 219.726985
-              }
-            },
-            "group": "9306d58ad8e64a3b"
+            }
           }
         ]
       }
