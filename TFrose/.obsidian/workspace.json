@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Python/Python基础/第二章 标识符与变量.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d57796fd59ca633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记记录/2022-10-17_周一.md",
+                "file": "2022年下半年规划.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2022-10-17_周一.md",
+                "file": "2022年下半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2022-10-17_周一.md"
+                "file": "2022年下半年规划.md"
               }
             }
           },
@@ -183,17 +170,17 @@
     "direction": "horizontal",
     "width": 368.5
   },
-  "active": "9419f04e15a5a4cf",
+  "active": "9b4d0f3f6917c0b8",
   "lastOpenFiles": [
+    "知识库/Python/Python基础/第二章 标识符与变量.md",
     "Day Planners/未命名.md",
+    "读书笔记/易经真的很容易.pdf",
+    "日记记录/2022-10-17_周一.md",
     "Day Planners/Day Planner-20221016.md",
     "知识库/Tableau/Tableau了解.md",
-    "知识库/Python/Python基础/第二章 标识符与变量.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
     "20201103.md",
     "知识库/Python/Python基础/configure的使用.md",
-    "知识库/Python/数据分析/Pandas.md",
-    "conflict-files-obsidian-git.md",
-    "日记记录/2022-10-17_周一.md"
+    "知识库/Python/数据分析/Pandas.md"
   ]
 }
