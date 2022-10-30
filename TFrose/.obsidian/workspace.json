@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Tableau/Tableau了解.md",
+                "file": "日记记录/2022-10-17_周一.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3b8e4e59d9d58d1f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/Tableau/Tableau了解.md",
+                "file": "日记记录/2022-10-17_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/Tableau/Tableau了解.md"
+                "file": "日记记录/2022-10-17_周一.md"
               }
             }
           },
@@ -173,8 +163,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "068a9f6dff067c47",
@@ -194,17 +183,17 @@
     "direction": "horizontal",
     "width": 368.5
   },
-  "active": "3b8e4e59d9d58d1f",
+  "active": "9419f04e15a5a4cf",
   "lastOpenFiles": [
-    "知识库/Python/Python基础/第二章 标识符与变量.md",
-    "知识库/Python/Python基础/第一章 Python简介.md",
     "Day Planners/未命名.md",
     "Day Planners/Day Planner-20221016.md",
+    "知识库/Tableau/Tableau了解.md",
+    "知识库/Python/Python基础/第二章 标识符与变量.md",
+    "知识库/Python/Python基础/第一章 Python简介.md",
     "20201103.md",
     "知识库/Python/Python基础/configure的使用.md",
     "知识库/Python/数据分析/Pandas.md",
     "conflict-files-obsidian-git.md",
-    "日记记录/2022-10-17_周一.md",
-    "日记记录/2022-10-16_周日.md"
+    "日记记录/2022-10-17_周一.md"
   ]
 }
