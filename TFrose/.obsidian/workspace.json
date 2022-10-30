@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b8e4e59d9d58d1f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +194,7 @@
     "direction": "horizontal",
     "width": 368.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4d57796fd59ca633",
+  "active": "3b8e4e59d9d58d1f",
   "lastOpenFiles": [
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
