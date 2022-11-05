@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "知识库/Tableau/Tableau了解.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "知识库/Tableau/Tableau了解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年下半年规划.md"
+                "file": "知识库/Tableau/Tableau了解.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "9b4d0f3f6917c0b8",
   "lastOpenFiles": [
+    "2022年下半年规划.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "Day Planners/未命名.md",
     "读书笔记/易经真的很容易.pdf",
@@ -180,7 +181,6 @@
     "知识库/Tableau/Tableau了解.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
     "20201103.md",
-    "知识库/Python/Python基础/configure的使用.md",
-    "知识库/Python/数据分析/Pandas.md"
+    "知识库/Python/Python基础/configure的使用.md"
   ]
 }
