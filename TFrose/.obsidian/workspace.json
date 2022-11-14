@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "34b75ae3f99efe46",
+        "id": "775a6d0831932354",
         "type": "tabs",
         "children": [
           {
-            "id": "edf833d9d8d100ef",
+            "id": "9b4d0f3f6917c0b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "读书笔记/易经真的很容易.pdf"
+              }
             }
           }
         ]
@@ -98,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "读书笔记/易经真的很容易.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "读书笔记/易经真的很容易.pdf"
+              }
             }
           },
           {
@@ -163,15 +168,15 @@
     "direction": "horizontal",
     "width": 368.5
   },
-  "active": "edf833d9d8d100ef",
+  "active": "9b4d0f3f6917c0b8",
   "lastOpenFiles": [
-    "读书笔记/易经真的很容易.pdf",
+    "知识库/Tableau/Tableau了解.md",
     "2022年下半年规划.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "Day Planners/未命名.md",
+    "读书笔记/易经真的很容易.pdf",
     "日记记录/2022-10-17_周一.md",
     "Day Planners/Day Planner-20221016.md",
-    "知识库/Tableau/Tableau了解.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
     "20201103.md",
     "知识库/Python/Python基础/configure的使用.md"
