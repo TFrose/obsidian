@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "775a6d0831932354",
+        "id": "e7fced557f985a05",
         "type": "tabs",
         "children": [
           {
-            "id": "9b4d0f3f6917c0b8",
+            "id": "6d01d6a0abd5d28a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "读书笔记/易经真的很容易.pdf"
+                "file": "知识库/Python/Python基础/第二章 标识符与变量.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -39,6 +41,16 @@
             }
           },
           {
+            "id": "afbb7091c5974add",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
             "id": "ae9ff347ef7bd118",
             "type": "leaf",
             "state": {
@@ -60,19 +72,9 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "b9a92a031e02545d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "custom"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/易经真的很容易.pdf",
+                "file": "知识库/Python/Python基础/第二章 标识符与变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/易经真的很容易.pdf"
+                "file": "知识库/Python/Python基础/第二章 标识符与变量.md"
               }
             }
           },
@@ -149,36 +151,22 @@
             }
           }
         ]
-      },
-      {
-        "id": "068a9f6dff067c47",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5a8f06bd2c95e6f5",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 300
   },
-  "active": "9b4d0f3f6917c0b8",
+  "active": "6d01d6a0abd5d28a",
   "lastOpenFiles": [
-    "知识库/Tableau/Tableau了解.md",
-    "2022年下半年规划.md",
-    "知识库/Python/Python基础/第二章 标识符与变量.md",
-    "Day Planners/未命名.md",
-    "读书笔记/易经真的很容易.pdf",
-    "日记记录/2022-10-17_周一.md",
-    "Day Planners/Day Planner-20221016.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
-    "20201103.md",
-    "知识库/Python/Python基础/configure的使用.md"
+    "知识库/Tableau/Tableau了解.md",
+    "conflict-files-obsidian-git.md",
+    "日记记录/2022-10-11_周二.md",
+    "日记记录/2022-10-09_周日.md",
+    "docker和k8s/未命名.md",
+    "abc.md",
+    "2022年下半年规划.md",
+    "Excalidraw/5G消息流程.md",
+    "软考设计师/考试大纲.md"
   ]
 }
