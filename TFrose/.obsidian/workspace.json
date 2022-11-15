@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "008f8cc853ca1e4c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/docker和k8s/初识docker.md",
+                "file": "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/docker和k8s/初识docker.md"
+                "file": "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md"
               }
             }
           },
@@ -157,17 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cc7a9a1407b5946d",
+  "active": "008f8cc853ca1e4c",
   "lastOpenFiles": [
-    "知识库/docker和k8s/docker镜像构建.md",
     "知识库/docker和k8s/初识docker.md",
+    "知识库/docker和k8s/docker镜像构建.md",
+    "知识库/docker和k8s/安装k8s.md",
     "知识库/hadoop生态/大数据.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
     "知识库/Tableau/Tableau了解.md",
     "conflict-files-obsidian-git.md",
     "日记记录/2022-10-11_周二.md",
-    "日记记录/2022-10-09_周日.md",
-    "docker和k8s/未命名.md"
+    "日记记录/2022-10-09_周日.md"
   ]
 }

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2022-11-15 17.37.38.excalidraw",
+      "path": "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md"
+    },
+    {
       "basename": "初识docker",
       "path": "知识库/docker和k8s/初识docker.md"
     },
     {
       "basename": "docker镜像构建",
       "path": "知识库/docker和k8s/docker镜像构建.md"
+    },
+    {
+      "basename": "安装k8s",
+      "path": "知识库/docker和k8s/安装k8s.md"
     },
     {
       "basename": "大数据",
