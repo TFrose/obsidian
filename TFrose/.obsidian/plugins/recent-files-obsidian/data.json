@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "docker镜像构建",
-      "path": "知识库/docker和k8s/docker镜像构建.md"
-    },
-    {
       "basename": "初识docker",
       "path": "知识库/docker和k8s/初识docker.md"
+    },
+    {
+      "basename": "docker镜像构建",
+      "path": "知识库/docker和k8s/docker镜像构建.md"
     },
     {
       "basename": "大数据",
