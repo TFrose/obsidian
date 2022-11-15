@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0705081efa84d9ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知识库/docker和k8s/初识docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +157,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0705081efa84d9ce",
+  "active": "cc7a9a1407b5946d",
   "lastOpenFiles": [
     "知识库/docker和k8s/docker镜像构建.md",
     "知识库/docker和k8s/初识docker.md",
