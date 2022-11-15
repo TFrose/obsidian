@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d01d6a0abd5d28a",
+            "id": "cc7a9a1407b5946d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/hadoop生态/大数据.md",
+                "file": "知识库/docker和k8s/初识docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0705081efa84d9ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/docker和k8s/docker镜像构建.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/hadoop生态/大数据.md",
+                "file": "知识库/docker和k8s/docker镜像构建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/hadoop生态/大数据.md"
+                "file": "知识库/docker和k8s/docker镜像构建.md"
               }
             }
           },
@@ -150,23 +163,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6d01d6a0abd5d28a",
+  "active": "0705081efa84d9ce",
   "lastOpenFiles": [
+    "知识库/docker和k8s/初识docker.md",
+    "知识库/hadoop生态/大数据.md",
+    "知识库/docker和k8s/docker镜像构建.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
     "知识库/Tableau/Tableau了解.md",
     "conflict-files-obsidian-git.md",
     "日记记录/2022-10-11_周二.md",
     "日记记录/2022-10-09_周日.md",
-    "docker和k8s/未命名.md",
-    "abc.md",
-    "2022年下半年规划.md",
-    "Excalidraw/5G消息流程.md"
+    "docker和k8s/未命名.md"
   ]
 }
