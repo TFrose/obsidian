@@ -1,112 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2022年下半年规划",
-      "path": "2022年下半年规划.md"
-    },
-    {
-      "basename": "易经真的很容易",
-      "path": "读书笔记/易经真的很容易.pdf"
-    },
-    {
-      "basename": "Tableau了解",
-      "path": "知识库/Tableau/Tableau了解.md"
+      "basename": "大数据",
+      "path": "知识库/hadoop生态/大数据.md"
     },
     {
       "basename": "第二章 标识符与变量",
       "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
     },
     {
-      "basename": "2022-10-17_周一",
-      "path": "日记记录/2022-10-17_周一.md"
-    },
-    {
-      "basename": "Day Planner-20221016",
-      "path": "Day Planners/Day Planner-20221016.md"
-    },
-    {
       "basename": "第一章 Python简介",
       "path": "知识库/Python/Python基础/第一章 Python简介.md"
     },
     {
-      "basename": "configure的使用",
-      "path": "知识库/Python/Python基础/configure的使用.md"
-    },
-    {
-      "basename": "Pandas",
-      "path": "知识库/Python/数据分析/Pandas.md"
-    },
-    {
-      "basename": "2022-10-16_周日",
-      "path": "日记记录/2022-10-16_周日.md"
-    },
-    {
-      "basename": "Pasted image 20220705141204",
-      "path": "垃圾袋/Pasted image 20220705141204.png"
-    },
-    {
-      "basename": "Pasted image 20220705141153",
-      "path": "垃圾袋/Pasted image 20220705141153.png"
-    },
-    {
-      "basename": "大数据",
-      "path": "知识库/hadoop生态/大数据.md"
-    },
-    {
-      "basename": "工作记录",
-      "path": "模板库/工作记录.md"
-    },
-    {
-      "basename": "会议模版",
-      "path": "模板库/会议模版.md"
-    },
-    {
-      "basename": "日记模版",
-      "path": "模板库/日记模版.md"
-    },
-    {
-      "basename": "考试大纲",
-      "path": "证书笔记/软考设计师/考试大纲.md"
-    },
-    {
-      "basename": "笔记模版",
-      "path": "模板库/笔记模版.md"
+      "basename": "Tableau了解",
+      "path": "知识库/Tableau/Tableau了解.md"
     },
     {
       "basename": "2022-10-11_周二",
       "path": "日记记录/2022-10-11_周二.md"
-    },
-    {
-      "basename": "2022-10-09_周日",
-      "path": "日记记录/2022-10-09_周日.md"
-    },
-    {
-      "basename": "2022-07-30_周六",
-      "path": "日记记录/2022-07-30_周六.md"
-    },
-    {
-      "basename": "修心三不：不生气不计较不抱怨+(去梯言)",
-      "path": "读书笔记/修心三不：不生气不计较不抱怨+(去梯言).pdf"
-    },
-    {
-      "basename": "未命名看板",
-      "path": "Day Planners/未命名看板.md"
-    },
-    {
-      "basename": "Day Planner-20220718",
-      "path": "Day Planners/Day Planner-20220718.md"
-    },
-    {
-      "basename": "Day Planner-20220622",
-      "path": "Day Planners/Day Planner-20220622.md"
-    },
-    {
-      "basename": "2022-07-19",
-      "path": "Day Planners/2022-07-19.md"
-    },
-    {
-      "basename": "5G消息流程",
-      "path": "Excalidraw/5G消息流程.md"
     }
   ],
   "omittedPaths": [],
