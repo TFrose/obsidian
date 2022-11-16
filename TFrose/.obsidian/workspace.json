@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "知识库/docker和k8s/初识docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "知识库/docker和k8s/初识docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年下半年规划.md"
+                "file": "知识库/docker和k8s/初识docker.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "008f8cc853ca1e4c",
   "lastOpenFiles": [
+    "2022年下半年规划.md",
     "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
     "知识库/docker和k8s/初识docker.md",
     "知识库/docker和k8s/docker镜像构建.md",
@@ -180,7 +181,6 @@
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
     "知识库/Tableau/Tableau了解.md",
-    "conflict-files-obsidian-git.md",
-    "日记记录/2022-10-11_周二.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
