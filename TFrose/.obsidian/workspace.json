@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "008f8cc853ca1e4c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/实时外呼流程.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/实时外呼流程.md",
+                "file": "知识库/docker和k8s/初识docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/实时外呼流程.md"
+                "file": "知识库/docker和k8s/初识docker.md"
               }
             }
           },
@@ -168,9 +157,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "008f8cc853ca1e4c",
+  "active": "cc7a9a1407b5946d",
   "lastOpenFiles": [
     "2022年下半年规划.md",
+    "Excalidraw/实时外呼流程.md",
     "知识库/docker和k8s/初识docker.md",
     "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
     "知识库/docker和k8s/docker镜像构建.md",
@@ -178,7 +168,6 @@
     "知识库/hadoop生态/大数据.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
-    "知识库/Tableau/Tableau了解.md",
-    "conflict-files-obsidian-git.md"
+    "知识库/Tableau/Tableau了解.md"
   ]
 }
