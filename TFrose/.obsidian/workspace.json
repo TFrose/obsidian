@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
+                "file": "读书笔记/数据分析/笨办法学Python（第四版）.pdf"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
+                "file": "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
+                "file": "读书笔记/数据分析/笨办法学Python（第四版）.pdf"
               }
             }
           },
@@ -166,10 +166,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "active": "008f8cc853ca1e4c",
   "lastOpenFiles": [
+    "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "读书笔记/技术方向/全球科技通史-吴军.pdf",
     "2022年下半年规划.md",
     "知识库/docker和k8s/初识docker.md",
@@ -178,7 +179,6 @@
     "知识库/docker和k8s/安装k8s.md",
     "知识库/hadoop生态/大数据.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
-    "知识库/Python/Python基础/第一章 Python简介.md",
-    "知识库/Tableau/Tableau了解.md"
+    "知识库/Python/Python基础/第一章 Python简介.md"
   ]
 }
