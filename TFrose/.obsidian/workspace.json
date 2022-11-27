@@ -23,9 +23,11 @@
             "id": "008f8cc853ca1e4c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf"
+                "file": "2022年下半年规划.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf",
+                "file": "2022年下半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf"
+                "file": "2022年下半年规划.md"
               }
             }
           },
@@ -170,6 +172,7 @@
   },
   "active": "008f8cc853ca1e4c",
   "lastOpenFiles": [
+    "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf",
     "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
     "知识库/docker和k8s/初识docker.md",
     "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
@@ -178,7 +181,6 @@
     "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
     "知识库/docker和k8s/docker镜像构建.md",
     "知识库/docker和k8s/安装k8s.md",
-    "知识库/hadoop生态/大数据.md",
-    "知识库/Python/Python基础/第二章 标识符与变量.md"
+    "知识库/hadoop生态/大数据.md"
   ]
 }
