@@ -54,6 +54,15 @@
       "知识库/docker和k8s/未命名.md",
       "知识库/docker和k8s/初识docker.md",
       "知识库/docker和k8s/docker镜像构建.md"
+    ],
+    "知识库": [
+      "知识库/docker和k8s",
+      "知识库/hadoop生态",
+      "知识库/Mysql",
+      "知识库/Python",
+      "知识库/Shell脚本",
+      "知识库/Tableau",
+      "知识库/机器学习"
     ]
   },
   "actionBarOrder": {},
