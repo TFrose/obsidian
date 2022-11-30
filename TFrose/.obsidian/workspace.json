@@ -45,11 +45,9 @@
             "id": "e029514afc791116",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "知识库/机器学习/机器学习简介.md",
-                "mode": "source",
-                "source": false
+                "file": "垃圾袋/Pasted image 20221130121521.png"
               }
             }
           }
@@ -113,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 474.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/机器学习/机器学习简介.md",
+                "file": "垃圾袋/Pasted image 20221130121521.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/机器学习/机器学习简介.md"
+                "file": "垃圾袋/Pasted image 20221130121521.png"
               }
             }
           },
@@ -192,8 +190,9 @@
     "direction": "horizontal",
     "width": 468.5
   },
-  "active": "0c35527b83481898",
+  "active": "e029514afc791116",
   "lastOpenFiles": [
+    "知识库/机器学习/机器学习简介.md",
     "知识库/机器学习/线性回归.md",
     "读书笔记/机器学习/机器学习_周志华.pdf",
     "知识库/docker和k8s/初识docker.md",
@@ -202,7 +201,6 @@
     "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
     "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "读书笔记/技术方向/全球科技通史-吴军.pdf",
-    "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
-    "知识库/docker和k8s/docker镜像构建.md"
+    "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md"
   ]
 }
