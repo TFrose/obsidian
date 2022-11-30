@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/机器学习/机器学习_周志华.pdf",
+                "file": "知识库/机器学习/线性回归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/机器学习/机器学习_周志华.pdf"
+                "file": "知识库/机器学习/线性回归.md"
               }
             }
           },
@@ -180,10 +181,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "cc7a9a1407b5946d",
+  "active": "9cdc8a9fe381d24b",
   "lastOpenFiles": [
-    "知识库/机器学习/线性回归.md",
     "读书笔记/机器学习/机器学习_周志华.pdf",
+    "知识库/机器学习/线性回归.md",
     "知识库/docker和k8s/初识docker.md",
     "2022年下半年规划.md",
     "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf",
