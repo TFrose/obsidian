@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc7a9a1407b5946d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "读书笔记/机器学习/机器学习_周志华.pdf"
-              }
-            }
-          },
-          {
             "id": "008f8cc853ca1e4c",
             "type": "leaf",
             "state": {
@@ -40,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e029514afc791116",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "垃圾袋/Pasted image 20221130121521.png"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "垃圾袋/Pasted image 20221130121521.png",
+                "file": "知识库/机器学习/线性回归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "垃圾袋/Pasted image 20221130121521.png"
+                "file": "知识库/机器学习/线性回归.md"
               }
             }
           },
@@ -190,17 +170,17 @@
     "direction": "horizontal",
     "width": 468.5
   },
-  "active": "e029514afc791116",
+  "active": "9cdc8a9fe381d24b",
   "lastOpenFiles": [
+    "2022年下半年规划.md",
+    "读书笔记/机器学习/机器学习_周志华.pdf",
+    "垃圾袋/Pasted image 20221130121521.png",
     "知识库/机器学习/机器学习简介.md",
     "知识库/机器学习/线性回归.md",
-    "读书笔记/机器学习/机器学习_周志华.pdf",
     "知识库/docker和k8s/初识docker.md",
-    "2022年下半年规划.md",
     "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf",
     "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
     "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
-    "读书笔记/技术方向/全球科技通史-吴军.pdf",
-    "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md"
+    "读书笔记/技术方向/全球科技通史-吴军.pdf"
   ]
 }

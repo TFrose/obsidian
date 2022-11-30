@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "线性回归",
+      "path": "知识库/机器学习/线性回归.md"
+    },
+    {
+      "basename": "2022年下半年规划",
+      "path": "2022年下半年规划.md"
+    },
+    {
+      "basename": "机器学习_周志华",
+      "path": "读书笔记/机器学习/机器学习_周志华.pdf"
+    },
+    {
       "basename": "Pasted image 20221130121521",
       "path": "垃圾袋/Pasted image 20221130121521.png"
     },
@@ -9,20 +21,8 @@
       "path": "知识库/机器学习/机器学习简介.md"
     },
     {
-      "basename": "线性回归",
-      "path": "知识库/机器学习/线性回归.md"
-    },
-    {
-      "basename": "机器学习_周志华",
-      "path": "读书笔记/机器学习/机器学习_周志华.pdf"
-    },
-    {
       "basename": "初识docker",
       "path": "知识库/docker和k8s/初识docker.md"
-    },
-    {
-      "basename": "2022年下半年规划",
-      "path": "2022年下半年规划.md"
     },
     {
       "basename": "人人都是数据分析师：Tableau应用实战",
