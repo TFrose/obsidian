@@ -11,11 +11,9 @@
             "id": "4a5ffc41e3319351",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "日记记录/2022-10-11_周二.md",
-                "mode": "source",
-                "source": false
+                "file": "读书笔记/机器学习/机器学习_周志华.pdf"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2022-10-11_周二.md",
+                "file": "读书笔记/机器学习/机器学习_周志华.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2022-10-11_周二.md"
+                "file": "读书笔记/机器学习/机器学习_周志华.pdf"
               }
             }
           },
@@ -154,10 +152,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
+    "日记记录/2022-10-11_周二.md",
     "日记记录/2022-10-09_周日.md",
     "docker和k8s/未命名.md",
     "abc.md",
