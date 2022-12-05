@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "008f8cc853ca1e4c",
+  "active": "fa8e25a3ff5b0cd6",
   "lastOpenFiles": [
     "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
     "知识库/docker和k8s/初识docker.md",
