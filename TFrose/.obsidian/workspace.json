@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e7fced557f985a05",
+        "id": "1b36d6d263a0029a",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7a9a1407b5946d",
+            "id": "4a5ffc41e3319351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/docker和k8s/初识docker.md",
+                "file": "日记记录/2022-10-11_周二.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "008f8cc853ca1e4c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf",
+                "file": "日记记录/2022-10-11_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/人人都是数据分析师：Tableau应用实战.pdf"
+                "file": "日记记录/2022-10-11_周二.md"
               }
             }
           },
@@ -160,24 +150,19 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
-  "active": "fa8e25a3ff5b0cd6",
+  "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
-    "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
-    "知识库/docker和k8s/初识docker.md",
-    "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
-    "读书笔记/技术方向/全球科技通史-吴军.pdf",
+    "日记记录/2022-10-09_周日.md",
+    "docker和k8s/未命名.md",
+    "abc.md",
     "2022年下半年规划.md",
-    "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
-    "知识库/docker和k8s/docker镜像构建.md",
-    "知识库/docker和k8s/安装k8s.md",
-    "知识库/hadoop生态/大数据.md",
-    "知识库/Python/Python基础/第二章 标识符与变量.md"
+    "Excalidraw/5G消息流程.md",
+    "软考设计师/考试大纲.md"
   ]
 }
