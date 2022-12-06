@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -155,7 +156,7 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "4a5ffc41e3319351",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
     "读书笔记/机器学习/机器学习_周志华.pdf",
     "日记记录/2022-10-11_周二.md",
