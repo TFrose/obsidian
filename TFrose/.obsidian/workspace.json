@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
+                "file": "读书笔记/数据库/MySQL必知必会（文字版）.pdf"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf",
+                "file": "读书笔记/数据库/MySQL必知必会（文字版）.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
+                "file": "读书笔记/数据库/MySQL必知必会（文字版）.pdf"
               }
             }
           },
@@ -156,8 +156,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "4a5ffc41e3319351",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
+    "读书笔记/数据分析/Python数据分析基础.pdf",
     "读书笔记/数据库/MySQL必知必会（文字版）.pdf",
     "2022年下半年规划.md",
     "读书笔记/机器学习/机器学习_周志华.pdf",
