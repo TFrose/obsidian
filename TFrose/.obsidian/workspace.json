@@ -11,9 +11,11 @@
             "id": "4a5ffc41e3319351",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "读书笔记/数据库/MySQL必知必会（文字版）.pdf"
+                "file": "2022年下半年规划.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据库/MySQL必知必会（文字版）.pdf",
+                "file": "2022年下半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据库/MySQL必知必会（文字版）.pdf"
+                "file": "2022年下半年规划.md"
               }
             }
           },
@@ -155,10 +157,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "afbb7091c5974add",
+  "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
-    "读书笔记/数据分析/Python数据分析基础.pdf",
     "读书笔记/数据库/MySQL必知必会（文字版）.pdf",
+    "读书笔记/数据分析/Python数据分析基础.pdf",
     "2022年下半年规划.md",
     "读书笔记/机器学习/机器学习_周志华.pdf",
     "日记记录/2022-10-11_周二.md",
