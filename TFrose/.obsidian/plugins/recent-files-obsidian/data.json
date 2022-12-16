@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Python数据分析基础",
+      "path": "读书笔记/数据分析/Python数据分析基础.pdf"
+    },
+    {
+      "basename": "Pandas",
+      "path": "知识库/Python/数据分析/Pandas.md"
+    },
+    {
+      "basename": "第二章 标识符与变量",
+      "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
+    },
+    {
       "basename": "Drawing 2022-12-15 17.44.19.excalidraw",
       "path": "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md"
     },
     {
       "basename": "线性回归",
       "path": "知识库/机器学习/线性回归.md"
-    },
-    {
-      "basename": "Python数据分析基础",
-      "path": "读书笔记/数据分析/Python数据分析基础.pdf"
     },
     {
       "basename": "笨办法学Python（第四版）",
@@ -71,10 +79,6 @@
     {
       "basename": "大数据",
       "path": "知识库/hadoop生态/大数据.md"
-    },
-    {
-      "basename": "第二章 标识符与变量",
-      "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
     },
     {
       "basename": "第一章 Python简介",

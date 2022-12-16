@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b36d6d263a0029a",
+        "id": "8c368ffebbc07908",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5ffc41e3319351",
+            "id": "bb3daab42a0f2596",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md"
+                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
               }
             }
           }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md",
+                "file": "读书笔记/数据分析/Python数据分析基础.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md"
+                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
               }
             }
           },
@@ -155,17 +156,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "afbb7091c5974add",
+  "active": "bb3daab42a0f2596",
   "lastOpenFiles": [
+    "知识库/Python/数据分析/Pandas.md",
+    "知识库/Python/Python基础/第二章 标识符与变量.md",
+    "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md",
     "知识库/机器学习/线性回归.md",
     "读书笔记/数据分析/Python数据分析基础.pdf",
     "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
     "读书笔记/数据库/MySQL必知必会（文字版）.pdf",
     "2022年下半年规划.md",
     "读书笔记/机器学习/机器学习_周志华.pdf",
-    "日记记录/2022-10-11_周二.md",
-    "日记记录/2022-10-09_周日.md",
-    "docker和k8s/未命名.md",
-    "abc.md"
+    "日记记录/2022-10-11_周二.md"
   ]
 }
