@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
+                "file": "读书笔记/数据分析/Tableau：数据可视化之极速BI.pdf"
               }
             }
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf",
+                "file": "读书笔记/数据分析/Tableau：数据可视化之极速BI.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
+                "file": "读书笔记/数据分析/Tableau：数据可视化之极速BI.pdf"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "bb3daab42a0f2596",
   "lastOpenFiles": [
-    "李狗蛋喜好.md",
+    "读书笔记/数据分析/Python数据分析基础教程：NumPy学习指南（第2版）.pdf",
     "读书笔记/数据分析/Python数据分析基础.pdf",
+    "李狗蛋喜好.md",
     "知识库/Python/数据分析/Pandas.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md",
     "知识库/机器学习/线性回归.md",
     "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
     "读书笔记/数据库/MySQL必知必会（文字版）.pdf",
-    "2022年下半年规划.md",
-    "读书笔记/机器学习/机器学习_周志华.pdf"
+    "2022年下半年规划.md"
   ]
 }
