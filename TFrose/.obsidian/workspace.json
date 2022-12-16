@@ -11,9 +11,9 @@
             "id": "4a5ffc41e3319351",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
+                "file": "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md"
               }
             }
           }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf",
+                "file": "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/Python数据分析基础.pdf"
+                "file": "Excalidraw/Drawing 2022-12-15 17.44.19.excalidraw.md"
               }
             }
           },
@@ -158,15 +157,15 @@
   },
   "active": "4a5ffc41e3319351",
   "lastOpenFiles": [
+    "知识库/机器学习/线性回归.md",
+    "读书笔记/数据分析/Python数据分析基础.pdf",
     "读书笔记/数据分析/笨办法学Python（第四版）.pdf",
     "读书笔记/数据库/MySQL必知必会（文字版）.pdf",
     "2022年下半年规划.md",
-    "读书笔记/数据分析/Python数据分析基础.pdf",
     "读书笔记/机器学习/机器学习_周志华.pdf",
     "日记记录/2022-10-11_周二.md",
     "日记记录/2022-10-09_周日.md",
     "docker和k8s/未命名.md",
-    "abc.md",
-    "Excalidraw/5G消息流程.md"
+    "abc.md"
   ]
 }
