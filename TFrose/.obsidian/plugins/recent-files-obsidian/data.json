@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022年下半年规划",
+      "path": "2022年下半年规划.md"
+    },
+    {
       "basename": "Python数据挖掘入门与实践",
       "path": "读书笔记/数据分析/Python数据挖掘入门与实践.pdf"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "MySQL必知必会（文字版）",
       "path": "读书笔记/数据库/MySQL必知必会（文字版）.pdf"
-    },
-    {
-      "basename": "2022年下半年规划",
-      "path": "2022年下半年规划.md"
     },
     {
       "basename": "机器学习_周志华",
