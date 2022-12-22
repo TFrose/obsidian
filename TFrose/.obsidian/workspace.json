@@ -11,9 +11,11 @@
             "id": "bb3daab42a0f2596",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "垃圾袋/Pasted image 20220705141153.png"
+                "file": "2022年下半年规划.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "垃圾袋/Pasted image 20220705141153.png",
+                "file": "2022年下半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "垃圾袋/Pasted image 20220705141153.png"
+                "file": "2022年下半年规划.md"
               }
             }
           },
@@ -157,6 +159,7 @@
   },
   "active": "bb3daab42a0f2596",
   "lastOpenFiles": [
+    "垃圾袋/Pasted image 20220705141153.png",
     "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
     "Excalidraw/动静匹配日志记录.md",
     "Excalidraw/5G消息流程.md",
@@ -165,7 +168,6 @@
     "读书笔记/数据分析/Python数据挖掘入门与实践.pdf",
     "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "读书笔记/数据分析/Python数据分析基础.pdf",
-    "读书笔记/数据分析/Python数据分析基础教程：NumPy学习指南（第2版）.pdf",
-    "李狗蛋喜好.md"
+    "读书笔记/数据分析/Python数据分析基础教程：NumPy学习指南（第2版）.pdf"
   ]
 }
