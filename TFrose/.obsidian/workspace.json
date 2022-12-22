@@ -11,11 +11,9 @@
             "id": "bb3daab42a0f2596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2022年下半年规划.md",
-                "mode": "source",
-                "source": false
+                "file": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf"
               }
             }
           }
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022年下半年规划.md",
+                "file": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022年下半年规划.md"
+                "file": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf"
               }
             }
           },
@@ -159,12 +158,12 @@
   },
   "active": "bb3daab42a0f2596",
   "lastOpenFiles": [
+    "2022年下半年规划.md",
     "垃圾袋/Pasted image 20220705141153.png",
     "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
     "Excalidraw/动静匹配日志记录.md",
     "Excalidraw/5G消息流程.md",
     "Excalidraw/实时外呼流程.md",
-    "2022年下半年规划.md",
     "读书笔记/数据分析/Python数据挖掘入门与实践.pdf",
     "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "读书笔记/数据分析/Python数据分析基础.pdf",
