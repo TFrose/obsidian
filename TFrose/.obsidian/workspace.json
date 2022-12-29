@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
+                "file": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf"
               }
             }
           }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
+                "file": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
+                "file": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf"
               }
             }
           },
@@ -173,6 +174,7 @@
   },
   "active": "bb3daab42a0f2596",
   "lastOpenFiles": [
+    "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf",
     "2022年下半年规划.md",
     "垃圾袋/Pasted image 20220705141153.png",
@@ -181,7 +183,6 @@
     "Excalidraw/5G消息流程.md",
     "Excalidraw/实时外呼流程.md",
     "读书笔记/数据分析/Python数据挖掘入门与实践.pdf",
-    "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "读书笔记/数据分析/Python数据分析基础.pdf"
   ]
 }
