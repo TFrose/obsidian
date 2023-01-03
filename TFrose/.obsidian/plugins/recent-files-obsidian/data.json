@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "考试大纲",
+      "path": "证书笔记/软考设计师/考试大纲.md"
+    },
+    {
+      "basename": "李狗蛋喜好",
+      "path": "李狗蛋喜好.md"
+    },
+    {
       "basename": "软件设计师教程（第5版）彩色版",
       "path": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Python数据分析基础教程：NumPy学习指南（第2版）",
       "path": "读书笔记/数据分析/Python数据分析基础教程：NumPy学习指南（第2版）.pdf"
-    },
-    {
-      "basename": "李狗蛋喜好",
-      "path": "李狗蛋喜好.md"
     },
     {
       "basename": "Tableau：数据可视化之极速BI",
