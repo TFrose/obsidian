@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书笔记/软考设计师/考试大纲.md",
+                "file": "李狗蛋喜好.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/软考设计师/考试大纲.md",
+                "file": "李狗蛋喜好.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/软考设计师/考试大纲.md"
+                "file": "李狗蛋喜好.md"
               }
             }
           },
@@ -157,10 +157,26 @@
     "width": 200,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "privacy-glasses:Toggle Privacy Glasses": false,
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
   "active": "bb3daab42a0f2596",
   "lastOpenFiles": [
-    "证书笔记/信息系统项目管理师/导学.md",
     "证书笔记/软考设计师/考试大纲.md",
+    "证书笔记/信息系统项目管理师/导学.md",
     "李狗蛋喜好.md",
     "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf",
     "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
