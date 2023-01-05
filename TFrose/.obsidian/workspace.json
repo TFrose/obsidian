@@ -149,12 +149,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +172,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bb3daab42a0f2596",
+  "active": "fbf1d085e2bfc724",
   "lastOpenFiles": [
     "李狗蛋喜好.md",
     "证书笔记/软考设计师/考试大纲.md",
