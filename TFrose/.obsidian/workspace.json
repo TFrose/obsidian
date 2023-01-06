@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
+                "file": "读书笔记/数据分析/用数据讲故事.pdf"
               }
             }
           }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
+                "file": "读书笔记/数据分析/用数据讲故事.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
+                "file": "读书笔记/数据分析/用数据讲故事.pdf"
               }
             }
           },
@@ -172,13 +171,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fbf1d085e2bfc724",
+  "active": "bb3daab42a0f2596",
   "lastOpenFiles": [
+    "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "李狗蛋喜好.md",
     "证书笔记/软考设计师/考试大纲.md",
     "证书笔记/信息系统项目管理师/导学.md",
     "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf",
-    "读书笔记/数据分析/利用Python进行数据分析第二版.pdf",
     "2022年下半年规划.md",
     "垃圾袋/Pasted image 20220705141153.png",
     "Excalidraw/Drawing 2022-11-15 17.37.38.excalidraw.md",
