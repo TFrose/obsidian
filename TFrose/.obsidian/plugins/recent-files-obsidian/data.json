@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "利用Python进行数据分析第二版",
+      "path": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
+    },
+    {
+      "basename": "笨办法学Python（第四版）",
+      "path": "读书笔记/数据分析/笨办法学Python（第四版）.pdf"
+    },
+    {
       "basename": "2022年下半年规划",
       "path": "2022年下半年规划.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Python数据分析基础",
       "path": "读书笔记/数据分析/Python数据分析基础.pdf"
-    },
-    {
-      "basename": "利用Python进行数据分析第二版",
-      "path": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
     },
     {
       "basename": "李狗蛋喜好",
@@ -71,10 +75,6 @@
     {
       "basename": "线性回归",
       "path": "知识库/机器学习/线性回归.md"
-    },
-    {
-      "basename": "笨办法学Python（第四版）",
-      "path": "读书笔记/数据分析/笨办法学Python（第四版）.pdf"
     },
     {
       "basename": "MySQL必知必会（文字版）",
