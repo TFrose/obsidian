@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bb3daab42a0f2596",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
     "读书笔记/数据分析/用数据讲故事.pdf",
     "读书笔记/数据分析/Python数据分析基础.pdf",
