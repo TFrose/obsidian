@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-02-03_周五.md",
+                "file": "日记记录/2023-02-06_周一.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-02-03_周五.md",
+                "file": "日记记录/2023-02-06_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-02-03_周五.md"
+                "file": "日记记录/2023-02-06_周一.md"
               }
             }
           },
@@ -172,17 +172,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fc4a52c11b126488",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
-    "2023年上半年规划.md",
     "日记记录/2023-02-03_周五.md",
+    "日记记录/2023-02-06_周一.md",
+    "2023年上半年规划.md",
     "日记记录/2023-02-02_周四.md",
     "日记记录/2023-02-01_周三.md",
     "2022年下半年规划.md",
     "日记记录/2023-01-31_周二.md",
     "模板库/工作记录.md",
     "模板库/会议模版.md",
-    "日记记录/2022-07-30_周六.md",
-    "日记记录/2022-10-09_周日.md"
+    "日记记录/2022-07-30_周六.md"
   ]
 }
