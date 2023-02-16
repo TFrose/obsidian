@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-02-15_周三.md",
+                "file": "日记记录/2023-02-16_周四.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-02-15_周三.md",
+                "file": "日记记录/2023-02-16_周四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-02-15_周三.md"
+                "file": "日记记录/2023-02-16_周四.md"
               }
             }
           },
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,15 +174,15 @@
   },
   "active": "dcacedb895012b0e",
   "lastOpenFiles": [
+    "日记记录/2023-02-15_周三.md",
+    "日记记录/2023-02-16_周四.md",
     "2023年上半年规划.md",
     "2022年下半年规划.md",
     "Excalidraw/5G消息流程.md",
     "模板库/工作记录.md",
-    "日记记录/2023-02-15_周三.md",
     "日记记录/2023-02-14_周二.md",
     "日记记录/2023-02-13_周一.md",
     "日记记录/2023-02-01_周三.md",
-    "日记记录/2023-02-10_周五.md",
-    "日记记录/2023-02-09_周四.md"
+    "日记记录/2023-02-10_周五.md"
   ]
 }
