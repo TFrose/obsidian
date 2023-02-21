@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-02-21_周二",
+      "path": "日记记录/2023-02-21_周二.md"
+    },
+    {
       "basename": "2023-02-20_周一",
       "path": "日记记录/2023-02-20_周一.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大数据",
       "path": "知识库/hadoop生态/大数据.md"
-    },
-    {
-      "basename": "第一章 Python简介",
-      "path": "知识库/Python/Python基础/第一章 Python简介.md"
     }
   ],
   "omittedPaths": [],
