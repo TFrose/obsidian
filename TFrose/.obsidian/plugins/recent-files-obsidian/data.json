@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-02-22_周三",
+      "path": "日记记录/2023-02-22_周三.md"
+    },
+    {
       "basename": "2023-02-21_周二",
       "path": "日记记录/2023-02-21_周二.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "安装k8s",
       "path": "知识库/docker和k8s/安装k8s.md"
-    },
-    {
-      "basename": "大数据",
-      "path": "知识库/hadoop生态/大数据.md"
     }
   ],
   "omittedPaths": [],
