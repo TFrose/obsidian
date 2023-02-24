@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-02-24_周五",
+      "path": "日记记录/2023-02-24_周五.md"
+    },
+    {
       "basename": "2023-02-23_周四",
       "path": "日记记录/2023-02-23_周四.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "全球科技通史-吴军",
       "path": "读书笔记/技术方向/全球科技通史-吴军.pdf"
-    },
-    {
-      "basename": "docker镜像构建",
-      "path": "知识库/docker和k8s/docker镜像构建.md"
     }
   ],
   "omittedPaths": [],
