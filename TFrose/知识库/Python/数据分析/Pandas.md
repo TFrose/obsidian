@@ -3,7 +3,7 @@ author: TFrose
 createtime: 2022-10-17 21:48
 aliases: Pandas
 description:
-tags: [note]
+tags: [数据分析]
 ---
 
 ## 1.pandas的函数简介

@@ -3,7 +3,7 @@ author: TFrose
 createtime: 2022-10-18 21:51
 aliases: Python简介
 description: python简介
-tags: [python教程,学习方向]
+tags: [python教程]
 ---
 
 
