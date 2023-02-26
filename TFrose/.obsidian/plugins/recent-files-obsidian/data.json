@@ -5,6 +5,10 @@
       "path": "证书笔记/PMP/错题集/第一章  引论.md"
     },
     {
+      "basename": "第二章 项目运行环境",
+      "path": "证书笔记/PMP/错题集/第二章 项目运行环境.md"
+    },
+    {
       "basename": "Pandas",
       "path": "知识库/Python/数据分析/Pandas.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "线性回归",
       "path": "知识库/机器学习/线性回归.md"
-    },
-    {
-      "basename": "MySQL必知必会（文字版）",
-      "path": "读书笔记/数据库/MySQL必知必会（文字版）.pdf"
     }
   ],
   "omittedPaths": [],

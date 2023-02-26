@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13919a32ddb5d16b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/第二章 项目运行环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76e239a3c790416d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/第二章 项目运行环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32f37ed86b4f001f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/第一章  引论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -56,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#note",
+                "query": "tag:#PMO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,8 +212,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e29b3f2d525b7308",
+  "active": "32f37ed86b4f001f",
   "lastOpenFiles": [
+    "证书笔记/PMP/错题集/第二章 项目运行环境.md",
+    "证书笔记/PMP/错题集/第一章  引论.md",
     "知识库/Python/数据分析/Pandas.md",
     "知识库/Python/Python基础/configure的使用.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
@@ -184,8 +223,6 @@
     "2022年下半年规划.md",
     "2023年上半年规划.md",
     "日记记录/2022-10-17_周一.md",
-    "模板库/会议模版.md",
-    "模板库/工作记录.md",
-    "模板库/笔记模版.md"
+    "模板库/会议模版.md"
   ]
 }
