@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Day Planner-20221016",
-      "path": "Day Planners/Day Planner-20221016.md"
+      "basename": "2023-02-27",
+      "path": "Day Planners/2023-02-27.md"
+    },
+    {
+      "basename": "2023-02-27_周一",
+      "path": "日记记录/2023-02-27_周一.md"
     },
     {
       "basename": "会议模版",
@@ -15,10 +19,6 @@
     {
       "basename": "笔记模版",
       "path": "模板库/笔记模版.md"
-    },
-    {
-      "basename": "2023-02-27_周一",
-      "path": "日记记录/2023-02-27_周一.md"
     },
     {
       "basename": "第三章 项目经理的角色",
@@ -195,10 +195,6 @@
     {
       "basename": "Python数据挖掘入门与实践",
       "path": "读书笔记/数据分析/Python数据挖掘入门与实践.pdf"
-    },
-    {
-      "basename": "Python数据分析基础教程：NumPy学习指南（第2版）",
-      "path": "读书笔记/数据分析/Python数据分析基础教程：NumPy学习指南（第2版）.pdf"
     }
   ],
   "omittedPaths": [],

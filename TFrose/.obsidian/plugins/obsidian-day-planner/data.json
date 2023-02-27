@@ -23,7 +23,7 @@
       "date": "Mon Feb 27 2023"
     }
   ],
-  "completePastItems": true,
+  "completePastItems": false,
   "circularProgress": true,
   "nowAndNextInStatusBar": true,
   "showTaskNotification": true,
