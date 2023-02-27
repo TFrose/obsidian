@@ -17,11 +17,15 @@
     {
       "notePath": "Day Planners/未命名.md",
       "date": "Mon Oct 17 2022"
+    },
+    {
+      "notePath": "日记记录/2023-02-27_周一.md",
+      "date": "Mon Feb 27 2023"
     }
   ],
   "completePastItems": true,
   "circularProgress": true,
   "nowAndNextInStatusBar": true,
-  "showTaskNotification": false,
+  "showTaskNotification": true,
   "timelineZoomLevel": 4
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-02-27_周一.md",
+                "file": "Day Planners/Day Planner-20221016.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-02-27_周一.md",
+                "file": "Day Planners/Day Planner-20221016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-02-27_周一.md"
+                "file": "Day Planners/Day Planner-20221016.md"
               }
             }
           },
@@ -159,6 +159,20 @@
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "16101ca95a767e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0584f423966c4f2e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
@@ -186,13 +200,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9419f04e15a5a4cf",
+  "active": "a1e77e9671f167d0",
   "lastOpenFiles": [
+    "模板库/会议模版.md",
+    "模板库/工作记录.md",
+    "模板库/笔记模版.md",
+    "Day Planners/Day Planner-20221016.md",
+    "日记记录/2023-02-27_周一.md",
     "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
     "垃圾袋/Pasted image 20230227160713.png",
     "垃圾袋/1677485008019.png",
     "证书笔记/PMP/错题集/第二章 项目运行环境.md",
-    "日记记录/2023-02-27_周一.md",
     "证书笔记/PMP/错题集/第一章  引论.md",
     "知识库/Python/数据分析/Pandas.md",
     "知识库/Python/Python基础/configure的使用.md",
@@ -200,7 +218,6 @@
     "知识库/Python/Python基础/第一章 Python简介.md",
     "2022年下半年规划.md",
     "2023年上半年规划.md",
-    "日记记录/2022-10-17_周一.md",
-    "模板库/会议模版.md"
+    "日记记录/2022-10-17_周一.md"
   ]
 }
