@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "第三章 项目经理的角色",
+      "path": "证书笔记/PMP/错题集/第三章 项目经理的角色.md"
+    },
+    {
+      "basename": "第二章 项目运行环境",
+      "path": "证书笔记/PMP/错题集/第二章 项目运行环境.md"
+    },
+    {
       "basename": "2023-02-27_周一",
       "path": "日记记录/2023-02-27_周一.md"
     },
     {
       "basename": "第一章  引论",
       "path": "证书笔记/PMP/错题集/第一章  引论.md"
-    },
-    {
-      "basename": "第二章 项目运行环境",
-      "path": "证书笔记/PMP/错题集/第二章 项目运行环境.md"
     },
     {
       "basename": "Pandas",
@@ -195,10 +199,6 @@
     {
       "basename": "Python数据分析基础教程：NumPy学习指南（第2版）",
       "path": "读书笔记/数据分析/Python数据分析基础教程：NumPy学习指南（第2版）.pdf"
-    },
-    {
-      "basename": "Tableau：数据可视化之极速BI",
-      "path": "读书笔记/数据分析/Tableau：数据可视化之极速BI.pdf"
     }
   ],
   "omittedPaths": [],
