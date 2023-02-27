@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
+                "file": "日记记录/2023-02-27_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/错题集/第三章 项目经理的角色.md"
+                "file": "日记记录/2023-02-27_周一.md"
               }
             }
           },
@@ -188,12 +187,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "53c71905846f02e6",
+  "active": "a1e77e9671f167d0",
   "lastOpenFiles": [
+    "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
     "垃圾袋/Pasted image 20230227160713.png",
     "垃圾袋/1677485008019.png",
     "证书笔记/PMP/错题集/第二章 项目运行环境.md",
-    "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
     "日记记录/2023-02-27_周一.md",
     "证书笔记/PMP/错题集/第一章  引论.md",
     "知识库/Python/数据分析/Pandas.md",
