@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/202302/2023-02-28_周二.md",
+                "file": "日记记录/2023-03-01_周三.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/202302/2023-02-28_周二.md",
+                "file": "日记记录/2023-03-01_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/202302/2023-02-28_周二.md"
+                "file": "日记记录/2023-03-01_周三.md"
               }
             }
           },
@@ -188,10 +188,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "afbb7091c5974add",
+  "active": "53c71905846f02e6",
   "lastOpenFiles": [
-    "日记记录/202302/2023-02-27_周一.md",
     "日记记录/202302/2023-02-28_周二.md",
+    "日记记录/2023-03-01_周三.md",
+    "日记记录/202302/2023-02-27_周一.md",
     "模板库/笔记模版.md",
     "日记记录/2023-01-31_周二.md",
     "日记记录/2022-10-17_周一.md",
