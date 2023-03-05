@@ -16,15 +16,11 @@
   "folder_templates": [
     {
       "folder": "Day Planners",
-      "template": "模板库/工作记录.md"
+      "template": "模板库/笔记模版.md"
     },
     {
       "folder": "日记记录",
       "template": "模板库/日记模版.md"
-    },
-    {
-      "folder": "/",
-      "template": "模板库/笔记模版.md"
     },
     {
       "folder": "会议记录",
@@ -37,5 +33,6 @@
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "enable_ribbon_icon": true
 }
