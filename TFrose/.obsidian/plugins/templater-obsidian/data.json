@@ -25,6 +25,10 @@
     {
       "folder": "会议记录",
       "template": "模板库/会议模版.md"
+    },
+    {
+      "folder": "/",
+      "template": "模板库/普通模版.md"
     }
   ],
   "syntax_highlighting": true,

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb91267a5841483",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "日记记录/2023-03-06_周一.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +201,18 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7cc31b1fe91d9780",
+  "active": "cfb91267a5841483",
   "lastOpenFiles": [
+    "证书笔记/PMP/错题集/第四章 项目整合管理.md",
+    "垃圾袋/Pasted image 20230306215457.png",
+    "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
+    "证书笔记/PMP/错题集/第五章 项目范围管理.md",
+    "垃圾袋/Pasted image 20230306213529.png",
+    "模板库/笔记模版.md",
+    "模板库/普通模版.md",
+    "模板库/工作记录.md",
+    "模板库/会议模版.md",
+    "证书笔记/PMP/错题集/第二章 项目运行环境.md",
     "日记记录/2023-03-06_周一.md",
     "2023年上半年规划.md",
     "2022年下半年规划.md",
@@ -197,10 +220,6 @@
     "李狗蛋喜好.md",
     "Day Planners/2023-02-27.md",
     "日记记录/2023-03-03_周五.md",
-    "模板库/笔记模版.md",
-    "模板库/会议模版.md",
-    "模板库/工作记录.md",
-    "证书笔记/PMP/错题集/未命名.md",
     "日记记录/2023-03-02_周四.md",
     "日记记录/2023-03-01_周三.md",
     "日记记录/202302/2023-02-28_周二.md",
@@ -210,14 +229,9 @@
     "日记记录/202302/2023-02-01_周三.md",
     "日记记录/202302",
     "Day Planners/Day Planner-20230227.md",
-    "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
     "垃圾袋/Pasted image 20230227160713.png",
     "垃圾袋/1677485008019.png",
-    "证书笔记/PMP/错题集/第二章 项目运行环境.md",
     "证书笔记/PMP/错题集/第一章  引论.md",
-    "知识库/Python/数据分析/Pandas.md",
-    "知识库/Python/Python基础/configure的使用.md",
-    "知识库/Python/Python基础/第二章 标识符与变量.md",
-    "知识库/Python/Python基础/第一章 Python简介.md"
+    "知识库/Python/数据分析/Pandas.md"
   ]
 }
