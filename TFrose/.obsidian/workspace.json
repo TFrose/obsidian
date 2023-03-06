@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "416307096dbce41a",
+        "id": "f4077ce2e1ac40c7",
         "type": "tabs",
         "children": [
           {
-            "id": "53c71905846f02e6",
+            "id": "7cc31b1fe91d9780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西藏之旅准备.md",
+                "file": "日记记录/2023-03-06_周一.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "西藏之旅准备.md",
+                "file": "日记记录/2023-03-06_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "西藏之旅准备.md"
+                "file": "日记记录/2023-03-06_周一.md"
               }
             }
           },
@@ -188,10 +188,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "53c71905846f02e6",
+  "active": "7cc31b1fe91d9780",
   "lastOpenFiles": [
-    "李狗蛋喜好.md",
+    "日记记录/2023-03-06_周一.md",
+    "2023年上半年规划.md",
+    "2022年下半年规划.md",
     "西藏之旅准备.md",
+    "李狗蛋喜好.md",
     "Day Planners/2023-02-27.md",
     "日记记录/2023-03-03_周五.md",
     "模板库/笔记模版.md",
@@ -215,8 +218,6 @@
     "知识库/Python/数据分析/Pandas.md",
     "知识库/Python/Python基础/configure的使用.md",
     "知识库/Python/Python基础/第二章 标识符与变量.md",
-    "知识库/Python/Python基础/第一章 Python简介.md",
-    "2022年下半年规划.md",
-    "2023年上半年规划.md"
+    "知识库/Python/Python基础/第一章 Python简介.md"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-03-06_周一",
+      "path": "日记记录/2023-03-06_周一.md"
+    },
+    {
+      "basename": "2023年上半年规划",
+      "path": "2023年上半年规划.md"
+    },
+    {
+      "basename": "2022年下半年规划",
+      "path": "2022年下半年规划.md"
+    },
+    {
       "basename": "西藏之旅准备",
       "path": "西藏之旅准备.md"
     },
@@ -79,14 +91,6 @@
     {
       "basename": "第一章 Python简介",
       "path": "知识库/Python/Python基础/第一章 Python简介.md"
-    },
-    {
-      "basename": "2022年下半年规划",
-      "path": "2022年下半年规划.md"
-    },
-    {
-      "basename": "2023年上半年规划",
-      "path": "2023年上半年规划.md"
     },
     {
       "basename": "初识docker",
@@ -195,10 +199,6 @@
     {
       "basename": "软件设计师教程（第5版）彩色版",
       "path": "阅读清单/软考/软件设计师教程（第5版）彩色版.pdf"
-    },
-    {
-      "basename": "Pasted image 20220705141153",
-      "path": "垃圾袋/Pasted image 20220705141153.png"
     }
   ],
   "omittedPaths": [],
