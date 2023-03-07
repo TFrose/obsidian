@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-03-07_周二",
+      "path": "日记记录/2023-03-07_周二.md"
+    },
+    {
       "basename": "2023-03-06_周一",
       "path": "日记记录/2023-03-06_周一.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Python数据分析基础",
       "path": "读书笔记/数据分析/Python数据分析基础.pdf"
-    },
-    {
-      "basename": "考试大纲",
-      "path": "证书笔记/软考设计师/考试大纲.md"
     }
   ],
   "omittedPaths": [],
