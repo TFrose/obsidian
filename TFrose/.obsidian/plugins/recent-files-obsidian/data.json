@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-03-10_周五",
+      "path": "日记记录/2023-03-10_周五.md"
+    },
+    {
       "basename": "2023-03-09_周四",
       "path": "日记记录/2023-03-09_周四.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "利用Python进行数据分析第二版",
       "path": "读书笔记/数据分析/利用Python进行数据分析第二版.pdf"
-    },
-    {
-      "basename": "笨办法学Python（第四版）",
-      "path": "读书笔记/数据分析/笨办法学Python（第四版）.pdf"
     }
   ],
   "omittedPaths": [],
