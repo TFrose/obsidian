@@ -8,27 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db5e0e4573136bcd",
+            "id": "dbcb69d3559618a5",
             "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "24d37664ad453a5b",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书笔记/PMP/错题集/第七章 项目成本管理.md",
+                "file": "阅读清单/纪录片.md",
                 "mode": "source",
                 "source": false
-              }
-            }
+              },
+              "pinned": true
+            },
+            "group": "ec3a4654dccdab71"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "17f868fc6288667a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "168dbdb8ee2b245e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "media-view",
+              "state": {
+                "info": {
+                  "host": 1,
+                  "id": "BV1Ca411b727/",
+                  "src": "https://www.bilibili.com/video/BV1Ca411b727/?spm_id_from=333.337.search-card.all.click&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26",
+                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1Ca411b727/&high_quality=1&danmaku=0",
+                  "hash": ""
+                },
+                "currentTime": 77.114156
+              },
+              "pinned": true
+            },
+            "group": "ec3a4654dccdab71"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/错题集/第七章 项目成本管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "证书笔记/PMP/错题集/第七章 项目成本管理.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "16101ca95a767e19",
@@ -206,11 +223,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "24d37664ad453a5b",
+  "active": "168dbdb8ee2b245e",
   "lastOpenFiles": [
+    "阅读清单/纪录片.md",
+    "证书笔记/PMP/错题集/第七章 项目成本管理.md",
     "垃圾袋/Pasted image 20230312172613.png",
     "证书笔记/PMP/错题集/第六章 项目进度管理.md",
-    "证书笔记/PMP/错题集/第七章 项目成本管理.md",
     "垃圾袋/1677485008019.png",
     "读书笔记/哲学宗教/道德经.md",
     "读书笔记/文学/阿弥陀佛么么哒.md",
@@ -252,7 +270,6 @@
     "垃圾袋/Pasted image 20230311220613.png",
     "垃圾袋/Pasted image 20230311220452.png",
     "垃圾袋/Pasted image 20230311220245.png",
-    "垃圾袋/Pasted image 20230311215942.png",
-    "垃圾袋/Pasted image 20230311215849.png"
+    "垃圾袋/Pasted image 20230311215942.png"
   ]
 }
