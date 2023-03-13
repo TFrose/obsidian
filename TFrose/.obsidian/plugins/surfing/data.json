@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "9bda33780ffb3f5c",
-      "parent": 0,
-      "droppable": true,
-      "text": "【河西走廊纪录片】央视 10集全_哔哩哔哩_bilibili",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
