@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/Python/数据分析/数据分析学习内容.md",
+                "file": "日记记录/2023-03-14_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/Python/数据分析/数据分析学习内容.md"
+                "file": "日记记录/2023-03-14_周二.md"
               }
             }
           },
@@ -209,7 +208,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "94f0e5797c0f6dce",
+  "active": "e616ed78fc5c5a62",
   "lastOpenFiles": [
     "知识库/Python/数据分析/数据分析学习内容.md",
     "日记记录/2023-03-14_周二.md",
