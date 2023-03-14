@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94f0e5797c0f6dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/Python/数据分析/数据分析学习内容.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-03-14_周二.md",
+                "file": "知识库/Python/数据分析/数据分析学习内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-03-14_周二.md"
+                "file": "知识库/Python/数据分析/数据分析学习内容.md"
               }
             }
           },
@@ -196,10 +209,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e616ed78fc5c5a62",
+  "active": "94f0e5797c0f6dce",
   "lastOpenFiles": [
-    "日记记录/2023-03-13_周一.md",
     "日记记录/2023-03-14_周二.md",
+    "知识库/Python/数据分析/数据分析学习内容.md",
+    "日记记录/2023-03-13_周一.md",
     "视频笔记/纪录片/河西走廊.md",
     "证书笔记/PMP/错题集/第八章 项目质量管理.md",
     "垃圾袋/Pasted image 20230313212827.png",
@@ -230,7 +244,6 @@
     "读书笔记/哲学宗教/论语（中华国学经典）.md",
     "读书笔记/文学/月亮与六便士.md",
     "读书笔记/医学健康/我们为什么会发胖.md",
-    "读书笔记/历史/明朝那些事儿（全集）.md",
     "读书笔记/艺术",
     "读书笔记/人物传记",
     "读书笔记/漫画",
