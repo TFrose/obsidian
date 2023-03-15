@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb7b375bb5fcfc0",
+        "id": "4a5f28d7f3efca33",
         "type": "tabs",
         "children": [
           {
-            "id": "e616ed78fc5c5a62",
+            "id": "3078f8edbe84740d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频笔记/纪录片/河西走廊.md",
+                "file": "知识库/Python/数据分析/数据分析学习内容.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "视频笔记/纪录片/河西走廊.md",
+                "file": "知识库/Python/数据分析/数据分析学习内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频笔记/纪录片/河西走廊.md"
+                "file": "知识库/Python/数据分析/数据分析学习内容.md"
               }
             }
           },
@@ -196,12 +196,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e616ed78fc5c5a62",
+  "active": "3078f8edbe84740d",
   "lastOpenFiles": [
-    "知识库/Python/数据分析/数据分析学习内容.md",
+    "日记记录/2023-03-15_周三.md",
     "日记记录/2023-03-14_周二.md",
-    "日记记录/2023-03-13_周一.md",
     "视频笔记/纪录片/河西走廊.md",
+    "知识库/Python/数据分析/数据分析学习内容.md",
+    "日记记录/2023-03-13_周一.md",
     "证书笔记/PMP/错题集/第八章 项目质量管理.md",
     "垃圾袋/Pasted image 20230313212827.png",
     "垃圾袋/Pasted image 20230313212643.png",
@@ -230,7 +231,6 @@
     "读书笔记/哲学宗教/易经（中华国学经典）.md",
     "读书笔记/哲学宗教/论语（中华国学经典）.md",
     "读书笔记/文学/月亮与六便士.md",
-    "读书笔记/医学健康/我们为什么会发胖.md",
     "读书笔记/艺术",
     "读书笔记/人物传记",
     "读书笔记/漫画",
