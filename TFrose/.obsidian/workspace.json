@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/202303/2023-03-01_周三.md",
+                "file": "视频笔记/纪录片/河西走廊.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/202303/2023-03-01_周三.md",
+                "file": "视频笔记/纪录片/河西走廊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/202303/2023-03-01_周三.md"
+                "file": "视频笔记/纪录片/河西走廊.md"
               }
             }
           },
@@ -196,8 +196,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "afbb7091c5974add",
+  "active": "3078f8edbe84740d",
   "lastOpenFiles": [
+    "日记记录/202303/2023-03-01_周三.md",
     "日记记录/202303/2023-03-17_周五.md",
     "日记记录/202303",
     "日记记录/202303/2023-03-16_周四.md",
