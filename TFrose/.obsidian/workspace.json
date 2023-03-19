@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43d92b5d97b940cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/第十章 项目沟通管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/错题集/第九章 项目资源管理.md",
+                "file": "证书笔记/PMP/错题集/第十章 项目沟通管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/错题集/第九章 项目资源管理.md"
+                "file": "证书笔记/PMP/错题集/第十章 项目沟通管理.md"
               }
             }
           },
@@ -209,13 +221,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2ee0958fcfa1534f",
+  "active": "43d92b5d97b940cf",
   "lastOpenFiles": [
+    "证书笔记/PMP/错题集/第九章 项目资源管理.md",
+    "证书笔记/PMP/错题集/第十章 项目沟通管理.md",
     "垃圾袋/Pasted image 20230319093402.png",
     "垃圾袋/Pasted image 20230319093137.png",
     "垃圾袋/Pasted image 20230319092533.png",
     "视频笔记/纪录片/河西走廊.md",
-    "证书笔记/PMP/错题集/第九章 项目资源管理.md",
     "日记记录/202303/2023-03-01_周三.md",
     "日记记录/202303/2023-03-17_周五.md",
     "日记记录/202303",
@@ -255,7 +268,6 @@
     "读书笔记/政治军事",
     "读书笔记/科学技术",
     "垃圾袋/Pasted image 20230311221330.png",
-    "垃圾袋/Pasted image 20230311221018.png",
-    "垃圾袋/Pasted image 20230311220957.png"
+    "垃圾袋/Pasted image 20230311221018.png"
   ]
 }
