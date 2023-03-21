@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a24d9a18e789574f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/第十一章.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-03-21_周二.md",
+                "file": "证书笔记/PMP/错题集/第十一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-03-21_周二.md"
+                "file": "证书笔记/PMP/错题集/第十一章.md"
               }
             }
           },
@@ -196,10 +209,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "43d92b5d97b940cf",
+  "active": "a24d9a18e789574f",
   "lastOpenFiles": [
-    "日记记录/2023-03-20_周一.md",
+    "垃圾袋/Pasted image 20230321220523.png",
+    "垃圾袋/Pasted image 20230321220228.png",
     "日记记录/2023-03-21_周二.md",
+    "证书笔记/PMP/错题集/第十一章.md",
+    "日记记录/2023-03-20_周一.md",
     "四月旅行路线.md",
     "证书笔记/PMP/错题集/第十章 项目沟通管理.md",
     "证书笔记/PMP/错题集/第九章 项目资源管理.md",
@@ -225,7 +241,6 @@
     "证书笔记/PMP/错题集/第七章 项目成本管理.md",
     "视频笔记/纪录片.md",
     "李狗蛋喜好.md",
-    "垃圾袋/Pasted image 20230312211551.png",
     "视频笔记/纪录片",
     "视频笔记",
     "证书笔记/PMP/错题集/第六章 项目进度管理.md",
@@ -235,8 +250,6 @@
     "日记记录/202303/2023-03-10_周五.md",
     "读书笔记/经济理财/半小时漫画经济学：金融危机合集（独家定制版）.md",
     "未命名.md",
-    "读书笔记/个人成长/把时间当作朋友（第3版）.md",
-    "读书笔记/哲学宗教/世间安得双全法 不负如来不负卿.md",
     "读书笔记/艺术",
     "读书笔记/人物传记",
     "读书笔记/漫画",
