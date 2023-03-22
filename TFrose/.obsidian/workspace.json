@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-03-21_周二.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a24d9a18e789574f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "证书笔记/PMP/错题集/第十一章.md",
+                "file": "日记记录/2023-03-22_周三.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/错题集/第十一章.md",
+                "file": "日记记录/2023-03-22_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/错题集/第十一章.md"
+                "file": "日记记录/2023-03-22_周三.md"
               }
             }
           },
@@ -209,11 +196,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a24d9a18e789574f",
+  "active": "43d92b5d97b940cf",
   "lastOpenFiles": [
+    "日记记录/2023-03-21_周二.md",
+    "日记记录/2023-03-22_周三.md",
     "垃圾袋/Pasted image 20230321220523.png",
     "垃圾袋/Pasted image 20230321220228.png",
-    "日记记录/2023-03-21_周二.md",
     "证书笔记/PMP/错题集/第十一章.md",
     "日记记录/2023-03-20_周一.md",
     "四月旅行路线.md",
@@ -237,7 +225,6 @@
     "日记记录/202303/2023-03-14_周二.md",
     "日记记录/202303/2023-03-13_周一.md",
     "垃圾袋/Pasted image 20230313212827.png",
-    "垃圾袋/Pasted image 20230313212643.png",
     "证书笔记/PMP/错题集/第七章 项目成本管理.md",
     "视频笔记/纪录片.md",
     "李狗蛋喜好.md",
