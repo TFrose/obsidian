@@ -5,6 +5,14 @@
       "path": "日记记录/2023-03-23_周四.md"
     },
     {
+      "basename": "第十二章 项目采购管理",
+      "path": "证书笔记/PMP/错题集/第十二章 项目采购管理.md"
+    },
+    {
+      "basename": "第十一章 项目风险管理",
+      "path": "证书笔记/PMP/错题集/第十一章 项目风险管理.md"
+    },
+    {
       "basename": "2023-03-20_周一",
       "path": "日记记录/2023-03-20_周一.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "2023年上半年规划",
       "path": "2023年上半年规划.md"
-    },
-    {
-      "basename": "第十一章 项目风险管理",
-      "path": "证书笔记/PMP/错题集/第十一章 项目风险管理.md"
     },
     {
       "basename": "四月旅行路线",
@@ -195,10 +199,6 @@
     {
       "basename": "初识docker",
       "path": "知识库/docker和k8s/初识docker.md"
-    },
-    {
-      "basename": "安装k8s",
-      "path": "知识库/docker和k8s/安装k8s.md"
     }
   ],
   "omittedPaths": [],
