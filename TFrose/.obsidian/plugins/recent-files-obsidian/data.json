@@ -199,10 +199,6 @@
     {
       "basename": "第一章 Python简介",
       "path": "知识库/Python/Python基础/第一章 Python简介.md"
-    },
-    {
-      "basename": "初识docker",
-      "path": "知识库/docker和k8s/初识docker.md"
     }
   ],
   "omittedPaths": [],
