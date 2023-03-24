@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-03-24_周五.md",
+                "file": "证书笔记/PMP/错题集/第十一章 项目风险管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0101c1bff6a5fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记记录/2023-03-23_周四.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-03-24_周五.md",
+                "file": "日记记录/2023-03-23_周四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-03-24_周五.md"
+                "file": "日记记录/2023-03-23_周四.md"
               }
             }
           },
@@ -196,10 +209,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "43d92b5d97b940cf",
+  "active": "c0101c1bff6a5fcf",
   "lastOpenFiles": [
+    "证书笔记/PMP/错题集/第十二章 项目采购管理.md",
+    "垃圾袋/Pasted image 20230323220449.png",
+    "证书笔记/PMP/错题集/第十一章 项目风险管理.md",
     "日记记录/2023-03-23_周四.md",
-    "日记记录/2023-03-24_周五.md",
     "日记记录/2023-03-20_周一.md",
     "日记记录/2023-03-21_周二.md",
     "日记记录/2023-03-22_周三.md",
@@ -227,7 +242,6 @@
     "知识库/Python/数据分析/数据分析学习内容.md",
     "日记记录/202303/2023-03-14_周二.md",
     "日记记录/202303/2023-03-13_周一.md",
-    "垃圾袋/Pasted image 20230313212827.png",
     "证书笔记/PMP/错题集/第七章 项目成本管理.md",
     "视频笔记/纪录片.md",
     "李狗蛋喜好.md",
@@ -235,8 +249,6 @@
     "视频笔记",
     "证书笔记/PMP/错题集/第六章 项目进度管理.md",
     "读书笔记/哲学宗教/道德经.md",
-    "读书笔记/文学/阿弥陀佛么么哒.md",
-    "证书笔记/PMP/错题集/第三章 项目经理的角色.md",
     "读书笔记/艺术",
     "读书笔记/人物传记",
     "读书笔记/漫画",
