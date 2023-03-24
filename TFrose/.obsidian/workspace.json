@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bdfb2006ab62c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/第十三章 项目相关方管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-03-24_周五.md",
+                "file": "证书笔记/PMP/错题集/第十三章 项目相关方管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-03-24_周五.md"
+                "file": "证书笔记/PMP/错题集/第十三章 项目相关方管理.md"
               }
             }
           },
@@ -209,8 +221,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c0101c1bff6a5fcf",
+  "active": "3bdfb2006ab62c7f",
   "lastOpenFiles": [
+    "垃圾袋/1679668207352.png",
+    "日记记录/2023-03-24_周五.md",
+    "证书笔记/PMP/错题集/第十三章 项目相关方管理.md",
     "日记记录/2023-03-23_周四.md",
     "证书笔记/PMP/错题集/第十二章 项目采购管理.md",
     "垃圾袋/Pasted image 20230323220449.png",
@@ -247,8 +262,6 @@
     "李狗蛋喜好.md",
     "视频笔记/纪录片",
     "视频笔记",
-    "证书笔记/PMP/错题集/第六章 项目进度管理.md",
-    "读书笔记/哲学宗教/道德经.md",
     "读书笔记/艺术",
     "读书笔记/人物传记",
     "读书笔记/漫画",
