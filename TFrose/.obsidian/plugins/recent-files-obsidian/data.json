@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "第十三章 项目相关方管理",
-      "path": "证书笔记/PMP/错题集/第十三章 项目相关方管理.md"
+      "basename": "作业练习题一",
+      "path": "证书笔记/PMP/错题集/作业练习题一.md"
+    },
+    {
+      "basename": "第十一章 项目风险管理",
+      "path": "证书笔记/PMP/错题集/第十一章 项目风险管理.md"
     },
     {
       "basename": "2023-03-24_周五",
       "path": "日记记录/2023-03-24_周五.md"
+    },
+    {
+      "basename": "第十三章 项目相关方管理",
+      "path": "证书笔记/PMP/错题集/第十三章 项目相关方管理.md"
     },
     {
       "basename": "2023-03-23_周四",
@@ -15,10 +23,6 @@
     {
       "basename": "第十二章 项目采购管理",
       "path": "证书笔记/PMP/错题集/第十二章 项目采购管理.md"
-    },
-    {
-      "basename": "第十一章 项目风险管理",
-      "path": "证书笔记/PMP/错题集/第十一章 项目风险管理.md"
     },
     {
       "basename": "2023-03-20_周一",
@@ -195,10 +199,6 @@
     {
       "basename": "configure的使用",
       "path": "知识库/Python/Python基础/configure的使用.md"
-    },
-    {
-      "basename": "第二章 标识符与变量",
-      "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
     }
   ],
   "omittedPaths": [],
