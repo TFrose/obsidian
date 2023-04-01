@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5a1d32a6c0649c19",
+        "id": "5efe0f5e93598c6d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a621266fef6436d",
+            "id": "642ca5b84f61b68c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记记录/2023-03-31_周五.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-03-31_周五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日记记录/2023-03-31_周五.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,14 +189,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6a621266fef6436d",
+  "active": "642ca5b84f61b68c",
   "lastOpenFiles": [
-    "日记记录/2023-03-30_周四.md",
-    "日记记录/2023-03-31_周五.md",
-    "日记记录/2023-03-29_周三.md",
-    "日记记录/2023-03-28_周二.md",
+    "日记记录/202303/2023-03-27_周一.md",
+    "日记记录/202303/2023-03-31_周五.md",
+    "日记记录/202303/2023-03-30_周四.md",
+    "日记记录/202303/2023-03-29_周三.md",
+    "日记记录/202303/2023-03-28_周二.md",
     "2023年上半年规划.md",
-    "日记记录/2023-03-27_周一.md",
     "日记记录/202303/2023-03-20_周一.md",
     "证书笔记/PMP/错题集/作业练习题一.md",
     "垃圾袋/Pasted image 20230326090705.png",
