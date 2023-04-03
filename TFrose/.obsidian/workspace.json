@@ -11,8 +11,12 @@
             "id": "642ca5b84f61b68c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记记录/2023-04-03_周一.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记记录/2023-04-03_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记记录/2023-04-03_周一.md"
+              }
             }
           },
           {
@@ -191,6 +198,7 @@
   },
   "active": "642ca5b84f61b68c",
   "lastOpenFiles": [
+    "日记记录/2023-04-03_周一.md",
     "日记记录/202303/2023-03-27_周一.md",
     "日记记录/202303/2023-03-31_周五.md",
     "日记记录/202303/2023-03-30_周四.md",
@@ -227,7 +235,6 @@
     "日记记录/202303",
     "日记记录/202303/2023-03-16_周四.md",
     "日记记录/202303/2023-03-15_周三.md",
-    "知识库/Python/数据分析/数据分析学习内容.md",
     "视频笔记/纪录片",
     "视频笔记",
     "读书笔记/艺术",
