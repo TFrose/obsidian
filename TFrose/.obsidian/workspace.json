@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f276463112345c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
+                "file": "日记记录/2023-04-03_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/复习笔记/第四章 项目整合管理.md"
+                "file": "日记记录/2023-04-03_周一.md"
               }
             }
           },
@@ -210,11 +197,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f276463112345c27",
+  "active": "661a1536bb1a6e8a",
   "lastOpenFiles": [
+    "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
     "垃圾袋/Pasted image 20230403164320.png",
     "日记记录/2023-04-03_周一.md",
-    "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
     "证书笔记/PMP/复习笔记",
     "视频笔记/纪录片.md",
     "年度规划",
@@ -235,7 +222,6 @@
     "垃圾袋/1679792293432.png",
     "垃圾袋/1679792051622.png",
     "垃圾袋/1679791824010.png",
-    "垃圾袋/Pasted image 20230326084525.png",
     "证书笔记/PMP/错题集/第十三章 项目相关方管理.md",
     "证书笔记/PMP/错题集/第十二章 项目采购管理.md",
     "证书笔记/PMP/错题集/第十一章 项目风险管理.md",
