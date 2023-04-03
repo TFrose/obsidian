@@ -171,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "16101ca95a767e19",
@@ -209,7 +210,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "f276463112345c27",
+  "active": "0c35527b83481898",
   "lastOpenFiles": [
     "日记记录/2023-04-03_周一.md",
     "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
