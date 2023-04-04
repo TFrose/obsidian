@@ -158,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4a5ffc41e3319351",
+  "active": "0c35527b83481898",
   "lastOpenFiles": [
     "视频笔记/纪录片/河西走廊.md",
     "视频笔记/纪录片.md",
