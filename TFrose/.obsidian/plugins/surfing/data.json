@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "60656593bcce8107",
-      "parent": 0,
-      "droppable": true,
-      "text": "4 河西走廊第二集--通道下_哔哩哔哩_bilibili",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
