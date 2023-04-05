@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书笔记/PMP/错题集/作业练习题二.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32ced3e6558203da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "证书笔记/PMP/错题集/作业练习题二.md",
+                "file": "视频笔记/纪录片/河西走廊.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/错题集/作业练习题二.md",
+                "file": "视频笔记/纪录片/河西走廊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/错题集/作业练习题二.md"
+                "file": "视频笔记/纪录片/河西走廊.md"
               }
             }
           },
@@ -197,6 +185,9 @@
   },
   "active": "c0a404da82ed5707",
   "lastOpenFiles": [
+    "视频笔记/纪录片/河西走廊.md",
+    "垃圾袋/Pasted image 20230405210745.png",
+    "证书笔记/PMP/错题集/作业练习题二.md",
     "垃圾袋/Pasted image 20230405192624.png",
     "垃圾袋/Pasted image 20230405191258.png",
     "垃圾袋/Pasted image 20230405190617.png",
@@ -206,14 +197,10 @@
     "垃圾袋/Pasted image 20230405185920.png",
     "垃圾袋/Pasted image 20230405185904.png",
     "垃圾袋/Pasted image 20230405185847.png",
-    "垃圾袋/Pasted image 20230405185820.png",
-    "垃圾袋/Pasted image 20230405185805.png",
     "证书笔记/PMP/错题集/作业练习题一.md",
-    "证书笔记/PMP/错题集/作业练习题二.md",
     "日记记录/2023-04-04_周二.md",
     "日记记录/2023-04-03_周一.md",
     "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
-    "视频笔记/纪录片/河西走廊.md",
     "视频笔记/纪录片.md",
     "日记记录/2022-10-09_周日.md",
     "docker和k8s/未命名.md",
