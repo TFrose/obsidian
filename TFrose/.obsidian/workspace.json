@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,8 +196,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "32ced3e6558203da",
+  "active": "ae9ff347ef7bd118",
   "lastOpenFiles": [
+    "垃圾袋/1680682132250.png",
     "垃圾袋/1680680866070.png",
     "垃圾袋/Pasted image 20230405153048.png",
     "垃圾袋/Pasted image 20230405125443.png",
@@ -210,7 +211,6 @@
     "垃圾袋/Pasted image 20230405122726.png",
     "证书笔记/PMP/错题集/作业练习题一.md",
     "证书笔记/PMP/错题集/作业练习题二.md",
-    "垃圾袋/Pasted image 20230405121941.png",
     "日记记录/2023-04-04_周二.md",
     "日记记录/2023-04-03_周一.md",
     "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
