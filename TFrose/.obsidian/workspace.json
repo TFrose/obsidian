@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,8 +196,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ae9ff347ef7bd118",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
+    "垃圾袋/Pasted image 20230405184031.png",
+    "垃圾袋/Pasted image 20230405183612.png",
+    "垃圾袋/Pasted image 20230405182930.png",
     "垃圾袋/1680682132250.png",
     "垃圾袋/1680680866070.png",
     "垃圾袋/Pasted image 20230405153048.png",
@@ -206,9 +209,6 @@
     "垃圾袋/Pasted image 20230405124724.png",
     "垃圾袋/Pasted image 20230405124249.png",
     "垃圾袋/Pasted image 20230405123547.png",
-    "垃圾袋/Pasted image 20230405123330.png",
-    "垃圾袋/Pasted image 20230405122912.png",
-    "垃圾袋/Pasted image 20230405122726.png",
     "证书笔记/PMP/错题集/作业练习题一.md",
     "证书笔记/PMP/错题集/作业练习题二.md",
     "日记记录/2023-04-04_周二.md",
