@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#根本原因分析",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,8 +183,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0c35527b83481898",
+  "active": "37636363ae07dd28",
   "lastOpenFiles": [
+    "垃圾袋/1680833866916.png",
+    "垃圾袋/Pasted image 20230407101522.png",
+    "垃圾袋/Pasted image 20230407101111.png",
+    "垃圾袋/Pasted image 20230407095659.png",
+    "垃圾袋/Pasted image 20230407095641.png",
+    "垃圾袋/Pasted image 20230407095109.png",
     "证书笔记/PMP/错题集/作业练习题一.md",
     "日记记录/2023-04-07_周五.md",
     "日记记录/2023-04-06_周四.md",
@@ -194,11 +200,6 @@
     "垃圾袋/Pasted image 20230406141913.png",
     "垃圾袋/Pasted image 20230406135906.png",
     "垃圾袋/Pasted image 20230406113216.png",
-    "垃圾袋/Pasted image 20230406112250.png",
-    "垃圾袋/Pasted image 20230406110255.png",
-    "垃圾袋/Pasted image 20230406105731.png",
-    "垃圾袋/Pasted image 20230406105520.png",
-    "垃圾袋/Pasted image 20230406105429.png",
     "证书笔记/PMP/错题集/第二章 项目运行环境.md",
     "视频笔记/纪录片/河西走廊.md",
     "日记记录/2023-04-04_周二.md",
