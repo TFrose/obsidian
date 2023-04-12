@@ -15,7 +15,6 @@
   "discordian-plugin",
   "obsidian-collapse-all-plugin",
   "obsidian-vault-statistics-plugin",
-  "obsidian-git",
   "nldates-obsidian",
   "buttons",
   "customizable-menu",
@@ -39,5 +38,6 @@
   "obsidian-timelines",
   "obsidian-annotator",
   "tag-wrangler",
-  "surfing"
+  "surfing",
+  "obsidian-git"
 ]
