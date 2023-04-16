@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -198,6 +199,7 @@
   },
   "active": "c3a4d1b197425e5f",
   "lastOpenFiles": [
+    "垃圾袋/Pasted image 20230416193552.png",
     "垃圾袋/Pasted image 20230416093037.png",
     "垃圾袋/Pasted image 20230416092439.png",
     "垃圾袋/Pasted image 20230416090537.png",
@@ -215,7 +217,6 @@
     "垃圾袋/Pasted image 20230414152134.png",
     "垃圾袋/Pasted image 20230414151844.png",
     "垃圾袋/Pasted image 20230414151123.png",
-    "垃圾袋/Pasted image 20230414150949.png",
     "证书笔记/PMP/错题集/第二章 项目运行环境.md",
     "日记记录/2023-04-13_周四.md",
     "日记记录/2023-04-12_周三.md",
