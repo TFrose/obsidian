@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3a4d1b197425e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/模考一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/复习笔记/疑难辨析.md",
+                "file": "证书笔记/PMP/错题集/模考一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/复习笔记/疑难辨析.md"
+                "file": "证书笔记/PMP/错题集/模考一.md"
               }
             }
           },
@@ -183,8 +196,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a848d13de084d81d",
+  "active": "c3a4d1b197425e5f",
   "lastOpenFiles": [
+    "垃圾袋/Pasted image 20230416093037.png",
+    "垃圾袋/Pasted image 20230416092439.png",
+    "垃圾袋/Pasted image 20230416090537.png",
+    "证书笔记/PMP/错题集/作业练习题二.md",
+    "证书笔记/PMP/错题集/模考一.md",
+    "垃圾袋/Pasted image 20230416090404.png",
+    "垃圾袋/Pasted image 20230416090348.png",
+    "证书笔记/PMP/错题集/作业练习题一.md",
+    "证书笔记/PMP/复习笔记/疑难辨析.md",
     "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
     "日记记录/2023-04-14_周五.md",
     "证书笔记/PMP/错题集/第四章 项目整合管理.md",
@@ -194,33 +216,24 @@
     "垃圾袋/Pasted image 20230414151844.png",
     "垃圾袋/Pasted image 20230414151123.png",
     "垃圾袋/Pasted image 20230414150949.png",
-    "垃圾袋/Pasted image 20230414150456.png",
-    "垃圾袋/Pasted image 20230414150117.png",
-    "垃圾袋/Pasted image 20230414145251.png",
-    "垃圾袋/Pasted image 20230414142036.png",
     "证书笔记/PMP/错题集/第二章 项目运行环境.md",
     "日记记录/2023-04-13_周四.md",
     "日记记录/2023-04-12_周三.md",
-    "证书笔记/PMP/复习笔记/疑难辨析.md",
     "日记记录/202304/2023-04-11_周二.md",
     "日记记录/202304/2023-04-03_周一.md",
     "日记记录/202304",
     "日记记录/202304/2023-04-10_周一.md",
     "视频笔记/纪录片/河西走廊.md",
     "读书笔记/杂类/相信.md",
-    "证书笔记/PMP/错题集/作业练习题二.md",
     "日记记录/202304/2023-04-07_周五.md",
     "证书笔记/PMP/错题集/第十二章 项目采购管理.md",
     "年度规划/四月旅行路线.md",
-    "证书笔记/PMP/错题集/作业练习题一.md",
     "日记记录/202304/2023-04-06_周四.md",
     "日记记录/202304/2023-04-04_周二.md",
     "视频笔记/纪录片.md",
     "日记记录/2022-10-09_周日.md",
     "docker和k8s/未命名.md",
     "abc.md",
-    "2022年下半年规划.md",
-    "Excalidraw/5G消息流程.md",
-    "软考设计师/考试大纲.md"
+    "2022年下半年规划.md"
   ]
 }
