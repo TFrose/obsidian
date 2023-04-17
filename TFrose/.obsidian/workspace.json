@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书笔记/PMP/复习笔记/疑难辨析.md",
+                "file": "证书笔记/PMP/错题集/模考一.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-04-17_周一.md",
+                "file": "证书笔记/PMP/错题集/模考一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-04-17_周一.md"
+                "file": "证书笔记/PMP/错题集/模考一.md"
               }
             }
           },
@@ -196,8 +195,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "afbb7091c5974add",
+  "active": "a848d13de084d81d",
   "lastOpenFiles": [
+    "垃圾袋/Pasted image 20230417211947.png",
+    "证书笔记/PMP/复习笔记/疑难辨析.md",
     "证书笔记/PMP/错题集/模考一.md",
     "垃圾袋/Pasted image 20230417172114.png",
     "垃圾袋/Pasted image 20230417171329.png",
@@ -213,7 +214,6 @@
     "日记记录/2023-04-17_周一.md",
     "证书笔记/PMP/错题集/作业练习题二.md",
     "证书笔记/PMP/错题集/作业练习题一.md",
-    "证书笔记/PMP/复习笔记/疑难辨析.md",
     "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
     "日记记录/2023-04-14_周五.md",
     "证书笔记/PMP/错题集/第四章 项目整合管理.md",
