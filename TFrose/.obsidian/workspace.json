@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-04-18_周二.md",
+                "file": "证书笔记/PMP/错题集/模考一.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#收尾流程",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-04-18_周二.md",
+                "file": "证书笔记/PMP/错题集/模考一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-04-18_周二.md"
+                "file": "证书笔记/PMP/错题集/模考一.md"
               }
             }
           },
@@ -159,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -185,8 +186,10 @@
   },
   "active": "f6a5a109fd74eaea",
   "lastOpenFiles": [
-    "年度规划/2023年上半年规划.md",
+    "垃圾袋/Pasted image 20230418221547.png",
+    "垃圾袋/Pasted image 20230418221135.png",
     "日记记录/2023-04-18_周二.md",
+    "年度规划/2023年上半年规划.md",
     "日记记录/2023-04-17_周一.md",
     "证书笔记/PMP/错题集/模考一.md",
     "垃圾袋/Pasted image 20230418170704.png",
@@ -198,7 +201,6 @@
     "垃圾袋/Pasted image 20230418165059.png",
     "垃圾袋/Pasted image 20230418164934.png",
     "垃圾袋/Pasted image 20230418164815.png",
-    "垃圾袋/Pasted image 20230418164544.png",
     "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
     "视频笔记/纪录片.md",
     "知识库/Python/数据分析/数据分析学习内容.md",
