@@ -11,8 +11,12 @@
             "id": "76f288e0b75af91c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "年度规划/2023年上半年规划.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "年度规划/2023年上半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "年度规划/2023年上半年规划.md"
+              }
             }
           },
           {
@@ -151,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,13 +184,14 @@
   },
   "active": "76f288e0b75af91c",
   "lastOpenFiles": [
+    "日记记录/2023-04-21_周五.md",
+    "日记记录/202304/2023-04-20_周四.md",
     "日记记录/202304/2023-04-12_周三.md",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "证书笔记/PMP/相关书籍/十五至尊图（打印版）.pdf",
     "证书笔记/PMP/相关书籍/略看-《敏捷实践指南》做题工具书.pdf",
     "证书笔记/PMP/相关书籍/PMBOK指南第6版（书签版）-4.8更正.pdf",
     "证书笔记/PMP/相关书籍/2.0精讲视频讲义--PMP5A备考宝典（扫描版，禁止外传）.pdf",
-    "日记记录/202304/2023-04-20_周四.md",
     "证书笔记/PMP/相关书籍",
     "证书笔记/PMP/错题集/模考一.md",
     "垃圾袋/Pasted image 20230420164952.png",
