@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "4f48d574257473d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3810113c936d1d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f288e0b75af91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "年度规划/2023年上半年规划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20b3500cc219be57",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b59a9dbd3c3383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8e25a3ff5b0cd6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbb7091c5974add",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "ae9ff347ef7bd118",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#收尾流程",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b644b9022d95006e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a1f337ead0e8cfd",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "72d7cd9c0ddcff48",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d5408196d03ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9419f04e15a5a4cf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dafad2df68a9719",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "年度规划/2023年上半年规划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbf1d085e2bfc724",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c35527b83481898",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "年度规划/2023年上半年规划.md"
+              }
+            }
+          },
+          {
+            "id": "640e6e0403a97b2b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9336c15d3339dbd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "76f288e0b75af91c",
+  "lastOpenFiles": [
+    "年度规划/2023年上半年规划.md",
+    "日记记录/2023-04-21_周五.md",
+    "日记记录/202304/2023-04-20_周四.md",
+    "日记记录/202304/2023-04-12_周三.md",
+    "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
+    "证书笔记/PMP/相关书籍/十五至尊图（打印版）.pdf",
+    "证书笔记/PMP/相关书籍/略看-《敏捷实践指南》做题工具书.pdf",
+    "证书笔记/PMP/相关书籍/PMBOK指南第6版（书签版）-4.8更正.pdf",
+    "证书笔记/PMP/相关书籍/2.0精讲视频讲义--PMP5A备考宝典（扫描版，禁止外传）.pdf",
+    "证书笔记/PMP/相关书籍",
+    "证书笔记/PMP/错题集/模考一.md",
+    "垃圾袋/Pasted image 20230420164952.png",
+    "垃圾袋/Pasted image 20230420153606.png",
+    "日记记录/202304/2023-04-19_周三.md",
+    "证书笔记/PMP/错题集/第五章 项目范围管理.md",
+    "垃圾袋/Pasted image 20230419224018.png",
+    "垃圾袋/Pasted image 20230419224006.png",
+    "垃圾袋/Pasted image 20230419223845.png",
+    "垃圾袋/Pasted image 20230419223714.png",
+    "垃圾袋/Pasted image 20230419223554.png",
+    "垃圾袋/Pasted image 20230419223312.png",
+    "垃圾袋/Pasted image 20230419223102.png",
+    "垃圾袋/Pasted image 20230419222821.png",
+    "证书笔记/PMP/错题集/第四章 项目整合管理.md",
+    "日记记录/202304/2023-04-18_周二.md",
+    "日记记录/202304/2023-04-17_周一.md",
+    "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
+    "视频笔记/纪录片.md",
+    "知识库/Python/数据分析/数据分析学习内容.md",
+    "模板库/普通模版.md",
+    "证书笔记/PMP/复习笔记/疑难辨析.md",
+    "证书笔记/PMP/错题集/作业练习题二.md",
+    "证书笔记/PMP/错题集/作业练习题一.md",
+    "日记记录/202304/2023-04-14_周五.md",
+    "证书笔记/PMP/错题集/第二章 项目运行环境.md",
+    "日记记录/202304/2023-04-13_周四.md",
+    "日记记录/202304/2023-04-11_周二.md",
+    "日记记录/202304/2023-04-03_周一.md",
+    "日记记录/202304",
+    "日记记录/202304/2023-04-10_周一.md",
+    "视频笔记/纪录片/河西走廊.md",
+    "读书笔记/杂类/相信.md",
+    "日记记录/202304/2023-04-07_周五.md"
+  ]
+}
