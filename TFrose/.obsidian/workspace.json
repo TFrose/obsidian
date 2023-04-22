@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -185,6 +186,8 @@
   },
   "active": "76f288e0b75af91c",
   "lastOpenFiles": [
+    "垃圾袋/Pasted image 20230422212639.png",
+    "垃圾袋/Pasted image 20230422212147.png",
     "垃圾袋/Pasted image 20230422122722.png",
     "垃圾袋/Pasted image 20230422093837.png",
     "年度规划/2023年上半年规划.md",
@@ -207,8 +210,6 @@
     "垃圾袋/Pasted image 20230419223845.png",
     "垃圾袋/Pasted image 20230419223714.png",
     "垃圾袋/Pasted image 20230419223554.png",
-    "垃圾袋/Pasted image 20230419223312.png",
-    "垃圾袋/Pasted image 20230419223102.png",
     "证书笔记/PMP/错题集/第四章 项目整合管理.md",
     "日记记录/202304/2023-04-18_周二.md",
     "日记记录/202304/2023-04-17_周一.md",
