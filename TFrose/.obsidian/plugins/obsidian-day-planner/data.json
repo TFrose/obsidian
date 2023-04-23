@@ -1,0 +1,31 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "date": "Mon Jul 18 2022"
+    },
+    {
+      "notePath": "Day Planners/2022-07-19.md",
+      "date": "Tue Jul 19 2022"
+    },
+    {
+      "notePath": "Day Planners/Day Planner-20221016.md",
+      "date": "Sun Oct 16 2022"
+    },
+    {
+      "notePath": "Day Planners/未命名.md",
+      "date": "Mon Oct 17 2022"
+    },
+    {
+      "notePath": "日记记录/2023-02-27_周一.md",
+      "date": "Mon Feb 27 2023"
+    }
+  ],
+  "completePastItems": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}
