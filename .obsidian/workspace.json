@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-04-24_周一.md",
+                "file": "视频笔记/纪录片.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-04-24_周一.md",
+                "file": "视频笔记/纪录片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-04-24_周一.md"
+                "file": "视频笔记/纪录片.md"
               }
             }
           },
@@ -166,12 +166,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal all": false,
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -179,14 +173,20 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "76f288e0b75af91c",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
+    "日记记录/202304/2023-04-24_周一.md",
     "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf",
-    "日记记录/2023-04-23_周日.md",
-    "日记记录/2023-04-24_周一.md",
+    "日记记录/202304/2023-04-23_周日.md",
     "证书笔记/PMP/错题集/模考一.md",
     "日记记录/202304/2023-04-21_周五.md",
     "年度规划/2023年上半年规划.md",
