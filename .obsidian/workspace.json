@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-04-28_周五.md",
+                "file": "日记记录/202304/2023-04-28_周五.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "145450225d571fa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "证书笔记/PMP/错题集/强化一.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-04-28_周五.md",
+                "file": "证书笔记/PMP/错题集/强化一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-04-28_周五.md"
+                "file": "证书笔记/PMP/错题集/强化一.md"
               }
             }
           },
@@ -162,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,19 +196,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13b2eb9faddcdf8c",
+  "active": "145450225d571fa1",
   "lastOpenFiles": [
-    "日记记录/2023-04-27_周四.md",
-    "日记记录/2023-04-28_周五.md",
+    "垃圾袋/Pasted image 20230429134119.png",
+    "垃圾袋/Pasted image 20230429133907.png",
+    "垃圾袋/Pasted image 20230429133828.png",
+    "垃圾袋/Pasted image 20230429133707.png",
+    "垃圾袋/Pasted image 20230429133439.png",
+    "垃圾袋/Pasted image 20230429133251.png",
+    "垃圾袋/Pasted image 20230429133106.png",
+    "垃圾袋/Pasted image 20230429132849.png",
+    "垃圾袋/Pasted image 20230429132748.png",
+    "垃圾袋/Pasted image 20230429132725.png",
+    "垃圾袋/Pasted image 20230429132538.png",
+    "日记记录/202304/2023-04-28_周五.md",
+    "日记记录/202304/2023-04-27_周四.md",
     "证书笔记/PMP/错题集/强化一.md",
-    "垃圾袋/Pasted image 20230428154325.png",
-    "垃圾袋/Pasted image 20230428115951.png",
-    "垃圾袋/Pasted image 20230428111032.png",
     "日记记录/202304/2023-04-25_周二.md",
     "证书笔记/PMP/错题集/模考一.md",
-    "垃圾袋/Pasted image 20230427160443.png",
-    "垃圾袋/Pasted image 20230427160313.png",
-    "垃圾袋/Pasted image 20230427160256.png",
     "日记记录/202304/2023-04-26_周三.md",
     "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf",
     "日记记录/202304/2023-04-24_周一.md",
@@ -210,12 +229,8 @@
     "证书笔记/PMP/相关书籍/PMBOK指南第6版（书签版）-4.8更正.pdf",
     "证书笔记/PMP/相关书籍/2.0精讲视频讲义--PMP5A备考宝典（扫描版，禁止外传）.pdf",
     "证书笔记/PMP/相关书籍",
-    "垃圾袋/Pasted image 20230420164952.png",
-    "垃圾袋/Pasted image 20230420153606.png",
     "日记记录/202304/2023-04-19_周三.md",
     "证书笔记/PMP/错题集/第五章 项目范围管理.md",
-    "垃圾袋/Pasted image 20230419224018.png",
-    "垃圾袋/Pasted image 20230419224006.png",
     "证书笔记/PMP/错题集/第四章 项目整合管理.md",
     "日记记录/202304/2023-04-18_周二.md",
     "日记记录/202304/2023-04-17_周一.md",
