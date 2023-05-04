@@ -93,6 +93,14 @@
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "f6a4011ae7b37ec4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
