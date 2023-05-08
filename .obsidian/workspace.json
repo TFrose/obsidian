@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -168,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,20 +193,20 @@
   },
   "active": "db14fa069eff9d83",
   "lastOpenFiles": [
-    "垃圾袋/Pasted image 20230507222359.png",
-    "垃圾袋/Pasted image 20230507222125.png",
-    "垃圾袋/Pasted image 20230507221853.png",
-    "垃圾袋/Pasted image 20230507221546.png",
-    "垃圾袋/Pasted image 20230507221314.png",
-    "垃圾袋/Pasted image 20230507215556.png",
-    "垃圾袋/Pasted image 20230507215204.png",
-    "垃圾袋/Pasted image 20230507215142.png",
-    "垃圾袋/Pasted image 20230507214516.png",
-    "垃圾袋/Pasted image 20230507214415.png",
-    "垃圾袋/Pasted image 20230507212128.png",
-    "证书笔记/PMP/错题集/强化一.md",
+    "日记记录/2023-05-08_周一.md",
     "证书笔记/PMP/错题集/强化二.md",
+    "垃圾袋/Pasted image 20230508175613.png",
+    "垃圾袋/Pasted image 20230508175008.png",
+    "垃圾袋/Pasted image 20230508173926.png",
+    "垃圾袋/Pasted image 20230508173754.png",
+    "垃圾袋/Pasted image 20230508171929.png",
+    "垃圾袋/Pasted image 20230508171848.png",
+    "垃圾袋/Pasted image 20230508170744.png",
+    "垃圾袋/1683536667838.png",
+    "垃圾袋/Pasted image 20230508170157.png",
+    "垃圾袋/Pasted image 20230508164540.png",
     "日记记录/2023-05-06_周六.md",
+    "证书笔记/PMP/错题集/强化一.md",
     "日记记录/2023-05-05_周五.md",
     "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
@@ -238,7 +237,6 @@
     "证书笔记/PMP/相关书籍/PMBOK指南第6版（书签版）-4.8更正.pdf",
     "证书笔记/PMP/相关书籍/2.0精讲视频讲义--PMP5A备考宝典（扫描版，禁止外传）.pdf",
     "证书笔记/PMP/相关书籍",
-    "日记记录/202304/2023-04-19_周三.md",
     "日记记录/202304"
   ]
 }
