@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-05-09_周二.md",
+                "file": "证书笔记/PMP/错题集/第六章 项目进度管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-05-09_周二.md",
+                "file": "证书笔记/PMP/错题集/第六章 项目进度管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-05-09_周二.md"
+                "file": "证书笔记/PMP/错题集/第六章 项目进度管理.md"
               }
             }
           },
@@ -166,7 +167,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -192,19 +194,21 @@
   },
   "active": "db14fa069eff9d83",
   "lastOpenFiles": [
-    "日记记录/2023-05-08_周一.md",
+    "垃圾袋/Pasted image 20230509232637.png",
+    "垃圾袋/Pasted image 20230509232521.png",
+    "垃圾袋/Pasted image 20230509232246.png",
+    "垃圾袋/Pasted image 20230509232204.png",
+    "垃圾袋/Pasted image 20230509232050.png",
+    "垃圾袋/Pasted image 20230509231833.png",
+    "垃圾袋/Pasted image 20230509231659.png",
+    "证书笔记/PMP/错题集/第五章 项目范围管理.md",
     "日记记录/2023-05-09_周二.md",
+    "日记记录/2023-05-08_周一.md",
     "证书笔记/PMP/错题集/强化二.md",
     "垃圾袋/Pasted image 20230508225736.png",
     "垃圾袋/Pasted image 20230508225709.png",
     "垃圾袋/Pasted image 20230508225533.png",
     "垃圾袋/Pasted image 20230508225443.png",
-    "垃圾袋/Pasted image 20230508225041.png",
-    "垃圾袋/Pasted image 20230508224957.png",
-    "垃圾袋/Pasted image 20230508224818.png",
-    "垃圾袋/Pasted image 20230508224738.png",
-    "垃圾袋/Pasted image 20230508224341.png",
-    "垃圾袋/Pasted image 20230508223923.png",
     "日记记录/2023-05-06_周六.md",
     "证书笔记/PMP/错题集/强化一.md",
     "日记记录/2023-05-05_周五.md",
@@ -212,7 +216,6 @@
     "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
     "证书笔记/PMP/复习笔记/疑难辨析.md",
-    "证书笔记/PMP/错题集/第五章 项目范围管理.md",
     "日记记录/2023-05-04_周四.md",
     "证书笔记/PMP/错题集/作业练习题一.md",
     "证书笔记/PMP/错题集/第四章 项目整合管理.md",
@@ -230,7 +233,6 @@
     "日记记录/202304/2023-04-21_周五.md",
     "年度规划/2023年上半年规划.md",
     "日记记录/202304/2023-04-20_周四.md",
-    "日记记录/202304/2023-04-12_周三.md",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "证书笔记/PMP/相关书籍/十五至尊图（打印版）.pdf",
     "证书笔记/PMP/相关书籍/略看-《敏捷实践指南》做题工具书.pdf",
