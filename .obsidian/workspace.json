@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -192,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c35527b83481898",
+  "active": "db14fa069eff9d83",
   "lastOpenFiles": [
     "垃圾袋/Pasted image 20230513100117.png",
     "垃圾袋/Pasted image 20230513095912.png",
