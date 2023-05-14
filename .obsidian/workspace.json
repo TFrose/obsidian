@@ -167,7 +167,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db14fa069eff9d83",
+  "active": "0c35527b83481898",
   "lastOpenFiles": [
     "垃圾袋/Pasted image 20230513100117.png",
     "垃圾袋/Pasted image 20230513095912.png",
