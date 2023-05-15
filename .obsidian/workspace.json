@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书笔记/PMP/错题集/敏捷专项练习题一.md",
+                "file": "证书笔记/PMP/错题集/模考三.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/错题集/敏捷专项练习题一.md",
+                "file": "证书笔记/PMP/错题集/模考三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/错题集/敏捷专项练习题一.md"
+                "file": "证书笔记/PMP/错题集/模考三.md"
               }
             }
           },
@@ -193,19 +194,20 @@
   },
   "active": "db14fa069eff9d83",
   "lastOpenFiles": [
-    "垃圾袋/Pasted image 20230513100117.png",
-    "垃圾袋/Pasted image 20230513095912.png",
-    "垃圾袋/Pasted image 20230513095847.png",
-    "垃圾袋/Pasted image 20230513095810.png",
-    "垃圾袋/Pasted image 20230513095523.png",
-    "垃圾袋/Pasted image 20230513095308.png",
-    "垃圾袋/Pasted image 20230513095151.png",
-    "垃圾袋/Pasted image 20230513095013.png",
-    "垃圾袋/Pasted image 20230513094636.png",
-    "垃圾袋/Pasted image 20230513094442.png",
-    "垃圾袋/Pasted image 20230513093456.png",
-    "日记记录/2023-05-12_周五.md",
+    "垃圾袋/Pasted image 20230515192706.png",
+    "垃圾袋/Pasted image 20230515192554.png",
+    "垃圾袋/Pasted image 20230515192354.png",
+    "垃圾袋/Pasted image 20230515192129.png",
+    "垃圾袋/Pasted image 20230515190449.png",
+    "垃圾袋/Pasted image 20230515190430.png",
+    "垃圾袋/Pasted image 20230515190256.png",
+    "垃圾袋/Pasted image 20230515180713.png",
+    "垃圾袋/Pasted image 20230515180535.png",
+    "垃圾袋/Pasted image 20230515180110.png",
+    "垃圾袋/Pasted image 20230515174750.png",
     "证书笔记/PMP/错题集/敏捷专项练习题一.md",
+    "证书笔记/PMP/错题集/模考三.md",
+    "日记记录/2023-05-12_周五.md",
     "证书笔记/PMP/错题集/强化二.md",
     "日记记录/2023-05-11_周四.md",
     "日记记录/2023-05-10_周三.md",
@@ -230,7 +232,6 @@
     "日记记录/202304/2023-04-28_周五.md",
     "日记记录/202304/2023-04-27_周四.md",
     "日记记录/202304/2023-04-25_周二.md",
-    "日记记录/202304/2023-04-26_周三.md",
     "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "证书笔记/PMP/相关书籍/十五至尊图（打印版）.pdf",
