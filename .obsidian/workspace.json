@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书笔记/PMP/错题集/模考三.md",
+                "file": "日记记录/2023-05-17_周三.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/PMP/错题集/模考三.md",
+                "file": "日记记录/2023-05-17_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/PMP/错题集/模考三.md"
+                "file": "日记记录/2023-05-17_周三.md"
               }
             }
           },
@@ -167,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,6 +192,8 @@
   },
   "active": "db14fa069eff9d83",
   "lastOpenFiles": [
+    "证书笔记/PMP/错题集/模考三.md",
+    "日记记录/2023-05-17_周三.md",
     "垃圾袋/Pasted image 20230516145321.png",
     "垃圾袋/Pasted image 20230516074436.png",
     "垃圾袋/Pasted image 20230516074326.png",
@@ -204,9 +204,7 @@
     "垃圾袋/Pasted image 20230516073550.png",
     "垃圾袋/Pasted image 20230516073337.png",
     "垃圾袋/Pasted image 20230516073259.png",
-    "垃圾袋/Pasted image 20230516073028.png",
     "证书笔记/PMP/错题集/敏捷专项练习题一.md",
-    "证书笔记/PMP/错题集/模考三.md",
     "日记记录/2023-05-12_周五.md",
     "证书笔记/PMP/错题集/强化二.md",
     "日记记录/2023-05-11_周四.md",
