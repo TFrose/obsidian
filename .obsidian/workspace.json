@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0f157927b125563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记记录/2023-05-26_周五.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-05-25_周四.md",
+                "file": "日记记录/2023-05-26_周五.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-05-25_周四.md"
+                "file": "日记记录/2023-05-26_周五.md"
               }
             }
           },
@@ -183,17 +196,19 @@
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e6df66c322ca3df9",
+  "active": "b0f157927b125563",
   "lastOpenFiles": [
-    "日记记录/2023-05-24_周三.md",
     "日记记录/2023-05-25_周四.md",
+    "日记记录/2023-05-26_周五.md",
+    "日记记录/2023-05-26_Fri.md",
+    "日记记录/2023-05-24_周三.md",
     "日记记录/2023-05-23_周二.md",
     "证书笔记/PMP/错题集/第十三章 项目相关方管理.md",
     "垃圾袋/Pasted image 20230522215814.png",
@@ -227,9 +242,7 @@
     "日记记录/2023-05-08_周一.md",
     "日记记录/2023-05-06_周六.md",
     "证书笔记/PMP/错题集/强化一.md",
-    "日记记录/2023-05-05_周五.md",
     "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
-    "证书笔记/PMP/复习笔记/第四章 项目整合管理.md",
     "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "证书笔记/PMP/相关书籍/十五至尊图（打印版）.pdf",

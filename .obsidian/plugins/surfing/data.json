@@ -45,10 +45,10 @@
   },
   "treeData": [
     {
-      "id": "0e59c125a87534a5",
+      "id": "7be823370e21e0c6",
       "parent": 0,
       "droppable": true,
-      "text": "Download - Obsidian",
+      "text": "New Tab",
       "data": {
         "fileType": "site",
         "fileSize": "",
