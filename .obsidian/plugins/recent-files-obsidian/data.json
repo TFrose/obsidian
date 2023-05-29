@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023年上半年规划",
+      "path": "年度规划/2023年上半年规划.md"
+    },
+    {
       "basename": "2023-05-29_周一",
       "path": "日记记录/2023-05-29_周一.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "初识docker",
       "path": "知识库/docker和k8s/初识docker.md"
-    },
-    {
-      "basename": "2023年上半年规划",
-      "path": "年度规划/2023年上半年规划.md"
     },
     {
       "basename": "2023-05-04_周四",

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6be1d543eb24821e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记记录/2023-05-29_周一.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-05-29_周一.md",
+                "file": "年度规划/2023年上半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-05-29_周一.md"
+                "file": "年度规划/2023年上半年规划.md"
               }
             }
           },
@@ -203,12 +190,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6be1d543eb24821e",
+  "active": "b0f157927b125563",
   "lastOpenFiles": [
+    "日记记录/2023-05-29_周一.md",
     "知识库/docker和k8s/docker镜像构建.md",
     "知识库/docker和k8s/安装k8s.md",
     "知识库/docker和k8s/初识docker.md",
-    "日记记录/2023-05-29_周一.md",
     "年度规划/2023年上半年规划.md",
     "日记记录/202305/2023-05-04_周四.md",
     "日记记录/202305/2023-05-26_周五.md",
