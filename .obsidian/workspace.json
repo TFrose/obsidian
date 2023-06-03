@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,13 +183,14 @@
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa8e25a3ff5b0cd6",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
     "日记记录/2023-06-01_周四.md",
     "日记记录/2023-06-02_周五.md",
