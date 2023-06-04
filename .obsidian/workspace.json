@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-06-02_周五.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-06-02_周五.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-06-02_周五.md"
+                "file": "README.md"
               }
             }
           },
@@ -190,10 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afbb7091c5974add",
+  "active": "b0f157927b125563",
   "lastOpenFiles": [
-    "日记记录/2023-06-01_周四.md",
     "日记记录/2023-06-02_周五.md",
+    "日记记录/2023-06-01_周四.md",
     "日记记录/202305/2023-05-31_周三.md",
     "日记记录/202305/2023-05-29_周一.md",
     "日记记录/202305/2023-05-30_周二.md",

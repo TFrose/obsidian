@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "2023-06-02_周五",
       "path": "日记记录/2023-06-02_周五.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "纪录片",
       "path": "视频笔记/纪录片.md"
-    },
-    {
-      "basename": "2023-04-23_周日",
-      "path": "日记记录/202304/2023-04-23_周日.md"
     }
   ],
   "omittedPaths": [],
