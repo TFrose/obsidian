@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "414ef4d082dc7a7b",
+      "parent": 0,
+      "droppable": true,
+      "text": "1.Python的自述_哔哩哔哩_bilibili",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

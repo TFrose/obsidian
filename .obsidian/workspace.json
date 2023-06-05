@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6312d765d34c399",
+        "id": "6f68dbd472812129",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0e222688517883",
+            "id": "210d9ee30d308454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-06-05_周一.md",
+                "file": "知识库/Python/Python基础/第一章 Python简介.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-06-05_周一.md",
+                "file": "知识库/Python/Python基础/第一章 Python简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-06-05_周一.md"
+                "file": "知识库/Python/Python基础/第一章 Python简介.md"
               }
             }
           },
@@ -190,8 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f0e222688517883",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
+    "知识库/Python/Python基础/第二章 标识符与变量.md",
+    "知识库/Python/Python基础/第一章 Python简介.md",
+    "知识库/Python/Python基础/configure的使用.md",
+    "知识库/Python/Python基础/第一章 Python.md",
+    "年度规划/2023年上半年规划.md",
     "日记记录/2023-06-05_周一.md",
     "README.md",
     "日记记录/2023-06-02_周五.md",
@@ -199,7 +204,6 @@
     "日记记录/202305/2023-05-31_周三.md",
     "日记记录/202305/2023-05-29_周一.md",
     "日记记录/202305/2023-05-30_周二.md",
-    "年度规划/2023年上半年规划.md",
     "年度规划/四月旅行路线.md",
     "知识库/docker和k8s/docker镜像构建.md",
     "知识库/docker和k8s/安装k8s.md",
@@ -226,10 +230,6 @@
     "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/错题集/冲刺二.md",
     "垃圾袋/Pasted image 20230521141901.png",
-    "证书笔记/PMP/错题集/冲刺一.md",
-    "日记记录/202305/2023-05-19_周五.md",
-    "日记记录/202305/2023-05-18_周四.md",
-    "证书笔记/PMP/错题集/敏捷专项练习题一.md",
     "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
