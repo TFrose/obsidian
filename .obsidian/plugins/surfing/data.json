@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "5ecded1d6098b932",
-      "parent": 0,
-      "droppable": true,
-      "text": "7.二进制与字符编码_哔哩哔哩_bilibili",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
