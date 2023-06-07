@@ -22,7 +22,7 @@ tags: [python教程]
 
 ## 5.输出函数print
 [5.输出函数print_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=6&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26)
-注：原字符的最后一个字符不能是反斜线
 
 ## 6.转义字符
 [6.转义字符与原字符_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wD4y1o7AS/?p=7&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26)
+注：原字符的最后一个字符不能是反斜线

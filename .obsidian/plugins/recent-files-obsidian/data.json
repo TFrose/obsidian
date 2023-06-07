@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-06_周二",
-      "path": "日记记录/2023-06-06_周二.md"
+      "basename": "第二章 标识符与变量",
+      "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
     },
     {
-      "basename": "2023-06-05_周一",
-      "path": "日记记录/2023-06-05_周一.md"
+      "basename": "2023-06-07_周三",
+      "path": "日记记录/2023-06-07_周三.md"
+    },
+    {
+      "basename": "2023-06-06_周二",
+      "path": "日记记录/2023-06-06_周二.md"
     },
     {
       "basename": "第一章 Python简介",
       "path": "知识库/Python/Python基础/第一章 Python简介.md"
     },
     {
-      "basename": "第二章 标识符与变量",
-      "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
+      "basename": "2023-06-05_周一",
+      "path": "日记记录/2023-06-05_周一.md"
     },
     {
       "basename": "configure的使用",
@@ -195,10 +199,6 @@
     {
       "basename": "作业练习题二",
       "path": "证书笔记/PMP/错题集/作业练习题二.md"
-    },
-    {
-      "basename": "2023-04-28_周五",
-      "path": "日记记录/202304/2023-04-28_周五.md"
     }
   ],
   "omittedPaths": [],
