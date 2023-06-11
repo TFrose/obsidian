@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第三章 运算符的使用",
+      "path": "知识库/Python/Python基础/第三章 运算符的使用.md"
+    },
+    {
       "basename": "第二章 标识符与变量",
       "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第四章 项目整合管理",
       "path": "证书笔记/PMP/错题集/第四章 项目整合管理.md"
-    },
-    {
-      "basename": "模考二",
-      "path": "证书笔记/PMP/错题集/模考二.md"
     }
   ],
   "omittedPaths": [],
