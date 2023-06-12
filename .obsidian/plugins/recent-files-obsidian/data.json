@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-06-12_周一",
+      "path": "日记记录/2023-06-12_周一.md"
+    },
+    {
       "basename": "第三章 运算符的使用",
       "path": "知识库/Python/Python基础/第三章 运算符的使用.md"
     },
     {
-      "basename": "第二章 标识符与变量",
-      "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
-    },
-    {
       "basename": "2023-06-09_周五",
       "path": "日记记录/2023-06-09_周五.md"
+    },
+    {
+      "basename": "第二章 标识符与变量",
+      "path": "知识库/Python/Python基础/第二章 标识符与变量.md"
     },
     {
       "basename": "2023-06-08_周四",
@@ -195,10 +199,6 @@
     {
       "basename": "作业练习题一",
       "path": "证书笔记/PMP/错题集/作业练习题一.md"
-    },
-    {
-      "basename": "第四章 项目整合管理",
-      "path": "证书笔记/PMP/错题集/第四章 项目整合管理.md"
     }
   ],
   "omittedPaths": [],
