@@ -49,7 +49,10 @@
     "知识库/Python/Python基础": [
       "知识库/Python/Python基础/configure的使用.md",
       "知识库/Python/Python基础/第一章 Python简介.md",
-      "知识库/Python/Python基础/第二章 标识符与变量.md"
+      "知识库/Python/Python基础/第二章 标识符与变量.md",
+      "知识库/Python/Python基础/第三章 运算符的使用.md",
+      "知识库/Python/Python基础/第四章 执行结构.md",
+      "知识库/Python/Python基础/第五章 流程控制语句.md"
     ],
     "知识库/docker和k8s": [
       "知识库/docker和k8s/未命名.md",

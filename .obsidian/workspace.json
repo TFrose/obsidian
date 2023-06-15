@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Python/Python基础/第五章 流程控制语句.md",
+                "file": "日记记录/2023-06-15_周四.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/Python/Python基础/第五章 流程控制语句.md",
+                "file": "日记记录/2023-06-15_周四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/Python/Python基础/第五章 流程控制语句.md"
+                "file": "日记记录/2023-06-15_周四.md"
               }
             }
           },
@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,12 +190,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8f3edee9a700ee9",
+  "active": "afbb7091c5974add",
   "lastOpenFiles": [
-    "日记记录/2023-06-14_周三.md",
     "知识库/Python/Python基础/第五章 流程控制语句.md",
-    "垃圾袋/Pasted image 20230614174139.png",
+    "日记记录/2023-06-15_周四.md",
     "知识库/Python/Python基础/第四章 执行结构.md",
+    "日记记录/2023-06-14_周三.md",
+    "垃圾袋/Pasted image 20230614174139.png",
     "垃圾袋/Pasted image 20230614164634.png",
     "日记记录/2023-06-13_周二.md",
     "日记记录/2023-06-12_周一.md",
