@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第六章 列表",
+      "path": "知识库/Python/Python基础/第六章 列表.md"
+    },
+    {
       "basename": "第五章 流程控制语句",
       "path": "知识库/Python/Python基础/第五章 流程控制语句.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第五章 项目范围管理",
       "path": "证书笔记/PMP/错题集/第五章 项目范围管理.md"
-    },
-    {
-      "basename": "2023-05-09_周二",
-      "path": "日记记录/202305/2023-05-09_周二.md"
     }
   ],
   "omittedPaths": [],
