@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "375dccb9096c666e",
-      "parent": 0,
-      "droppable": true,
-      "text": "47.列表的特点_哔哩哔哩_bilibili",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
