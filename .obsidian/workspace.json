@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "12cc3acb702a8202",
+        "id": "748a8084b1e54247",
         "type": "tabs",
         "children": [
           {
-            "id": "98491c93fdad9638",
+            "id": "5954985c88387e96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "日记记录/2023-06-20_周二.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32e87f01eecaf1e3",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=76&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
+              }
             }
           }
         ]
@@ -114,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记记录/2023-06-20_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记记录/2023-06-20_周二.md"
+              }
             }
           },
           {
@@ -163,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +200,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98491c93fdad9638",
+  "active": "5954985c88387e96",
   "lastOpenFiles": [
-    "日记记录/202306/2023-06-19_周一.md",
+    "知识库/Python/Python基础/第十章 字符串.md",
+    "知识库/Python/Python基础/第九章 集合.md",
+    "垃圾袋/Pasted image 20230620153333.png",
+    "垃圾袋/Pasted image 20230620153103.png",
+    "知识库/Python/Python基础/第八章 元组.md",
     "知识库/Python/Python基础/第七章 字典.md",
+    "日记记录/2023-06-20_周二.md",
+    "日记记录/202306/2023-06-19_周一.md",
     "日记记录/202306/2023-06-01_周四.md",
     "日记记录/202306",
     "垃圾袋/Pasted image 20230619170857.png",
@@ -214,15 +236,10 @@
     "日记记录/202306/2023-06-05_周一.md",
     "知识库/Python/Python基础/configure的使用.md",
     "知识库/Python/Python基础/第一章 Python.md",
-    "README.md",
-    "日记记录/202306/2023-06-02_周五.md",
-    "日记记录/202305/2023-05-31_周三.md",
     "日记记录/202305",
     "垃圾袋/Pasted image 20230522215814.png",
     "垃圾袋/Pasted image 20230522215655.png",
     "垃圾袋/Pasted image 20230522215529.png",
-    "垃圾袋/Pasted image 20230522213653.png",
-    "垃圾袋/Pasted image 20230522211247.png",
     "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf",
