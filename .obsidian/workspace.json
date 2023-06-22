@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/202306/2023-06-20_周二.md",
+                "file": "日记记录/2023-06-22_周四.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce1e7174a3206dd1",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=83&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日记记录/2023-06-22_周四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "日记记录/2023-06-22_周四.md"
+              }
             }
           },
           {
@@ -198,9 +190,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce1e7174a3206dd1",
+  "active": "fa99ae9a6703dd8d",
   "lastOpenFiles": [
     "日记记录/202306/2023-06-20_周二.md",
+    "日记记录/2023-06-22_周四.md",
     "知识库/Python/Python基础/第十章 字符串.md",
     "日记记录/202306/2023-06-21_周三.md",
     "知识库/Python/Python基础/第九章 集合.md",
@@ -233,7 +226,6 @@
     "日记记录/202306/2023-06-06_周二.md",
     "知识库/Python/Python基础/第一章 Python简介.md",
     "日记记录/202306/2023-06-05_周一.md",
-    "知识库/Python/Python基础/configure的使用.md",
     "日记记录/202305",
     "垃圾袋/Pasted image 20230522215814.png",
     "垃圾袋/Pasted image 20230522215655.png",
