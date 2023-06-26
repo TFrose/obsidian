@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Python/Python基础/第十章 字符串.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "927f278a1354e939",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=85&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
-              }
-            }
-          },
-          {
-            "id": "e301057e9e1df42f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记记录/2023-06-25_周日.md",
+                "file": "日记记录/2023-06-26_周一.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-06-25_周日.md",
+                "file": "日记记录/2023-06-26_周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-06-25_周日.md"
+                "file": "日记记录/2023-06-26_周一.md"
               }
             }
           },
@@ -213,10 +190,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e301057e9e1df42f",
+  "active": "fa99ae9a6703dd8d",
   "lastOpenFiles": [
-    "日记记录/2023-06-25_周日.md",
+    "知识库/Python/Python基础/第十一章 函数的介绍.md",
     "知识库/Python/Python基础/第十章 字符串.md",
+    "日记记录/2023-06-26_周一.md",
+    "日记记录/2023-06-25_周日.md",
     "日记记录/2023-06-22_周四.md",
     "日记记录/202306/2023-06-20_周二.md",
     "日记记录/202306/2023-06-21_周三.md",
@@ -247,8 +226,6 @@
     "知识库/Python/Python基础/第二章 标识符与变量.md",
     "日记记录/202306/2023-06-08_周四.md",
     "日记记录/202306/2023-06-07_周三.md",
-    "日记记录/202306/2023-06-06_周二.md",
-    "知识库/Python/Python基础/第一章 Python简介.md",
     "日记记录/202305",
     "垃圾袋/Pasted image 20230522215814.png",
     "垃圾袋/Pasted image 20230522215655.png",

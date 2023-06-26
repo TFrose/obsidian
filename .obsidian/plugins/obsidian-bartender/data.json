@@ -54,7 +54,11 @@
       "知识库/Python/Python基础/第四章 执行结构.md",
       "知识库/Python/Python基础/第五章 流程控制语句.md",
       "知识库/Python/Python基础/第六章 列表.md",
-      "知识库/Python/Python基础/第七章 字典.md"
+      "知识库/Python/Python基础/第七章 字典.md",
+      "知识库/Python/Python基础/第八章 元组.md",
+      "知识库/Python/Python基础/第九章 集合.md",
+      "知识库/Python/Python基础/第十章 字符串.md",
+      "知识库/Python/Python基础/第十一章 函数的介绍.md"
     ],
     "知识库/docker和k8s": [
       "知识库/docker和k8s/未命名.md",
