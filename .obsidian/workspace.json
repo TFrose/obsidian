@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "450280ac5d807235",
+        "id": "fce1a451a397f2a1",
         "type": "tabs",
         "children": [
           {
-            "id": "fa99ae9a6703dd8d",
+            "id": "7fdabea086bca82f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-06-26_周一.md",
+                "file": "日记记录/2023-06-27_周二.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-06-26_周一.md",
+                "file": "日记记录/2023-06-27_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-06-26_周一.md"
+                "file": "日记记录/2023-06-27_周二.md"
               }
             }
           },
@@ -190,11 +190,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa99ae9a6703dd8d",
+  "active": "7fdabea086bca82f",
   "lastOpenFiles": [
+    "知识库/Python/Python基础/第十二章 bug的由来.md",
+    "垃圾袋/Pasted image 20230627153921.png",
+    "垃圾袋/Pasted image 20230627152056.png",
     "知识库/Python/Python基础/第十一章 函数的介绍.md",
-    "知识库/Python/Python基础/第十章 字符串.md",
+    "垃圾袋/Pasted image 20230627103409.png",
+    "日记记录/2023-06-27_周二.md",
     "日记记录/2023-06-26_周一.md",
+    "知识库/Python/Python基础/第十章 字符串.md",
     "日记记录/2023-06-25_周日.md",
     "日记记录/2023-06-22_周四.md",
     "日记记录/202306/2023-06-20_周二.md",
@@ -223,13 +228,7 @@
     "日记记录/202306/2023-06-12_周一.md",
     "知识库/Python/Python基础/第三章 运算符的使用.md",
     "日记记录/202306/2023-06-09_周五.md",
-    "知识库/Python/Python基础/第二章 标识符与变量.md",
-    "日记记录/202306/2023-06-08_周四.md",
-    "日记记录/202306/2023-06-07_周三.md",
     "日记记录/202305",
-    "垃圾袋/Pasted image 20230522215814.png",
-    "垃圾袋/Pasted image 20230522215655.png",
-    "垃圾袋/Pasted image 20230522215529.png",
     "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf",

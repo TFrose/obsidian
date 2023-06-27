@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-06-26_周一",
-      "path": "日记记录/2023-06-26_周一.md"
+      "basename": "2023-06-27_周二",
+      "path": "日记记录/2023-06-27_周二.md"
+    },
+    {
+      "basename": "第十二章 bug的由来",
+      "path": "知识库/Python/Python基础/第十二章 bug的由来.md"
     },
     {
       "basename": "第十一章 函数的介绍",
       "path": "知识库/Python/Python基础/第十一章 函数的介绍.md"
+    },
+    {
+      "basename": "2023-06-26_周一",
+      "path": "日记记录/2023-06-26_周一.md"
     },
     {
       "basename": "第十章 字符串",
@@ -191,14 +199,6 @@
     {
       "basename": "冲刺二",
       "path": "证书笔记/PMP/错题集/冲刺二.md"
-    },
-    {
-      "basename": "冲刺一",
-      "path": "证书笔记/PMP/错题集/冲刺一.md"
-    },
-    {
-      "basename": "2023-05-19_周五",
-      "path": "日记记录/202305/2023-05-19_周五.md"
     }
   ],
   "omittedPaths": [],
