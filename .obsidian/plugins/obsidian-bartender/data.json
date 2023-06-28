@@ -58,7 +58,9 @@
       "知识库/Python/Python基础/第八章 元组.md",
       "知识库/Python/Python基础/第九章 集合.md",
       "知识库/Python/Python基础/第十章 字符串.md",
-      "知识库/Python/Python基础/第十一章 函数的介绍.md"
+      "知识库/Python/Python基础/第十一章 函数的介绍.md",
+      "知识库/Python/Python基础/第十二章 bug的由来.md",
+      "知识库/Python/Python基础/第十三章 类的定义.md"
     ],
     "知识库/docker和k8s": [
       "知识库/docker和k8s/未命名.md",
