@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/Python/Python基础/第十六章 文件的操作.md",
+                "file": "年度规划/2023年上半年规划.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "105ad6fcbcbab358",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=129&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
               }
             }
           },
@@ -35,14 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-07-03_周一.md",
+                "file": "日记记录/2023-07-04_周二.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e1a6949a5b461b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/Python/Python基础/第十六章 文件的操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8e294de8acd4a83",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=132&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-07-03_周一.md",
+                "file": "日记记录/2023-07-04_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-07-03_周一.md"
+                "file": "日记记录/2023-07-04_周二.md"
               }
             }
           },
@@ -213,16 +225,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afbb7091c5974add",
+  "active": "b1779f633f4781bc",
   "lastOpenFiles": [
+    "知识库/Python/Python基础/第十六章 文件的操作.md",
+    "日记记录/2023-07-04_周二.md",
+    "年度规划/2023年上半年规划.md",
     "日记记录/2023-06-30_周五.md",
     "日记记录/2023-07-03_周一.md",
-    "知识库/Python/Python基础/第十六章 文件的操作.md",
     "垃圾袋/Pasted image 20230703173855.png",
     "知识库/Python/Python基础/第十五章 模块的使用.md",
     "垃圾袋/Pasted image 20230703171536.png",
     "知识库/Python/Python基础/第十四章 面向对象.md",
-    "年度规划/2023年上半年规划.md",
     "垃圾袋/Pasted image 20230630181519.png",
     "垃圾袋/Pasted image 20230630145208.png",
     "年度规划/李狗蛋喜好.md",
