@@ -20,19 +20,7 @@
             }
           },
           {
-            "id": "b1779f633f4781bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记记录/2023-07-04_周二.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e1a6949a5b461b3",
+            "id": "fc2300262149dd9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,17 +32,29 @@
             }
           },
           {
-            "id": "d8e294de8acd4a83",
+            "id": "2c523d2775df1ae1",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=132&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
+                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS?p=133&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
+              }
+            }
+          },
+          {
+            "id": "b2ce938e71efbcc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记记录/2023-07-05_周三.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-07-04_周二.md",
+                "file": "日记记录/2023-07-05_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-07-04_周二.md"
+                "file": "日记记录/2023-07-05_周三.md"
               }
             }
           },
@@ -225,12 +225,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1779f633f4781bc",
+  "active": "b2ce938e71efbcc2",
   "lastOpenFiles": [
+    "日记记录/202306/2023-06-22_周四.md",
     "知识库/Python/Python基础/第十六章 文件的操作.md",
+    "知识库/Python/Python基础/第十七章 目录的操作.md",
+    "日记记录/2023-07-05_周三.md",
     "日记记录/2023-07-04_周二.md",
     "年度规划/2023年上半年规划.md",
-    "日记记录/2023-06-30_周五.md",
+    "日记记录/202306/2023-06-30_周五.md",
     "日记记录/2023-07-03_周一.md",
     "垃圾袋/Pasted image 20230703173855.png",
     "知识库/Python/Python基础/第十五章 模块的使用.md",
@@ -239,20 +242,19 @@
     "垃圾袋/Pasted image 20230630181519.png",
     "垃圾袋/Pasted image 20230630145208.png",
     "年度规划/李狗蛋喜好.md",
-    "日记记录/2023-06-29_周四.md",
-    "日记记录/2023-06-28_周三.md",
+    "日记记录/202306/2023-06-29_周四.md",
+    "日记记录/202306/2023-06-28_周三.md",
     "知识库/Python/Python基础/第十三章 类的定义.md",
     "垃圾袋/Pasted image 20230628164536.png",
     "知识库/Python/Python基础/第十二章 bug的由来.md",
-    "日记记录/2023-06-27_周二.md",
+    "日记记录/202306/2023-06-27_周二.md",
     "垃圾袋/Pasted image 20230627153921.png",
     "垃圾袋/Pasted image 20230627152056.png",
     "知识库/Python/Python基础/第十一章 函数的介绍.md",
     "垃圾袋/Pasted image 20230627103409.png",
-    "日记记录/2023-06-26_周一.md",
+    "日记记录/202306/2023-06-26_周一.md",
     "知识库/Python/Python基础/第十章 字符串.md",
-    "日记记录/2023-06-25_周日.md",
-    "日记记录/2023-06-22_周四.md",
+    "日记记录/202306/2023-06-25_周日.md",
     "日记记录/202306/2023-06-20_周二.md",
     "日记记录/202306/2023-06-21_周三.md",
     "知识库/Python/Python基础/第九章 集合.md",
@@ -261,9 +263,7 @@
     "知识库/Python/Python基础/第八章 元组.md",
     "知识库/Python/Python基础/第七章 字典.md",
     "日记记录/202306/2023-06-19_周一.md",
-    "日记记录/202306/2023-06-01_周四.md",
     "日记记录/202306",
-    "知识库/Python/Python基础/第六章 列表.md",
     "日记记录/202305",
     "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
     "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
