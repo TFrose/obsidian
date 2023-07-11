@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-07-10_周一.md",
+                "file": "知识库/Python/Python基础/第十七章 学生信息管理系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2553f3e349aa138a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.bilibili.com/video/BV1wD4y1o7AS/?p=138&spm_id_from=pageDriver&vd_source=2029b6b0b60ecbc6cf63989bfa56dd26"
+              }
+            }
+          },
+          {
+            "id": "5f20904200521ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记记录/2023-07-11_周二.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-07-10_周一.md",
+                "file": "日记记录/2023-07-11_周二.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-07-10_周一.md"
+                "file": "日记记录/2023-07-11_周二.md"
               }
             }
           },
@@ -190,11 +213,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "754375fc0361e778",
+  "active": "5f20904200521ca0",
   "lastOpenFiles": [
-    "知识库/Python/Python基础/第十六章 文件的操作.md",
-    "日记记录/2023-07-10_周一.md",
     "知识库/Python/Python基础/第十七章 学生信息管理系统.md",
+    "知识库/Python/Python基础/第十六章 文件的操作.md",
+    "日记记录/2023-07-11_周二.md",
+    "日记记录/2023-07-10_周一.md",
     "年度规划/2023年下半年规划.md",
     "垃圾袋/Pasted image 20230710115216.png",
     "年度规划/2023年上半年规划.md",
@@ -226,7 +250,6 @@
     "日记记录/202306/2023-06-26_周一.md",
     "知识库/Python/Python基础/第十章 字符串.md",
     "日记记录/202306/2023-06-25_周日.md",
-    "日记记录/202306/2023-06-20_周二.md",
     "垃圾袋/Pasted image 20230620153333.png",
     "日记记录/202306",
     "日记记录/202305",
