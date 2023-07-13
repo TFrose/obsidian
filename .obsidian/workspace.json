@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/202307/2023-07-12_周三.md",
+                "file": "知识库/Python/Python基础/第十七章 学生信息管理系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d351c54215fa918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记记录/2023-07-13_周四.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/202307/2023-07-12_周三.md",
+                "file": "日记记录/2023-07-13_周四.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/202307/2023-07-12_周三.md"
+                "file": "日记记录/2023-07-13_周四.md"
               }
             }
           },
@@ -190,12 +203,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e63512a443d5850",
+  "active": "8d351c54215fa918",
   "lastOpenFiles": [
-    "日记记录/202307/2023-07-03_周一.md",
-    "知识库/Python/Python基础/第十七章 学生信息管理系统.md",
-    "日记记录/202307",
     "日记记录/202307/2023-07-12_周三.md",
+    "日记记录/2023-07-13_周四.md",
+    "知识库/Python/Python基础/第十七章 学生信息管理系统.md",
+    "日记记录/202307/2023-07-03_周一.md",
+    "日记记录/202307",
     "日记记录/202307/2023-07-11_周二.md",
     "年度规划/四月旅行路线.md",
     "年度规划/2023年下半年规划.md",
