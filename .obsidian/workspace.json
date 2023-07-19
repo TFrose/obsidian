@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ec756cf95117461",
+            "id": "2bcb09e7d81223f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记记录/2023-07-18_周二.md",
+                "file": "日记记录/2023-07-19_周三.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记记录/2023-07-18_周二.md",
+                "file": "日记记录/2023-07-19_周三.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记记录/2023-07-18_周二.md"
+                "file": "日记记录/2023-07-19_周三.md"
               }
             }
           },
@@ -166,7 +166,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,23 +191,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ec756cf95117461",
+  "active": "2bcb09e7d81223f4",
   "lastOpenFiles": [
-    "日记记录/2023-07-17_周一.md",
+    "证书笔记/信息系统项目管理师/项目管理核心知识/第二章 项目立项管理.md",
+    "垃圾袋/Pasted image 20230719135150.png",
+    "垃圾袋/Pasted image 20230719134501.png",
+    "垃圾袋/Pasted image 20230719134103.png",
+    "证书笔记/信息系统项目管理师/项目管理核心知识/第一章 项目管理概论.md",
+    "日记记录/2023-07-19_周三.md",
     "日记记录/2023-07-18_周二.md",
-    "证书笔记/信息系统项目管理师/项目管理核心知识/项目管理概论.md",
+    "垃圾袋/Pasted image 20230719082003.png",
+    "垃圾袋/Pasted image 20230719081415.png",
+    "垃圾袋/Pasted image 20230719080604.png",
+    "垃圾袋/Pasted image 20230719074932.png",
+    "垃圾袋/Pasted image 20230719074831.png",
+    "日记记录/2023-07-17_周一.md",
     "垃圾袋/Pasted image 20230717083835.png",
     "垃圾袋/Pasted image 20230717082616.png",
     "证书笔记/信息系统项目管理师/项目管理核心知识",
     "证书笔记/信息系统项目管理师/导学.md",
-    "垃圾袋/Pasted image 20230717080050.png",
-    "垃圾袋/Pasted image 20230717075935.png",
-    "垃圾袋/Pasted image 20230717075632.png",
-    "垃圾袋/Pasted image 20230717075430.png",
-    "垃圾袋/Pasted image 20230717075310.png",
-    "垃圾袋/Pasted image 20230717075034.png",
-    "垃圾袋/Pasted image 20230717074939.png",
-    "垃圾袋/Pasted image 20230717074907.png",
     "证书笔记/PMP/错题集/第一章  引论.md",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "知识库/Python/Python基础/第十七章 学生信息管理系统.md",
@@ -228,9 +231,6 @@
     "知识库/Python/Python基础/第十七章 目录的操作.md",
     "日记记录/202307/2023-07-04_周二.md",
     "日记记录/202306/2023-06-30_周五.md",
-    "知识库/Python/Python基础/第十五章 模块的使用.md",
-    "知识库/Python/Python基础/第十四章 面向对象.md",
-    "年度规划/李狗蛋喜好.md",
     "日记记录/202306",
     "日记记录/202305",
     "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
