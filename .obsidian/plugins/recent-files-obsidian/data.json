@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-08-15_周二",
+      "path": "日记记录/2023-08-15_周二.md"
+    },
+    {
       "basename": "2023-08-14_周一",
       "path": "日记记录/2023-08-14_周一.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "第十三章 类的定义",
       "path": "知识库/Python/Python基础/第十三章 类的定义.md"
-    },
-    {
-      "basename": "第十二章 bug的由来",
-      "path": "知识库/Python/Python基础/第十二章 bug的由来.md"
     }
   ],
   "omittedPaths": [],
