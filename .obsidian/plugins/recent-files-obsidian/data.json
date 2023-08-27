@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "戴戴戴师兄",
+      "path": "知识库/数据分析/戴戴戴师兄.md"
+    },
+    {
+      "basename": "Tableau了解",
+      "path": "知识库/Tableau/Tableau了解.md"
+    },
+    {
       "basename": "2023年下半年规划",
       "path": "年度规划/2023年下半年规划.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2023-06-30_周五",
       "path": "日记记录/202306/2023-06-30_周五.md"
-    },
-    {
-      "basename": "第十五章 模块的使用",
-      "path": "知识库/Python/Python基础/第十五章 模块的使用.md"
-    },
-    {
-      "basename": "第十四章 面向对象",
-      "path": "知识库/Python/Python基础/第十四章 面向对象.md"
     }
   ],
   "omittedPaths": [],
