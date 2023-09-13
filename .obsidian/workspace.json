@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/数据分析/戴戴戴师兄.md",
+                "file": "年度规划/2023年下半年规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/数据分析/戴戴戴师兄.md",
+                "file": "年度规划/2023年下半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/数据分析/戴戴戴师兄.md"
+                "file": "年度规划/2023年下半年规划.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "4da7c51a1f755f13",
   "lastOpenFiles": [
-    "知识库/Tableau/Tableau了解.md",
     "知识库/数据分析/戴戴戴师兄.md",
+    "知识库/Tableau/Tableau了解.md",
     "年度规划/2023年下半年规划.md",
     "知识库/数据分析",
     "知识库/Tableau/未命名.md",
