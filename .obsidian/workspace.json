@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "年度规划/脾虚痰湿问题解决.md",
+                "file": "知识库/数据分析/Excel/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c6ef3917accea0df",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/Obsidian.1.4.14.exe"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知识库/数据分析/Excel/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知识库/数据分析/Excel/未命名.md"
+              }
             }
           },
           {
@@ -199,15 +191,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c6ef3917accea0df",
+  "active": "26441d6fe059ad68",
   "lastOpenFiles": [
+    "知识库/数据分析/戴戴戴师兄.md",
+    "知识库/数据分析/Excel/未命名.md",
+    "知识库/数据分析/Excel",
+    "知识库/数据分析/Power BI",
     "年度规划/脾虚痰湿问题解决.md",
     "年度规划/2023年下半年规划.md",
     "年度规划/四月旅行路线.md",
     "日记记录/2023-08-23_周三.md",
     "年度规划/2023年上半年规划.md",
-    "知识库/数据分析/戴戴戴师兄.md",
-    "知识库/Tableau/Tableau了解.md",
+    "知识库/数据分析/Tableau/Tableau了解.md",
     "知识库/数据分析",
     "知识库/Tableau/未命名.md",
     "垃圾袋/Pasted image 20230827125813.png",
@@ -230,7 +225,6 @@
     "日记记录/202307/2023-07-31_周一.md",
     "日记记录/202307/2023-07-28_周五.md",
     "日记记录/202307/2023-07-27_周四.md",
-    "日记记录/202307/2023-07-26_周三.md",
     "垃圾袋/Pasted image 20230724083812.png",
     "垃圾袋/Pasted image 20230724081447.png",
     "垃圾袋/Pasted image 20230724080345.png",
@@ -244,8 +238,6 @@
     "日记记录/202307",
     "日记记录/202306",
     "日记记录/202305",
-    "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
-    "证书笔记/PMP/相关书籍/PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf",
-    "证书笔记/PMP/相关书籍/~~$《知识点集锦》-3.5.pdf"
+    "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf"
   ]
 }
