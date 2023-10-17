@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "未命名",
-      "path": "知识库/数据分析/Excel/未命名.md"
+      "basename": "第二章 公式与函数",
+      "path": "知识库/数据分析/Excel/第二章 公式与函数.md"
+    },
+    {
+      "basename": "第一章 Excel简介及操作技巧",
+      "path": "知识库/数据分析/Excel/第一章 Excel简介及操作技巧.md"
     },
     {
       "basename": "戴戴戴师兄",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-07-05_周三",
       "path": "日记记录/202307/2023-07-05_周三.md"
-    },
-    {
-      "basename": "2023-06-22_周四",
-      "path": "日记记录/202306/2023-06-22_周四.md"
     }
   ],
   "omittedPaths": [],
