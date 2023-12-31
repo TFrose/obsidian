@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1704004842070,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1704004842070,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1704004842070,
+              "path": "年度规划/2022年下半年规划.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\年度规划"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

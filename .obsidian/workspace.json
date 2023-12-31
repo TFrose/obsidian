@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6efa902ea1b2ce7",
+        "id": "8fa19a4312845a82",
         "type": "tabs",
         "children": [
           {
-            "id": "26441d6fe059ad68",
+            "id": "16bb9ce04392b4a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/数据分析/Excel/第五章 数据分析流程.md",
+                "file": "年度规划/2024年上半年规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,18 +74,18 @@
             }
           },
           {
-            "id": "5a1f337ead0e8cfd",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
-          },
-          {
             "id": "f6a4011ae7b37ec4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c623ebf47eb93e0",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
               "state": {}
             }
           }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 200
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识库/数据分析/Excel/第五章 数据分析流程.md",
+                "file": "年度规划/2024年上半年规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,16 +146,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/数据分析/Excel/第五章 数据分析流程.md"
+                "file": "年度规划/2024年上半年规划.md"
               }
-            }
-          },
-          {
-            "id": "640e6e0403a97b2b",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           },
           {
@@ -165,16 +157,34 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9f786c8f2f0cb9bf",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "df71d74b11c1a14c",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,20 +193,27 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
+      "obsidian-day-planner:Timeline": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
       "privacy-glasses:Reveal all": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afbb7091c5974add",
+  "active": "16bb9ce04392b4a5",
   "lastOpenFiles": [
+    "年度规划/2023年下半年规划.md",
+    "年度规划/2024年上半年规划.md",
+    "日记记录/2023-12-31_周日.md",
+    "知识库/docker和k8s/初识docker.md",
+    "年度规划/四月旅行路线.md",
+    "年度规划/未命名看板.md",
+    "知识库/数据分析/Excel/第五章 数据分析流程.md",
     "知识库/数据分析/Power BI",
     "知识库/数据分析/戴戴戴师兄.md",
-    "知识库/数据分析/Excel/第五章 数据分析流程.md",
-    "年度规划/2023年下半年规划.md",
     "年度规划/脾虚痰湿问题解决.md",
     "知识库/数据分析/Excel/第四章 图表.md",
     "知识库/数据分析/Excel/第三章 数据透视表.md",
@@ -204,7 +221,6 @@
     "知识库/数据分析/Excel/第二章 公式与函数.md",
     "知识库/数据分析/Excel",
     "知识库/数据分析/Power BI",
-    "年度规划/四月旅行路线.md",
     "日记记录/2023-08-23_周三.md",
     "年度规划/2023年上半年规划.md",
     "知识库/数据分析/Tableau/Tableau了解.md",
@@ -222,9 +238,6 @@
     "日记记录/202308/2023-08-10_周四.md",
     "日记记录/202308/2023-08-09_周三.md",
     "日记记录/202308/2023-08-08_周二.md",
-    "日记记录/202308/2023-08-07_周一.md",
-    "日记记录/202308/2023-08-04_周五.md",
-    "日记记录/202308/2023-08-03_周四.md",
     "垃圾袋/Pasted image 20230724083812.png",
     "垃圾袋/Pasted image 20230724081447.png",
     "垃圾袋/Pasted image 20230724080345.png",
@@ -237,7 +250,6 @@
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "日记记录/202307",
     "日记记录/202306",
-    "日记记录/202305",
-    "证书笔记/PMP/相关书籍/~~$PMP备考九阴真经—项目管理十大知识领域输入输出、工具和技术暨知识点汇总.pdf"
+    "日记记录/202305"
   ]
 }
