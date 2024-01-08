@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "使用Docker部署Prometheus + Grafana 监控平台",
-      "path": "知识库/docker和k8s/使用Docker部署Prometheus + Grafana 监控平台.md"
-    },
-    {
       "basename": "2024年上半年规划",
       "path": "年度规划/2024年上半年规划.md"
+    },
+    {
+      "basename": "使用Docker部署Prometheus + Grafana 监控平台",
+      "path": "知识库/docker和k8s/使用Docker部署Prometheus + Grafana 监控平台.md"
     },
     {
       "basename": "2023年下半年规划",
