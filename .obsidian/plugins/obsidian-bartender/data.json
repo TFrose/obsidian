@@ -1,7 +1,13 @@
 {
   "statusBarOrder": [],
   "ribbonBarOrder": [],
-  "fileExplorerOrder": {},
+  "fileExplorerOrder": {
+    "证书笔记/信息系统项目管理师": [
+      "证书笔记/信息系统项目管理师/导学.md",
+      "证书笔记/信息系统项目管理师/项目管理核心知识",
+      "证书笔记/信息系统项目管理师/错题集"
+    ]
+  },
   "actionBarOrder": {},
   "autoHide": true,
   "autoHideDelay": 2000,
