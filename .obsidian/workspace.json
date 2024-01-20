@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "年度规划/2024年上半年规划.md",
+                "file": "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,11 +90,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5
   },
   "right": {
     "id": "72d7cd9c0ddcff48",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "年度规划/2024年上半年规划.md",
+                "file": "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "年度规划/2024年上半年规划.md"
+                "file": "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md"
               }
             }
           },
@@ -183,7 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "custom-sort:Toggle custom sorting": false,
       "obsidian42-brat:BRAT": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -203,8 +202,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed42d37c5d5447d4",
+  "active": "f6a4011ae7b37ec4",
   "lastOpenFiles": [
+    "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md",
+    "垃圾袋/Pasted image 20240120131853.png",
+    "垃圾袋/Pasted image 20240120131745.png",
+    "垃圾袋/Pasted image 20240120131456.png",
+    "垃圾袋/Pasted image 20240120131246.png",
+    "垃圾袋/Pasted image 20240120130947.png",
+    "垃圾袋/Pasted image 20240120130813.png",
+    "垃圾袋/Pasted image 20240120130628.png",
+    "垃圾袋/Pasted image 20240120130228.png",
+    "垃圾袋/Pasted image 20240120130025.png",
+    "证书笔记/PMP/错题集/第一章  引论.md",
+    "证书笔记/信息系统项目管理师/导学.md",
+    "证书笔记/信息系统项目管理师/错题集",
+    "证书笔记/信息系统项目管理师/项目管理核心知识/第一章 项目管理概论.md",
     "年度规划/2024年上半年规划.md",
     "知识库/docker和k8s/使用Docker部署.md",
     "年度规划/2023年下半年规划.md",
@@ -228,28 +241,13 @@
     "知识库/数据分析",
     "知识库/Tableau/未命名.md",
     "垃圾袋/Pasted image 20230827125813.png",
-    "垃圾袋/Pasted image 20230827124446.png",
     "日记记录/202308/2023-08-01_周二.md",
     "日记记录/202308",
     "日记记录/202308/2023-08-16_周三.md",
     "年度规划/2022年下半年规划.md",
-    "日记记录/202308/2023-08-15_周二.md",
-    "日记记录/202308/2023-08-14_周一.md",
-    "日记记录/202308/2023-08-11_周五.md",
-    "日记记录/202308/2023-08-10_周四.md",
-    "日记记录/202308/2023-08-09_周三.md",
-    "垃圾袋/Pasted image 20230724083812.png",
-    "垃圾袋/Pasted image 20230724081447.png",
-    "垃圾袋/Pasted image 20230724080345.png",
-    "垃圾袋/Pasted image 20230719135150.png",
-    "垃圾袋/Pasted image 20230719134501.png",
-    "垃圾袋/Pasted image 20230719134103.png",
-    "垃圾袋/Pasted image 20230719082003.png",
-    "垃圾袋/Pasted image 20230719081415.png",
     "证书笔记/信息系统项目管理师/项目管理核心知识",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "日记记录/202307",
-    "日记记录/202306",
-    "日记记录/202305"
+    "日记记录/202306"
   ]
 }
