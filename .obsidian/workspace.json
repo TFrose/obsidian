@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md",
+                "file": "证书笔记/信息系统项目管理师/错题集/第二章 项目立项管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md",
+                "file": "证书笔记/信息系统项目管理师/错题集/第二章 项目立项管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md"
+                "file": "证书笔记/信息系统项目管理师/错题集/第二章 项目立项管理.md"
               }
             }
           },
@@ -198,14 +198,17 @@
       "privacy-glasses:Reveal headlines only": false,
       "privacy-glasses:Reveal all": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ec69fb2be71678a6",
   "lastOpenFiles": [
-    "垃圾袋/Pasted image 20230311220957.png",
+    "垃圾袋/Pasted image 20240121142954.png",
+    "垃圾袋/Pasted image 20240121141949.png",
+    "垃圾袋/Pasted image 20240121141552.png",
     "证书笔记/信息系统项目管理师/错题集/第一章 项目管理概论.md",
+    "证书笔记/信息系统项目管理师/错题集/第二章 项目立项管理.md",
+    "垃圾袋/Pasted image 20230311220957.png",
     "垃圾袋/Pasted image 20240120131853.png",
     "垃圾袋/Pasted image 20240120131745.png",
     "垃圾袋/Pasted image 20240120131456.png",
@@ -213,8 +216,6 @@
     "垃圾袋/Pasted image 20240120130947.png",
     "垃圾袋/Pasted image 20240120130813.png",
     "垃圾袋/Pasted image 20240120130628.png",
-    "垃圾袋/Pasted image 20240120130228.png",
-    "垃圾袋/Pasted image 20240120130025.png",
     "证书笔记/PMP/错题集/第一章  引论.md",
     "证书笔记/信息系统项目管理师/导学.md",
     "证书笔记/信息系统项目管理师/错题集",
@@ -241,11 +242,9 @@
     "知识库/数据分析/Tableau/Tableau了解.md",
     "知识库/数据分析",
     "知识库/Tableau/未命名.md",
-    "垃圾袋/Pasted image 20230827125813.png",
     "日记记录/202308/2023-08-01_周二.md",
     "日记记录/202308",
     "日记记录/202308/2023-08-16_周三.md",
-    "年度规划/2022年下半年规划.md",
     "证书笔记/信息系统项目管理师/项目管理核心知识",
     "证书笔记/PMP/相关书籍/《知识点集锦》-3.5.pdf",
     "日记记录/202307",
