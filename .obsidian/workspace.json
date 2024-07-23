@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "653c27358af25e0e",
+        "id": "720c626c0d42c51b",
         "type": "tabs",
         "children": [
           {
-            "id": "68e3fcd1ee949520",
+            "id": "27a74fbd6e989eee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/2024-07-23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -71,6 +75,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "db0bf6c3d9f3a204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc2a1919b464f32e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/2024-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/2024-07-23.md"
+              }
             }
           },
           {
@@ -150,21 +171,13 @@
               "type": "timeline",
               "state": {}
             }
-          },
-          {
-            "id": "dc2a1919b464f32e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 637.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +201,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "68e3fcd1ee949520",
+  "active": "27a74fbd6e989eee",
   "lastOpenFiles": [
-    "日记记录/2024-07-21_周日.md",
     "日记记录/2024-07-22_周一.md",
+    "日记记录/2023-08-23_周三.md",
+    "Day Planners/2024-07-23.md",
+    "日记记录/2024-07-21_周日.md",
     "日记记录/2024-07-23_周二.md",
     "模板库/笔记模版.md",
     "证书笔记/信息系统项目管理师/错题集/第二章 项目立项管理.md",
@@ -227,9 +242,7 @@
     "知识库/数据分析/Excel/第二章 公式与函数.md",
     "知识库/数据分析/Excel",
     "知识库/数据分析/Power BI",
-    "日记记录/2023-08-23_周三.md",
     "年度规划/2023年上半年规划.md",
-    "知识库/数据分析/Tableau/Tableau了解.md",
     "知识库/数据分析",
     "日记记录/202308",
     "证书笔记/信息系统项目管理师/项目管理核心知识",
