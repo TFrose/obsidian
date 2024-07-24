@@ -16,6 +16,12 @@
             }
           ],
           "title": "\\\\年度规划"
+        },
+        {
+          "type": "group",
+          "ctime": 1721830619423,
+          "items": [],
+          "title": "模板库"
         }
       ],
       "title": "sortspec"

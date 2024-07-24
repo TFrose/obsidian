@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "720c626c0d42c51b",
+        "id": "cc737a982642c422",
         "type": "tabs",
         "children": [
           {
-            "id": "27a74fbd6e989eee",
+            "id": "95dd7ffde7a4024b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/2024-07-23.md",
+                "file": "模板库/工作记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/2024-07-23.md",
+                "file": "模板库/工作记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/2024-07-23.md"
+                "file": "模板库/工作记录.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -201,14 +201,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "27a74fbd6e989eee",
+  "active": "e9336c15d3339dbd",
   "lastOpenFiles": [
+    "模板库/笔记模版.md",
+    "Day Planners/2024-07-24.md",
+    "模板库/工作记录.md",
+    "模板库/普通模版.md",
+    "模板库/会议模版.md",
+    "Day Planners/2024-07-23.md",
     "日记记录/2024-07-22_周一.md",
     "日记记录/2023-08-23_周三.md",
-    "Day Planners/2024-07-23.md",
     "日记记录/2024-07-21_周日.md",
     "日记记录/2024-07-23_周二.md",
-    "模板库/笔记模版.md",
     "证书笔记/信息系统项目管理师/错题集/第二章 项目立项管理.md",
     "垃圾袋/Pasted image 20240127094437.png",
     "垃圾袋/Pasted image 20240121142954.png",
@@ -237,12 +241,8 @@
     "知识库/数据分析/戴戴戴师兄.md",
     "年度规划/脾虚痰湿问题解决.md",
     "知识库/数据分析/Excel/第四章 图表.md",
-    "知识库/数据分析/Excel/第三章 数据透视表.md",
-    "知识库/数据分析/Excel/第一章 Excel简介及操作技巧.md",
-    "知识库/数据分析/Excel/第二章 公式与函数.md",
     "知识库/数据分析/Excel",
     "知识库/数据分析/Power BI",
-    "年度规划/2023年上半年规划.md",
     "知识库/数据分析",
     "日记记录/202308",
     "证书笔记/信息系统项目管理师/项目管理核心知识",
